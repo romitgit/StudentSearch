@@ -1,0 +1,995 @@
+14001***Aabhas mathur***Btech***MSE***Hall 5, c-310***aabhasm***O+***M***Manish mathur***1436-a rk puram, null, kota, rajasthan, india***Kota
+14002***Aaditya aanand***Btech***CE***Hall 10, b-434***aaaditya***A+***M***Vijay prasad***Bari sangat road, betwan bazar, munger, bihar, india***Munger
+14003***Aakanksha singh***Btech***BSBE***Hall 6, ghtb-313***aaksingh***O+***F***Manvendra singh***H-73 windsor hills, infront of boston college, sirol road, gwalior, madhya pradesh, india***Gwalior
+14004***Aakash bhatia***Bs***PHY***Hall 3, 336***aakashak***B+***M***Neeraj bhatia***30 balbinder apartments, a6 paschim vihar, delhi, delhi, india***Delhi
+14005***Aashutosh tiwari***Bs***MTH***Hall 2, 315***aashut***O+***M***Dhanraj tiwari***59,  krishnpura, dewas, madhya pradesh, dewas, madhya pradesh, india***Dewas
+14006***Aayush dwivedi***Btech***ME***Hall 2, 133***aayushdw***O+***M***Brij raj dwivedi***Prabhu niketan,  north mandiri, null, patna, bihar, india***Patna
+14007***Aayush kumar harne***Bs***ECO***Hall 2, 228***aayushkh***B+***M***Ashok kumar harne***37 sahakar nagar,  rampur,  mpseb colony, jabalpur, madhya pradesh, india***Jabalpur
+14008***Aayush kumar singh***Btech***CE***Hall 2, 219***kaayush***B+***M***Om prakash singh***Plot no.565/2 tara nagar colony, chhittupur, varanasi, u.p., india***Varanasi
+14009***Abhijeet singh***Btech***CE***Hall 2, 330***abhisin***B+***M***Yogender singh***D-213/a bhaskar marg bani park, jaipur, rajasthan, india***Jaipur
+14010***Abhinandan shukla***Bs***MTH***Hall 3, 235***abhinand***O+***M***Sanjay shukla***C-98,  govindpuri, gwalior, madhya pradesh, india***Gwalior
+14011***Abhinav agrawal***Btech***CE***Hall 10, b-403***abhiagwl***O+***M***Umesh babu agrawal***Q-303 anupam apartment, east arjunnagar, delhi, delhi, india***Delhi
+14012***Abhinav bhanawat***Btech***ME***Hall 2, 334***babhinav***A-***M***Shekhar bhanawat***A-1 pratapnagar, chittorgarh, rajasthan, india***Chittorgarh
+14013***Abhinav garg***Btech***CSE***Hall 10, c-405***abhigarg***O-***M***Mukesh kumar garg***2617,  popsingh mohalla, , nasirabad, ajmer, rajasthan, india***Ajmer
+14014***Abhinav prakash***Bs***MTH***Hall 3, 140***abhinavp***B-***M***Kesh nath singh***Cd-607,  site-5,  sector-2, h.e.c. colony dhurwa, ranchi, jharkhand, india***Ranchi
+14015***Abhinav sharma***Btech***BSBE***Hall 2, 231***abhishar***Ab+***M***Kriishna kumar sharma***90-a govind nagar mathura, mathura, u.p., india***Mathura
+14016***Abhineet singh rajput***Btech***MSE***Hall 3, 122***abhineet***B+***M***Ravi kishore rajput***Mig a-1235 hanspuram naubasta, awas vikas, kanpur, u.p., india***Kanpur
+14017***Abhishek agarwal***Btech***CHE***Hall 5, c-108***agabhi***O+***M***Raj kumar agarwal***Nayaganj,  above maya garments, chaki bazaar, hathras, u.p., india***Hathras
+14018***Abhishek bansal***Btech***CHE***Hall 10, b-432***abbansal***A+***M***Gopal ram bansal***House no. 379, krishna nagar, bharatpur, rajasthan, india***Bharatpur
+14019***Abhishek goyal***Btech***CE***Hall 2, 225***abgoyal***B+***M***Girish goyal***21, agarsen colony, pali marwar, rajasthan, india***Pali marwar
+14020***Abhishek kumar***Btech***EE***Hall 5, e-109***kuabhish***B+***M***Vinod kumar singh ***Satyam nagar, barwadda road, dhanbad, jharkhand, india***Dhanbad
+14021***Abhishek maher***Btech***CSE***Hall 10, c-409***maher***O+***M***Bharat lal meena***V.p. raysana, tehsil-nandoti, karauli, rajasthan, india***Karauli
+14022***Abhishek meena***Btech***ME***Hall 3, 225***mabhishk***B+***M***Ram swaroop meena***Railway quarter no.-4033, , main residency road, near rotary circle, jodhpur, rajasthan, india***Jodhpur
+14023***Abhishek rai***Btech***CHE***Hall 5, c-311***abhirai***A+***M***Mahesh kumar rai***Near hotel karthik,  veersavakar ward, bina, madhya pradesh, india***Bina
+14024***Abhishek raj sahoo***Btech***EE***Hall 3, 125***abhiraj***O+***M***Suresh chandra sahoo***1d subhoshree appartments bariatu road, ranchi, jharkhand, india***Ranchi
+14025***Abhishek singh dhakre***Btech***CE***Hall 2, 127***dhakre***B+***M***Ravindra singh dhakre***58 saraswati nagar,  university road, govindpuri, gwalior, madhya pradesh, india***Gwalior
+14026***Abhishek verma***Btech***CSE***Hall 3, 336***abhivm***A+***M***Anil dutt verma***C-1091/5 indra nagar, lucknow, u.p., india***Lucknow
+14027***Abhishek yadav***Btech***CHE***Hall 5, e-107***ayadav***O+***M***Brijraj yadav***Harpur lutuhi,  sant kabir nagar, khalilabad, u.p., india***Khalilabad
+14028***Abhishek yogi***Btech***CE***Hall 3, 138***abhiyogi***A+***M***Raj kumar yogi***208,  pratap ward, etawa, bina, madhya pradesh, india***Bina
+14029***Adarsh kaimathiya***Btech***ME***Hall 3, 128***kadarsh***O+***M***P s kaimathiya***E-type nayadhish bhavan, sada colony, raghogarh, madhya pradesh, india***Raghogarh
+14030***Adarsh kumar***Btech***ME***Hall 5, c-113***adarshkr***B+***M***Deepak kumar burnwal***Adhunik dresses, ram market, jhajha, bihar, india***Jhajha
+14031***Aditya gajbhiye***Btech***CSE***Hall 5, d-214***adityagj***A+***M***Arun gajbhiye***17 shanti nagar, old bye pass road, amaravati, maharashtra, india***Amaravati
+14032***Aditya gangwal***Btech***CE***Hall 10, b-342***agangwal***Ab+***M***Pradeep gangwal***18, baniyawadi, dhar, madhya pradesh, india***Dhar
+14033***Aditya garg***Btech***EE***Hall 5, d-207***adigarg***A+***M***Manoj kumar garg***Flat no. 22 ghs-50 sector-20, panchkula, haryana, india***Panchkula
+14034***Aditya jain***Btech***EE***Hall 10, b-341***adijain***B+***M***Sumer jain***Near police station pawan brokers, sanjay market, malpura, rajasthan, india***Malpura
+14035***Aditya kumar***Bs***MTH***Hall 10, c-416***kaditya***Ab+***M***Praveen kumar***A-1,  fire station, sector-1, vaishali, ghaziabad, u.p., india***Ghaziabad
+14036***Aditya singharia***Btech***CE***Hall 3, 234***adisin***A+***M***Surya kumar singharia***85/145 laxmi purwa, kanpur, kanpur, u.p., india***Kanpur
+14037***Aditya srivastava***Btech***EE***Hall 2, 225***adityasv***B+***M***Ajay kumar srivastava***Type-iii/15,  akansha colony,  jankipuram, , sector- f, lucknow, u.p., india***Lucknow
+14038***Aditya srivastava [s/o s k s]***Btech***CE***Hall 3, 328***sraditya***A-***M***Shailendra kumar srivastava***23/47/146/f2 allahpur, allahabad, u.p., india***Allahabad
+14039***Aditya verma***Btech***EE***Hall 2, 215***vaditya***B+***M***Raju verma***105, purviya tola katra kapoor chand, etawah, u.p., india***Etawah
+14040***Aditya vikram***Btech***EE***Hall 5, c-308***adityavk***O+***M***Alok kumar mishra***11, road no. 1, vinayak nagar, bohra ganesh road, udaipur, raj, rajasthan, india***Raj
+14041***Aditya yadav***Btech***MSE***Hall 5, d-111***adityay***B+***M***Anil kumar yadav***394 a,  ashoka garden,  govindpura, null, bhopal, madhya pradesh, india***Bhopal
+14042***Affan ahmad***Btech***ME***Hall 2, 121***affan***O+***M***Iftakhar ahmad***Chahshiri b/24, house no.137, u.p., india***House no.137
+14043***Ahatisham hussain ansari***Btech***CHE***Hall 5, d-303***ansari***O+***M***Asif hussain ansari***6-a-34 mahaveer nagar extension, kota, rajasthan, india***Kota
+14044***Ajay kumar meena***Btech***CE***Hall 3, 135***ajaykm***O+***M***Ramkishore meena***B/3 bhuminagar near manan park waghodia, ring road, vadodara, gujarat, india***Vadodara
+14045***Akash adhikary***Btech***CSE***Hall 2, 223***adhikary***B+***M***Pradyot ranjan adhikary***Cj 49 sector-2 salt lake city, kolkata, w.b., india***Kolkata
+14046***Akash gautam***Btech***CSE***Hall 10, b-341***akashgtm***A+***M***Ajay kumar gautam***B-25, world bank colony, karrhi road, barra, kanpur, u.p., india***Kanpur
+14047***Akash gupta***Btech***BSBE***Hall 10, a-431***aksgupta***O+***M***Chaturbhuji gupta***H-no:3/221, , sector j, jankipuram, lucknow, u.p., india***Lucknow
+14048***Akash singh***Btech***ME***Hall 5, c-110***akashs***B+***M***Jai bhagwan***Ae-108,  avantika, ghaziabad, u.p., india***Ghaziabad
+14049***Akash singh***Btech***MSE***Hall 10, a-423***akasingh***B+***M***Suresh chandra kanaujia***3, 221j bihari manni puram, shuklaganj, unnao, u.p., india***Unnao
+14050***Akavarapu v s d s mahesh***Btech***EE***Hall 2, 333***maheshak***O+***M***A v s prasad***4-307/2 beside swatantra weigh bridge, lalacheruvu, rajahmundry, a.p., india***Rajahmundry
+14051***Akenapally dhanalaxmi***Btech***MSE***Hall 6, ghta-402***lakshmi***B+***F***Lingaiah***Hno-2-12,  rayaparthy, null, warangal, telangana, india***Warangal
+14052***Akhil amod***Btech***ME***Hall 2, 213***amod***A+***M***Anjani kumar***Quarter no.-328, sector-1/c, bokaro steel city,  jk, jharkhand, india*** jk
+14053***Akhilesh kumar***Bs***MTH***Hall 5, c-110***akhilshk***B+***M***Ashok kumar***Neelgiri colony, bass road,  dharuhera, rewari, haryana, india***Rewari
+14054***Akhilesh verma***Bs***ECO***Hall 5, d-102***ahverma***B+***M***Kunwar pal singh***Madaiya hattu, bazpur, bazpur, uttarakhand, india***Bazpur
+14055***Akshat anand***Btech***CSE***Hall 5, e-114***akanand***Ab+***M***Rahul kumar***C/o hcp sharma,  lane no 3, behind zenith petrol pump,  ramdyalunagar, muzaffarpur, bihar, india***Muzaffarpur
+14056***Akshat mittal***Btech***EE***Hall 2, 212***akshatm***Ab+***M***Vimal kumar jain***66, jain colony, jhilay road, newai, tonk, rajasthan, india***Tonk
+14057***Akshat singh***Btech***MSE***Hall 5, e-109***akshhat***O+***M***Ashok kumari***5/208/p-6,  nai abadi ramnagar, shahganj, agra, u.p., india***Agra
+14058***Akshat alok varma***Btech***MSE***Hall 10, c-427***akshatv***Ab-***M***Alok varma***A/403 gagangiri park, samata nagar,  thane west, thane, maharashtra, india***Thane
+14059***Akshay bagde***Btech***ME***Hall 2, 212***akshaygb***B+***M***Gulab bagde***28, netaji apartment society, zingabai takli, nagpur, maharashtra, india***Nagpur
+14060***Akshay bhola***Btech***ME***Hall 5, c-202***bakshay***O+***M***Jaidev bhola***33 subhash nagar, mai hira gate, jalandhar, punjab, india***Jalandhar
+14061***Akshay paswan***Btech***EE***Hall 10, b-343***akshaygr***B+***M***Chandra shekhar das***Lf3/351 block 5 front of sbi bank, , bhootnath road, patna, bihar, india***Patna
+14062***Akshay sharma***Btech***ME***Hall 2, 228***akshay***B+***M***Naresh kumar sharma***4e218 jnv colony, null, bikaner, rajasthan, india***Bikaner
+14063***Akshay wadhwani***Bs***ECO***Hall 2, 324***akshayw***O+***M***Prahlad wadhwani***41/7 b.k. sindhi colony, indore, madhya pradesh, india***Indore
+14064***Akshyee bhadrawal***Btech***EE***Hall 6, ghtb-410***akshyee***O-***F***Harikishan bhadrawal***Ridmalsar,  sipahiyan,  bikaner, bikaner, rajasthan, india***Bikaner
+14065***Albart jose***Btech***ME***Hall 3, 136***albart***O+***M***Jose kunnath thomas***6 house greenvalley villa skyline, vazhakkala, kakkanad, ernakulam, kerala, india***Ernakulam
+14066***Allu bharadwaj yadav***Bs***CHM***Hall8***Not Available***Not available***M***A krishna***Not available***Not Available
+14067***Alok kumar***Btech***ME***Hall 3, 322***alokkmr***A+***M***Shreeram maurya***Vil-ramduttpur atrawa, post-darshan nagar, faizabad, u.p., india***Faizabad
+14068***Alok kumar***Btech***CHE***Hall 2, 123***kumalok***O+***M***Mithilesh kumar jha***Mithilesh kumar jha +2 lecturer, govt. girls high school, bariatu road, ranchi, jharkhand, india***Ranchi
+14069***Alok ranjan singh***Btech***AE***Hall 10, b-401***arsingh***B+***M***Ghanshyam singh***E-109/25, shivaji nagar, bhopal, madhya pradesh, india***Bhopal
+14070***Alok verma***Bs***PHY***Hall 5, c-301***alokv***B+***M***Saraswati verma***118 faithful ganj, cantt, kanpur, u.p., india***Kanpur
+14071***Aman***Btech***CHE***Hall 2, 329***amangkp***O+***M***Jalaluddin ansari***V+p-dharmauli via-partawal, , maharajganj, gorakhpur, u.p., india***Gorakhpur
+14072***Aman abhishek tiwari***Btech***AE***Hall 3, 118***amanabt***O+***M***Anil kumar***94 b/14 kala danda, himmatganj, allahabad, u.p., india***Allahabad
+14073***Aman garg***Bs***MTH***Hall 10, b-414***amangarg***B+***M***Alok kumar***C-26 navkunj apartments i.p. extension, delhi, delhi, delhi, india***Delhi
+14074***Aman jaiswal***Btech***AE***Hall 2, 111***amanj***B+***M***Rambabu prasad***Ekdari road chauradano east champaran, raxaul, bihar, india***Raxaul
+14075***Aman singh***Btech***CE***Hall 3, 337***amansg***O+***M***Paresh kumar singh***Kedar nagar colony, sunderpur, varanasi, u.p., india***Varanasi
+14076***Amanisha das***Btech***CHE***Hall 6, ghtb-313***amanisha***O+***F***R n das***B-2,  namrata apartment,  basisthapur road, byelane 3, guwahati, assam, india***Guwahati
+14077***Amarendra kumar***Btech***MSE***Hall8***Not Available***Not available***M***Madhuban prasad***Not available***Not Available
+14078***Amartya saha***Bs***PHY***Hall 2, 213***amartyas***B+***M***Ranjit kumar saha***Debangan, sunity road bylane, cooch behar, w.b., india***Cooch behar
+14079***Ambavaram pradeep kumar reddy***Btech***CSE***Hall 3, 122***rpradeep***O+***M***A c konda reddy***75/9-1, vijayadurga colony, kadapa,  ap, a.p., india*** ap
+14080***Ameya rajgopal loya***Btech***CSE***Hall 2, 129***ameya***O+***M***Rajgopal chaturbhuj loya***Flat no:7 sukhsagar apartment, nutan colomy, aurangabad, mah, maharashtra, india***Mah
+14081***Amit kumar***Btech***CHE***Hall 3, 123***kuamit***B+***M***Bhorai ***Village-bishunpur,  mushtahkam, post sishaniya, tehsil-bansi, siddhartha nagar, u.p., india***Siddhartha nagar
+14082***Amit kumar***Btech***CE***Hall 5, c-306***amitku***B+***M***Mahendra kumar***House no 166 / 6e avas vikas colony, sikandara, agra, u.p., india***Agra
+14083***Amit kumar gaurav***Btech***EE***Hall 5, e-108***akgaurav***O+***M***Rajeswar singh***Near svp college ward no.6, dist. kaimur, bhabua (kaimur), bihar, india***Bhabua 
+14084***Amit kumar gautam***Bs***CHM***Hall8***Not Available***Not available***M***Awadhesh kumar***Not available***Not Available
+14085***Amit kumar rai***Btech***CE***Hall 5, d-214***amitrai***Not available***M***Ajay kumar rai***Village post gaura, district ghazipur, ghazipur, u.p., india***Ghazipur
+14086***Amit kumar smarty***Btech***ME***Hall 10, b-432***aksmarty***B+***M***Krishna kumar barnwal***Opp-patna cold storage, shahganj mussallahpur hat, patna, bihar, india***Patna
+14087***Amit ranjan***Bs***MTH***Hall 3, 221***ramit***O+***M***Radhe shyam singh***11/4a sector-2 gole market, new delhi, delhi, india***New delhi
+14088***Amit saini***Btech***AE***Hall 2, 133***amitsni***B-***M***Shankar lal saini***Near baheti colony,  shubhash ward, harda, madhya pradesh, india***Harda
+14089***Amol saxena***Btech***CE***Hall 2, 131***amols***B+***M***Sunil kumar saxena***Near sarla devi school,  alakhnanda colon, moradabad, moradabad, u.p., india***Moradabad
+14090***Amrendra singh***Btech***EE***Hall 3, 137***amrend***B+***M***Poonam singh***B-226 indira nagar raebareli, lucknow, u.p., india***Lucknow
+14091***Amresh kumar kushwaha***Btech***CHE***Hall 10, a-429***amresh***A+***M***Santosh kumar kushwaha***H-no:n2/250e-1k-1, sunderpur, varanasi, u.p., india***Varanasi
+14092***Amur ghose***Btech***EE***Hall 10, b-408***amur***A+***M***Subir kumar ghose***35 d/2 middle road santoshpur, bhawani apartment, kolkata, w.b., india***Kolkata
+14093***Anand ratna maurya***Bs***CHM***Hall 5, e-102***armanand***O+***M***Abhimanyu maurya***H.no. 7,  village shewarnipur, post balua- gajapur (anie), varanasi, u.p., india***Varanasi
+14094***Ananya rana***Btech***MSE***Hall 5, d-216***ananyar***B+***M***Ravindra kumar rana***3 doctors lane,  manjulikey garden, bajoria road,  saharanpur, saharanpur, u.p., india***Saharanpur
+14095***Anas siddiqui***Btech***MSE***Hall 5, d-201***anass***A+***M***Ashfaq ali siddiqui***603, mansarovar apartment, tilak nagar, kanpur, kanpur, u.p., india***Kanpur
+14096***Aniket maiti***Bs***PHY***Hall 3, 343***aniketmt***B+***M***Sudipta maiti***808 bhaskara,  tifr colony,  colaba, mumbai - 400005, mumbai, maharashtra, india***Mumbai
+14097***Anil kumar gupta***Btech***CSE***Hall 5, e-108***ganil***B+***M***Satish kumar gupta***Tilak nagar b.h.e.l., jhansi, u.p., india***Jhansi
+14098***Animesh kumar shastry***Btech***AE***Hall 5, d-109***animeshs***A+***M***Shreeniwas shastry***58/1e,  tollygunj road,  kolkata, kolkata, w.b., india***Kolkata
+14099***Anish lamba***Btech***CE***Hall 5, c-104***anishl***O+***M***Anil lamba***House no. 1443, sector-21d, faridabad, haryana, india***Faridabad
+14100***Anivesh agrawal***Bs***MTH***Hall 5, d-103***anivesh***O+***M***Shyam babu agrawal***"phoolchand aushdhalya",  daulatganj, lashkar, gwalior, madhya pradesh, india***Gwalior
+14101***Anjali***Btech***CHE***Hall 6, b-111***manjali***B+***F***Sanjay kumar mishra***Flat no.-201,  block - c,  sharda lok appt, gandhi path rd no.-2,  nehru nagar, patna, bihar, india***Patna
+14102***Ankesh rao***Bs***PHY***Hall 3, 342***anis***Ab+***M***Renu kumari***Nasriganj, mithila colony, digha, patna, bihar, india***Patna
+14103***Ankit gupta***Btech***CSE***Hall 2, 123***ankgupta***O+***M***Shyam sunder saw***15,  indrapuri colony,  near narmadapuram, jaswadi road,  khandwa, khandwa, madhya pradesh, india***Khandwa
+14104***Ankit kumar***Btech***EE***Hall 5, c-309***ankitkur***O+***M***Satyanarayan prasad***Baghmara bazar, dhanbad, dhanbad, jharkhand, india***Dhanbad
+14105***Ankit patel***Btech***MSE***Hall 3, 341***ankitpt***A+***M***Ashwani patel***E-16 parsvnath pratistha, cdc chikhali, pune, maharashtra, india***Pune
+14106***Ankit singh***Btech***CE***Hall 3, 139***ankitsgh***B+***M***Akhilesh kumar***Flat no. 507, r.n.enclave, kankarbagh, patna, u.p., india***Patna
+14107***Ankur chakrawarti***Btech***EE***Hall 5, d-115***achakra***A+***M***Desh raj singh***H.i.g - 22 a.d.a colony, devprayagam,  jhalwa p/o peepal gaon, allahabad, u.p., india***Allahabad
+14108***Ankur gautam***Btech***CE***Hall 2, 124***agankur***B+***M***Jai krishna ***Village sahsi, post gahlon, kanpur, u.p., india***Kanpur
+14109***Ankur kumar***Btech***EE***Hall 10, c-433***ankurk***B+***M***Binod prasad singh***Ward no. 16,  pipra, begusarai, bihar, india***Begusarai
+14110***Ankush singh***Btech***EE***Hall 2, 321***ankushs***A+***M***Arvind kumar singh***G-2,  atp colony, anpara, renukoot, u.p., india***Renukoot
+14111***Anshid nuhman p***Btech***ME***Hall 2, 221***anshid***Ab+***M***Kunhahammed p***Nechivalappil house puthur pallikkal p o, malappuram, kerala, india***Malappuram
+14112***Anshu pandey***Btech***ME***Hall 3, 222***anshup***B+***M***Vinay kumar pandey***38-39-62, sf sai sunil akshaya residency, , bapujinagar, industrial estate, visakhapatnam, a.p., india***Visakhapatnam
+14113***Anshuman singh***Btech***CE***Hall 10, b-411***anssingh***B+***M***Ashok kumar singh***1a/19e/1,  ram priya road, , prayag, allahabad, u.p., india***Allahabad
+14114***Anubhav shrivastava***Btech***CSE***Hall 5, c-210***anubhavs***O+***M***Akhilesh kumar shrivastava***Ii/253, sector-1, bhel township,  jhansi, jhansi, u.p., india***Jhansi
+14115***Anuj jain***Btech***BSBE***Hall 5, d-113***anujjain***B+***M***Gajendra jain***Ward 6,  ghatia mohalla,  mau, null, madhya pradesh, india***Null
+14116***Anuj nagpal***Btech***CSE***Hall 3, 120***anujnag***Ab+***M***Jagdeep nagpal***124 friends colony, near haryana busstand, mandi dabwali, bathinda, punjab, india***Bathinda
+14117***Anupriya meena***Btech***EE***Hall 6, b-215***anupriya***B+***F***Kailash chand meena***Type3-23h anupratap colony, rawatbhata, rawatbhata, rajasthan, india***Rawatbhata
+14118***Anurag bahetra***Btech***EE***Hall 5, e-105***abahetra***A+***M***Ghanshyam bahetra***210 medical campus, guru gobind singh medical college, faridkot, punjab, india***Faridkot
+14119***Anurag singh chauhan***Btech***MSE***Hall 3, 320***anuragc***B+***M***Dharmendra singh chauhan***344,  rana pratap nagar,  vinayakpur, kanpur, kanpur, u.p., india***Kanpur
+14120***Anvay choudhary***Btech***MSE***Hall 5, c-206***anvayc***A+***M***Arun choudhary***14/84,  gurukul colony, rangwasa road,  rau, indore, madhya pradesh, india***Indore
+14121***Anvesh jadon***Btech***CE***Hall 10, b-343***anvesh***O+***M***Krishanpal singh jadon***House no. 14,  line no. 3, birlanagar, gwalior, madhya pradesh, india***Gwalior
+14122***Apoorva khandelwal***Bs***ECO***Hall 6, ghta-401***apoorvak***B+***F***Umesh khandelwal***Iv/21, sanchar vihar colony, malviya nagar, null, jaipur, rajasthan, india***Jaipur
+14123***Apoorve mishra***Btech***AE***Hall 3, 343***apoorve***O+***M***Shashi nath mishra***D-18 old j.k.puram, sirohi, rajasthan, india***Sirohi
+14124***Apurv gupta***Bs***MTH***Hall 10, b-416***apurv***A+***M***Manoj gupta***508,  aarcon abhay,  near ratri bazaar, , opposite vuda office,  karelibaug, vadodara, gujarat, india***Vadodara
+14125***Apurva hyanki***Btech***ME***Hall 10, c-430***apurva***O+***M***V s hyanki***1-a,  type-5,  old rdso colony, langra phatak, lucknow, u.p., india***Lucknow
+14126***Aral avasthi***Btech***ME***Hall 5, d-213***aral***Ab+***M***Ashutosh nath***26,  tyagraj nagar, delhi, delhi, india***Delhi
+14127***Archit mantri***Bs***MTH***Hall 5, d-106***amantri***B+***M***Gopal mantri***Mantri enterprises main market, jahajpur, bhilwara, rajasthan, india***Bhilwara
+14128***Archit sharma [m/o a sharma]***Btech***CE***Hall 3, 224***archits***B+***M***Rakesh sharma***17,  mahavir colony, kota, rajasthan, india***Kota
+14129***Archit sharma***Btech***EE***Hall 5, c-115***architsh***B+***M***Rakesh sharma***18,  race course road, amritsar, punjab, india***Amritsar
+14130***Arham chopra***Btech***CSE***Hall 2, 315***archop***B+***M***Sunil chopra***560, greater brijeshwari, bicholi mardana, road, indore, madhya pradesh, india***Indore
+14131***Arjit katare***Btech***EE***Hall 10, c-430***arjit***B+***M***Vinod katare***Shivaji nagar aamkho,  lashkar, gwalior, madhya pradesh, india***Gwalior
+14132***Arnav mehta***Btech***CHE***Hall 3, 225***arnav***O+***M***Navneet mehta***J-1001,  park view city 1, sohna road,  sector 48, gurgaon, haryana, india***Gurgaon
+14133***Arpit choudhary***Bs***CHM***Hall8***Not Available***Not available***M***Sahi ram choudhary***Not available***Not Available
+14134***Arpit jain***Bs***MTH***Hall 3, 240***arpitjn***Ab+***M***Anil jain***R-8,  m.l.s.u. campus, udaipur, raj, rajasthan, india***Raj
+14135***Arpit mudgal***Btech***ME***Hall 3, 331***arpit***O+***M***Yogendra mudgal***53/24, manasarovar, sarayu marg, jaipur, rajasthan, india***Jaipur
+14136***Arpit singh***Btech***MSE***Hall 5, d-204***arpitsin***O+***M***Ram kumar singh***House no. 349,  kolana, , paschimi an0,  chunar,  mirzapur, mirzapur, u.p., india***Mirzapur
+14137***Arshil abbas naqvi***Btech***CE***Hall 5, c-106***arshil***Ab+***M***Mohd abbas naqvi***Sr2/913/89027,  jali wali gali,  ved vihar, nawada road, saharanpur, u.p., india***Saharanpur
+14138***Arun kumar***Btech***MSE***Hall 2, 117***arunkr***A+***M***A b singh***Quarter no. mh195k,  azad nagar colony, , maithon dam, dhanbad, jharkhand, india***Dhanbad
+14139***Aryaman***Btech***MSE***Hall 10, b-433***aryaman***B+***M***Sanjay kumar singh***Flat no. d2 grewal apartment, grewal colony,  bekarbandh, dhanbad, jharkhand, india***Dhanbad
+14140***Ashish jojo john***Btech***ME***Hall 5, d-108***jashish***A-***M***Jojo john***39/2079,  flat no. b-3,  tr residency, nettipadam rd.,  mg rd., cochin, kerala, india***Cochin
+14141***Ashish kumar***Btech***ME***Hall 3, 240***ashishkm***B+***M***Anil kumar***Bajaj brothers,  kazi mohalla, maner, patna, bihar, india***Patna
+14142***Ashish kumar singh***Btech***EE***Hall 3, 224***ashishks***B+***M***Nagendra pratap singh***Plot no.363 rana pratap nagar, kanpur, u.p., india***Kanpur
+14143***Ashish sharma***Btech***CHE***Hall 2, 322***asharma***O+***M***Kamlesh prasad sharma***Qtr no.527/abc b type colony, gomoh,  dhanbad, dhanbad, jharkhand, india***Dhanbad
+14144***Ashish yadav***Bs***PHY***Hall8***Not Available***Not available***M***Rajender singh***Not available***Not Available
+14145***Ashok meena***Btech***MSE***Hall 5, d-112***ashokm***Ab+***M***Radheshyam meena***Jadhma colony,  near teen bud, karauli, karauli, rajasthan, india***Karauli
+14146***Ashu prakash***Bs***MTH***Hall 2, 211***ashupk***O+***M***Om prakash lal***204 devarun apt. bhikhna pahari, patna, bihar, india***Patna
+14147***Ashutosh***Btech***BSBE***Hall 5, c-211***ashuto***O+***M***Ved kumar***H.no. 5/1265 street no 1. shankar garden, line par, bahadurgarh, haryana, india***Bahadurgarh
+14148***Ashutosh kumar***Btech***MSE***Hall 2, 214***askumar***O+***M***Manoj kumar***House no. 48,  deep colony, banuchapar, bettiah, bihar, india***Bettiah
+14149***Ashutosh kumar [s/o r bhagat]***Bs***ECO***Hall 3, 337***aashu***A+***M***Ramjee bhagat***C/o ramnath choudhary, sultan pokhar(west), ward no 4, forbisganj, bihar, india***Forbisganj
+14150***Ashwani***Bs***MTH***Hall 10, a-427***ashwaniy***B+***M***Rajpal***V.p.o. bawania, distt.- mahendergarh, mahendargarh, haryana, india***Mahendargarh
+14151***Atal narayan sahu***Bs***MTH***Hall 5, d-215***atal***B+***M***Rupendra kumar sahu***C247,  htps colony,  korba west, korba, korba, chhattisgarh, india***Korba
+14152***Atul***Btech***CHE***Hall 10, b-431***atuld***Not available***M***Satya prakash***House no. 10 akshar dham colony, modipuram, meerut, u.p., india***Meerut
+14153***Atul singh***Btech***CE***Hall 3, 340***atsingh***B+***M***Jeetendra prakash singh***503-a,  baxi khurd, daraganj, allahabad, u.p., india***Allahabad
+14154***Atulya manuraj***Btech***MSE***Hall 2, 330***manuraj***B+***M***Rajeev kumar***C-10,  income tax colony,  peddar road, mumbai, maharashtra, india***Mumbai
+14155***Avani rathore***Bs***ECO***Hall 6, ghta-101***avani***O+***F***Ajay rathore***43-geeta nagar, g-1 vibhu appartment, indore, madhya pradesh, india***Indore
+14156***Avanigadda v b krishna sai phani ku***Btech***CHE***Hall 5, c-104***spkumar***O+***M***Vijaya kumar***Door number - 2-1-2/2,  gudavari street, narsapuram,  west godavari district, narsapuram,  ap, a.p., india*** ap
+14157***Avesh singh***Btech***EE***Hall 10, c-436***avesh***O+***M***Surendra pal singh***B-11 shatabdi nagar,  quarsi byepass, ramghat road, aligarh, u.p., india***Aligarh
+14158***Avinash choudhary***Btech***CSE***Hall 3, 222***avinashc***A+***M***Ramniwas pilania***Village sutot,  via phagalwa, sikar, rajasthan, india***Sikar
+14159***Aviral agarwal***Btech***EE***Hall 5, c-105***aviral***A+***M***Raj kumar agarwal***14c,  hari om colony, morar,  gwalior, gwalior, madhya pradesh, india***Gwalior
+14160***Ayanshu aryan***Btech***CE***Hall 10, c-414***ayanshu***O+***M***Raj kumar singh***At karna,  po+ps parbatta, khagaria, bihar, india***Khagaria
+14161***Ayush agrawal***Bs***ECO***Hall 5, d-114***agrayush***O+***M***Sajan agrawal***236,  behind gayatri mandir, samta colony, raipur, chhattisgarh, india***Raipur
+14162***Ayush goel***Btech***AE***Hall 5, c-201***ayushg***B+***M***Rajeev kumar***142a ward 9, maya ram colony,  taraori, karnal, haryana, india***Karnal
+14163***Ayush gupta***Btech***CHE***Hall 3, 127***ayushgt***B+***M***Mrs renu gupta***C-137, street no.-7, shastri park, delhi, delhi, india***Delhi
+14164***Ayush gupta [s/o v k gupta]***Btech***CHE***Hall 3, 323***ayushgp***A+***M***Vishnu kumar gupta***302,  shivrani heights, gokul housing society, nagpur, maharashtra, india***Nagpur
+14165***Ayush mukherjee***Btech***EE***Hall 3, 239***ayushmkj***A+***M***Prasanta kumar mukherjee***Flat no.3b, abhilasha tower, harimandir rd, hirapur, dhanbad, jharkhand, india***Dhanbad
+14166***Ayush singh***Bs***ECO***Hall 5, d-108***sayush***B+***M***Kiran singh***Hig a-2424, awas vikas colony,  hanaspuram, kanpur, u.p., india***Kanpur
+14167***Ayush tulsyan***Btech***CSE***Hall 5, e-110***ayusht***A+***M***Vijay tulsyan***Shivam textiles, 210,  budhwara, burhanpur, madhya pradesh, india***Burhanpur
+14168***Ayushya agarwal***Btech***EE***Hall 2, 133***ayushya***O+***M***Ashok kumar agarwal***2-b, millingtonia avenue, , bandaria bagh, lucknow, u.p., india***Lucknow
+14169***Mounica nagavalli bachu***Bs***MTH***Hall 6, ghta-102***bmounica***B+***F***B l v s gupta***Door no.: ff2,  sai balaji towers, raavi vari vidhi, vijayawada, a.p., india***Vijayawada
+14170***Bajaj rahi dilip***Btech***CSE***Hall 2, 110***rahi***A+***M***Dilip bajaj***C-4 pralhad arcade, ashoka marg, nasik, maharashtra, india***Nasik
+14171***Balsant shivanand tiwari***Bs***PHY***Hall 5, d-208***balsant***Ab+***M***Kamala kant tiwari***Village: dharampura,  post: mujradh, ps: nokha,  district: rohtas, sasaram, bihar, india***Sasaram
+14172***Bhagat vaibhav walmik***Btech***ME***Hall 3, 327***vaibhavb***O+***M***Walmik bhagat***Gokul colony,  akola road, akot, maharashtra, india***Akot
+14173***Bhangale pratik anil***Btech***CSE***Hall 3, 126***pratikab***O+***M***Anil bhaskar bhangale***Plot no rm78/3, radhakrishna society, bajaj nagar midc waluj, aurangabad, mah, maharashtra, india***Mah
+14174***Bhanu garg***Btech***EE***Hall 5, d-101***bhanug***A+***M***Navdeep kumar***101a csr residency ayyapa society, behind meridian school madhapur, hyderabad,  telangana, telangana, india*** telangana
+14175***Bharat raj meena***Bs***PHY***Hall 2, 221***bharatr***O+***M***Chhotulal meena***Gram banjhadli, post- charana, , tehsil - kesorai patan, bundi, rajasthan, india***Bundi
+14176***Bharati srijan amarnath***Btech***ME***Hall 2, 314***srijanb***B+***M***Amarnath bharati***H-101, phase 8, new golden nest, , mira bhayandar, mumbai, maharashtra, india***Mumbai
+14177***Bhargav ganguly***Btech***EE***Hall 5, c-206***bhargavg***A+***M***Ratan ganguly***Manik ganguly lane,  milon sangha, bordowali, agartala, tripura, india***Agartala
+14178***Bhaskar pathak***Bs***ECO***Hall 5, c-109***pbhaskar***B+***M***Kamla prasad pathak***Vill. loukapur, post-deoraha, amethi, u.p., india***Amethi
+14179***Bhatia parth kapil***Bs***PHY***Hall 5, d-113***parthk***Ab+***M***Kapil bhatia***F2/5,  salunki vihar,  awho society, kondhwa,  pune, pune, maharashtra, india***Pune
+14180***Bhavesh mehta***Btech***CE***Hall 3, 342***bhavesh***O+***M***Sunil mehta***1-s-9, c.h.b., jodhpur, rajasthan, india***Jodhpur
+14181***Bhawesh kumar***Bs***PHY***Hall 2, 114***bhawesh***O+***M***Manoj kumar***Village+post-parsawan,  block- pandarakh, via- barh,  district - patna, patna, bihar, india***Patna
+14182***Bhoopendra kumar***Btech***CHE***Hall 2, 119***bhoopk***O+***M***Gyan prakash urf ganua***Bamhouri bahadur singh, mehroni, lalitpur, lalitpur,  u.p., u.p., india*** u.p.
+14183***Bhukya ananth***Btech***CSE***Hall 5, c-107***ananth***B+***M***Bhukya samya***Hno1/7/933 advacates colony hunter road, warangal, telangana, india***Warangal
+14184***Bhukya avinash***Btech***ME***Hall 5, c-212***avinashb***B+***M***B hema naik***2-6-952,  housing board colony, hanamkonda, warangal, a.p., india***Warangal
+14185***Bhukya charan naik***Btech***ME***Hall 10, b-416***charanb***B+***M***Bhukya ravi***Kamla nagar, medipally colony, ghatkesar mandal, rangareddy, telangana, india***Rangareddy
+14186***Bhutada sarang shrirang***Btech***BSBE***Hall 2, 119***sarangb***O+***M***Bhutada shrirang***Near navbharat school, vikram nagar, barshi road, latur, maharashtra, india***Latur
+14187***Bibek kumar***Btech***EE***Hall 5, c-216***bibek***B+***M***Lalan kumar***Qrs no. 6/b,  street no.43/a area-8, chittaranjan, asansol, w.b., india***Asansol
+14188***Bishwa ranjan si***Btech***CHE***Hall 5, d-301***bishwa***B+***M***Dibyajiban si***At/po- gadia, baripada, mayurbhanj, orissa, india***Mayurbhanj
+14189***Pranay shrihari borkar***Btech***CSE***Hall 5, c-312***pranayb***B+***M***Shrihari borkar***Jamankar nagar,  yavatmal, yavatmal, maharashtra, india***Yavatmal
+14190***Chaitanya goswami***Btech***EE***Hall 2, 112***goswami***O+***M***Anil kumar goswami***Block-c4c,  flat no-42, pocket-14,  janak puri, delhi, delhi, india***Delhi
+14191***Chakala amarnath***Btech***CSE***Hall 5, c-302***achakala***O+***M***Chakalaramudu***1/3/521, rangaswamy nagar, , null, anantapur, a.p., india***Anantapur
+14192***Chandan raj***Btech***CE***Hall 3, 141***chandan***B+***M***Pramod kumar choudhary***Colony no. c/37, raza bazar, motihari, bihar, india***Motihari
+14193***Chandra dan ratnoo***Btech***BSBE***Hall 2, 132***cdratnoo***B-***M***Naresh kumar ratnoo***Behind new karni mata temple, , tilak nagar, bikaner, rajasthan, india***Bikaner
+14194***Charu bansal***Bs***MTH***Gh, b-312***charub***O+***F***Deep kumar agarwal***Roha ultrasound center, shivpuri road, jhansi, u.p., india***Jhansi
+14195***Chauhan mayurdhwajsinhji nitiraj***Btech***CSE***Hall 2, 120***mayurds***A+***M***Chauhan nitirajsinhji harendra***Building no. 12, flat no.1104, green city, pal bhatha road,  surat, gujarat, surat, gujarat, india***Surat
+14196***Prithviraj abasaheb chavan***Btech***CE***Hall 2, 320***prithvi***A+***M***Abasaheb***Ground floor,  doctors quarters, , nagpada police hosp., nagpada, mumbai, maharashtra, india***Mumbai
+14197***Chetan bhargava***Btech***CE***Hall 10, c-409***chetanb***O+***M***N.r. bhargava***Near new jain mandir, savarkar colony, shivpuri, mp, madhya pradesh, india***Mp
+14198***Chetan singh***Btech***CHE***Hall 2, 229***chetan***B+***M***Joga ram*** bera badher ka bijudia, bilara jodhrur, jodhpur, rajasthan, india***Jodhpur
+14199***Chinmai garg***Btech***BSBE***Hall 10, b-402***chinmaig***O+***M***Vinay garg***Radhe shyam vijay kumar anaaj mandi, charkhi dadri,  bhiwani, charkhi dadri, haryana, india***Charkhi dadri
+14200***Chirag damor***Btech***CHE***Hall 2, 316***chiragd***B+***M***Hiralal damor***Rohanwari, gangartalai, rajasthan, india***Gangartalai
+14201***Rahul nitin chodankar***Bs***PHY***Hall 2, 325***rahulnc***B+***M***Rasika chodankar***A-702,  parikshit nl complex, dahisar east, mumbai, maharashtra, india***Mumbai
+14202***Choppala jeevan kumar***Btech***AE***Hall 5, d-316***jeevan***A+***M***Choppala vijaya kumari***6-142, peda-amiracolony, kalla mandal, west godavari, bhimavaram, a.p., india***Bhimavaram
+14203***Choudhary vagish kumar gopal***Btech***AE***Hall 2, 333***vagish***B-***M***Gopal choudhary***C-5/32/2:1 panchratna apartments, sector-5,  c.b.d. belapur, mumbai, maharashtra, india***Mumbai
+14204***Chundi amruth kiran***Btech***MSE***Hall 2, 324***amruthk***Ab+***M***Sai siva prasad***302,  sharada apartments,  street no. 6, nallakunta, hyderabad,  telangana, telangana, india*** telangana
+14205***Danda gopi krishna***Btech***EE***Hall 5, c-208***danda***O+***M***Adinarayana d***Door no 2-110, mittapalem(v), chilakaluripet(m), g n t. guntur, a.p., india***G n t. guntur
+14206***Datla aravind raju***Btech***CE***Hall 5, d-206***raju***O+***M***D. ranga raju***D.no21-12-31, peddadavari street, rayasam dental clinic, bhimavaram, a.p., india***Bhimavaram
+14207***Deeksha rewadi***Btech***AE***Gh, b-312***deekshar***Ab+***F***Tara chand***Flat no,  f-3,  a-38 shanti nagar, near gurjar ki thadi, jaipur, rajasthan, india***Jaipur
+14208***Deepak gangwar***Btech***EE***Hall 3, 329***dgangwar***A+***M***Rajendra prasad ganagwar***Moh-mahadevpuram east, baheri, bareilly, u.p., india***Bareilly
+14209***Deepak jorwal***Btech***CE***Hall 10, c-411***jorwald***A+***M***Battu lal meena***Ward no. 17,  village jinsi ka pura, post office todabhim,  karauli, karauli, rajasthan, india***Karauli
+14210***Deepak tholia***Btech***CHE***Hall 2, 213***deetho***B+***M***Banne singh***Ward no. 3 chirawa road, surajgarh, pilani, rajasthan, india***Pilani
+14211***Deepali gupta***Btech***CHE***Gh, b-113***deepali***B+***F***Mukesh kumar gupta***House no. 1782, sector 23, gurgaon, haryana, india***Gurgaon
+14212***Deepanshu aggarwal***Btech***CHE***Hall 2, 124***deepuagg***Ab+***M***Bhagwat aggarwal***B-11 sanjay gram, gurgaon, haryana, india***Gurgaon
+14213***Devashish sonowal***Btech***MSE***Hall 5, c-106***sdevash***O+***M***Diganta sonowal***C/o dr. diganta sonowal, aradhal, dhemaji, assam, india***Dhemaji
+14214***Devendra k meena***Btech***CSE***Hall 2, 320***devk***Ab+***M***Madan lal meena ***Village khedla gadali, mahwa,  dausa, jaipur, rajasthan, india***Jaipur
+14215***Devesh meena***Bs***CHM***Hall8***Not Available***Not available***M***Laxmi chand meena***Not available***Not Available
+14216***Devesh nag***Btech***CE***Hall8***Not Available***Not available***M***Pradeep sahai nag***Not available***Not Available
+14217***Dharme saurabh sudhir***Btech***ME***Hall 5, c-310***sdharme***O+***M***Sudhir dharme***Saraswati nagar, college road, akot, maharashtra, india***Akot
+14218***Dhawal upadhyay***Btech***CSE***Hall 5, c-112***dhawal***O+***M***Suraj upadhyay***100-l,  model town, yamuna nagar, haryana, india***Yamuna nagar
+14219***Dheeraj kumar singh***Btech***MSE***Hall 3, 119***dheerajs***Ab+***M***Rajendra prasad singh***Village ataraila,  post kalana, null, mirzapur, u.p., india***Mirzapur
+14220***Dheerendra kumar***Btech***BSBE***Hall8***Not Available***Not available***M***Man singh***Not available***Not Available
+14221***Dhruv bhanot***Btech***CHE***Hall 5, e-113***dhruvbh***A+***M***Raman bhanot***Rhone b 108, omaxe rivera, rudarpur, uttarakhand, india***Rudarpur
+14222***Dil bag singh***Btech***CE***Hall 5, d-107***dilbag***O+***M***Samar jeet singh***55/5,  mehta colony, khasa cantt, amritsar, punjab, india***Amritsar
+14223***Dipendra singh***Btech***ME***Hall 10, c-407***dipendra***B+***M***Hanuman bajrang singh***C/o mr. kalu ram amruta kakade, 4p pathare wasti,  lohegaon, , pune, maharashtra, india***Pune
+14224***Divya shree***Bs***ECO***Hall 6, ghtb-215***dshree***B+***F***Sanjay kumar***Gaytri niwas,  shivpuri road, , kilburn colony,  hinoo, ranchi, jharkhand, india***Ranchi
+14225***Divyanshu khare***Btech***MSE***Hall 10, a-430***dkhare***O+***M***Rajesh khare***H-no:289, e-4, arera colony, bhopal, madhya pradesh, india***Bhopal
+14226***Divyanshu verma***Btech***EE***Hall 10, a-433***divverma***B+***M***Sudhir kumar verma***75/61,  opposite sbi bank, raja bazaar,  tehsil fatehpur, fatehpur, u.p., india***Fatehpur
+14227***Divyat mahajan***Btech***CHE***Hall 3, 119***divyatm***O+***M***Vipan mahajan***Mahajan general store, halwai gali, chamba, himachal pradesh, india***Chamba
+14228***Dobaria nisarg jagdishbhai***Btech***BSBE***Hall 2, 115***nisargd***O+***M***Jagdishbhai dobaria***Plot no - 583,  iscon megacity,  gate no 2, kalvibid,  bhavnagar, bhavnagar, gujarat, india***Bhavnagar
+14229***Naveen donga***Btech***ME***Hall 5, c-316***naveen***A+***M***Ramanjaneyulu donga***Door 12-50/2,  penugonda, west godavari, penugonda, a.p., india***Penugonda
+14230***Dravid sarvesh sundaram***Btech***CHE***Hall 10, a-434***dravids***O+***M***Chandrika ram***Type 3rd,  725, atp colony, anpara, u.p., india***Anpara
+14231***Duli vinay sravan yadav***Btech***CE***Hall 2, 317***duli***Not available***M***D suryanarayana***Door no 10/1/58,  mehar nagar, old gajuwaka, visakhapatnam, a.p., india***Visakhapatnam
+14232***Duvvuru aakarsh reddy***Btech***EE***Hall 2, 125***daakarsh***B-***M***Duvvuru narayana reddy***16-2-87, pogathota, nellore, a.p., india***Nellore
+14233***Faizal***Btech***ME***Hall 3, 120***faizal***O+***M***Nizamuddin***8-c-48 vigyan nagar, kota, kota, rajasthan, india***Kota
+14234***Gajendra singh***Btech***CE***Hall 5, d-212***gjendras***O+***M***Devidas ***Village kuadanda,  post senthal, nawabganj, bareilly, u.p., india***Bareilly
+14235***Kanishk veerdhawal gandhi***Btech***EE***Hall 3, 337***kanishkg***A+***M***Veerdhawal gandhi***5-14-42, adalat road, aurangabad, mah, maharashtra, india***Mah
+14236***Gaurav agrawal***Btech***CE***Hall 10, b-337***grvagr***O+***M***Ravindra kumar agrawal***32a laxmi nagar niwaru road, jhotwara, jaipur, rajasthan, india***Jaipur
+14237***Gaurav chawla***Btech***CE***Hall 5, d-110***cgaurav***B+***M***Vinod kumar chawla***D/391 saraswati nagar, basni phase-1, jodhpur, rajasthan, india***Jodhpur
+14238***Gaurav kumar***Bs***CHM***Hall 2, 110***gaukr***B+***M***Baidyanath yadav***At +po ahilwar,  tolle bagraha,  ps, hasanpur road, samastipur, bihar, india***Samastipur
+14239***Gaurav kumar [s/o a kumar]***Bs***MTH***Hall 2, 220***ksgaurav***O+***M***Arvind kumar***Premnagar,  horilganj, jehanabad, jehanabad, bihar, india***Jehanabad
+14240***Gaurav kumar***Btech***EE***Hall 5, e-111***gakumar***A+***M***Satish kumar singh***Village kanti, post kanti, muzaffarpur, bihar, india***Muzaffarpur
+14241***Gaurav kumar [s/o v k sinha]***Btech***MSE***Hall 3, 322***kumgaur***O+***M***Vinod kumar sinha***Rajapakar, hajipur, vaishali, bihar, hajipur, bihar, india***Hajipur
+14242***Gaurav seth***Btech***AE***Hall 10, a-423***sethg***B+***M***Pradeep kumar seth***236 new avas vikas colony,  saharanpur, saharanpur, u.p., india***Saharanpur
+14243***Gaurav sharma***Btech***EE***Hall 3, 227***gaush***O+***M***Devi shanker sharma***279 vhl vivekananda nagar, near medical college, kota, rajasthan, india***Kota
+14244***Gaurav verma***Btech***EE***Hall 2, 327***gverma***A+***M***Virendra verma***Smq 113/4,  no. 1 area, air force station, pathankot, punjab, india***Pathankot
+14245***Vijayraj madhav ghadge***Btech***EE***Hall 3, 221***vijayraj***O+***M***Madhav nemaji ghadge***At - aherwadgaon, post-pali, beed, maharashtra, india***Beed
+14246***Ghantudiya nikhil dipakkumar***Btech***CSE***Hall 2, 225***nikhildg***O+***M***Dipakkumar***C-1/01, dos colony, iim road,  vastrapur, ahmedabad, gujarat, india***Ahmedabad
+14247***Gole shyam ram***Btech***CHE***Hall 3, 321***shyamg***A+***M***Ram w gole***P and t colony, khati lay out, khurda, maharashtra, india***Khurda
+14248***Gollapalli vinod kumar***Btech***MSE***Hall 5, d-306***vinodg***O+***M***G kotaiah***5-128 peddaveedu village,  mattampally, null, huzur nagar, telangana, india***Huzur nagar
+14249***Gopichand kotana***Btech***CSE***Hall 10, b-401***gopick***O+***M***Kotana srinivasu***#105,  chinanandipalli, devarapalli mandal, visakhapatnam, a.p., india***Visakhapatnam
+14250***Gorantla sai teja***Btech***EE***Hall 5, d-212***saiteja***O+***M***Nara simha rao***Door number - 9-7-65,  4th lane, railpet, guntur, a.p., india***Guntur
+14251***Prabhu vamsi yadav***Btech***EE***Hall 3, 234***prabhu***Ab+***M***G venkateswara rao***73-4-19/3 plot no.21, tothavari street, vijayawada, a.p., india***Vijayawada
+14252***Gorla santhosh kumar yadav***Prep.***CHM***Hall 2, 319***santhuky***Not available***M***Gorla. banaragu yadav***House no. 1-1-522/gandhi nagar, hyderabad,  telangana, telangana, india*** telangana
+14253***Gourav agrwal***Btech***ME***Hall 5, d-115***gouravg***B+***M***Rajendra kumar jain***Deendayal colony,  street no,  1, near bajrang school, newai, rajasthan, india***Newai
+14254***Gourav katha***Btech***CSE***Hall 3, 142***kathag***B+***M***Suraj prakash katha***A/28, ambedker nagar, tonk fatak, jaipur, rajasthan, india***Jaipur
+14255***Govind kumar jha***Bs***MTH***Hall 3, 236***govindj***O+***M***Ram janki devi***Vill- pouram,  p.o.-hayaghat, p.s.-hayaghat, darbhanga, bihar, india***Darbhanga
+14256***Gujjala krishna teja***Btech***AE***Hall 5, c-307***krishnag***O+***M***Gujjala gopala krishna***L.i.g.h-ii,  d.no - 159, a.p.h.b colony, kadapa,  ap, a.p., india*** ap
+14257***Gunda abhishek***Btech***CSE***Hall 3, 138***abhigun***O+***M***G poornachandra rao***Door no.11-51, j p road, piduguralla, guntur, g n t. guntur, a.p., india***G n t. guntur
+14258***Gurkirat singh***Btech***CSE***Hall 5, d-305***gurkirat***A+***M***Gurmeet singh***House 4,  new chaman garden, old kaithal road, karnal, haryana, india***Karnal
+14259***Gyanesh gupta***Btech***CSE***Hall 3, 328***gyaneshg***B+***M***Vikas gupta***1/10 central avenue a-zone, durgapur, w.b., india***Durgapur
+14260***Hardik vijay***Btech***CE***Hall 5, e-102***hardikv***A+***M***Sushil kumar vijay***Vijay bhawan,  jwalapuri colony, moda balaji road,  dausa, dausa, rajasthan, india***Dausa
+14261***Hari shankar***Btech***CE***Hall 2, 122***harishan***O+***M***Dinesh kumar***Gaurishankar path, near police chauki, birla colony, phulwarisharif, patna, bihar, india***Patna
+14262***Haris tom jose***Bs***PHY***Hall 3, 240***haristom***O+***M***K t vilson***Sruthi,  villadom,  r.v.puram p.o., thrissur, kerala, india***Thrissur
+14263***Harsh meena***Btech***MSE***Hall 2, 115***harshm***B+***M***Kailash chand meena***52/156, sector-5, pratap nagar, tonk road, jaipur, rajasthan, india***Jaipur
+14264***Harsh paliwal***Btech***MSE***Hall 10, b-407***hpaliwal***B+***M***Manoj paliwal***B-2202,  bhoomi paradise sector 11, sanpada navi mumbai, mumbai, maharashtra, india***Mumbai
+14265***Harsh sinha***Btech***AE***Hall 3, 123***harshsin***B+***M***Anil kumar sinha***26/a sachchida nand sinha building, central jail road tilka manjhi chowk, bhagalpur, bihar, india***Bhagalpur
+14266***Harshit bisht***Bs***MTH***Hall 5, c-101***harshitb***B+***M***Tilak chandra bisht***86,  nimri colony, ashok vihar,  phase 4, delhi, delhi, india***Delhi
+14267***Harshit omar***Btech***CE***Hall 2, 232***homar***A+***M***Santosh kumar gupta***132/719 'a', munshi purwa, kanpur, u.p., india***Kanpur
+14268***Hemant kumar***Btech***EE***Hall 5, c-314***hemantk***B+***M***Udai bir singh***E-439,  street-9,  shanti marg, west vinod nagar, delhi, delhi, india***Delhi
+14269***Hemant meena***Btech***EE***Hall 2, 229***mhemant***O+***M***Bakshi ram meena***Madhuvan vihar colony, saithal rod, dausa, rajasthan, india***Dausa
+14270***Hemant saini***Btech***CE***Hall 2, 335***shemant***B+***M***Tansukh saini***Veer pratap mohalla, peepli bazar, nawa, rajasthan, india***Nawa
+14271***Himanshu kumar***Btech***EE***Hall 3, 228***himkum***B+***M***Radhey shyam***21-heera bagh,  dayal bagh, agra, agra, u.p., india***Agra
+14272***Himanshu solanki***Btech***CE***Hall 3, 237***solanki***O+***M***Satyendra solanki***Gau shala ke samne, kumher, bharatpur, rajasthan, india***Bharatpur
+14273***Ishan agnihotri***Btech***ME***Hall 10, b-346***ishan***Ab+***M***Rajendra kumar agnihotri***17, maharanibagh, phase 2, near ballupur chowk, dehradun, uttarakhand, india***Dehradun
+14274***Ishan pandey***Btech***CHE***Hall 5, c-204***pishan***B+***M***Ram narayan pandey***House no. 62, raj bhawan g.t road, hanumanganj, allahabad, u.p., india***Allahabad
+14275***Ishika soni***Btech***CSE***Gh, b-213***ishika***B+***F***Ashok kumar prasad***621-a nyay khand 2 indirapuram, ghaziabad, ghaziabad, u.p., india***Ghaziabad
+14276***Jayant padamchand jain***Bs***ECO***Hall 5, e-101***jjain***O+***M***Padamchand jain***R-511,  rajtilak apartment, citylight road, surat, gujarat, india***Surat
+14277***Jallepalli tejeswara rao***Bs***MTH***Hall 5, d-201***tejaj***A+***M***Jallepalli venkata rao***Main road palakhandyam, mettavalasa, g. sigadam, a.p., india***G. sigadam
+14278***Jarpulavath narendar***Bs***MTH***Hall 3, 227***narendj***B+***M***Jarpulavath tharya***Surya thanda talakondapally, mahaboobnagar, mahaboobnagar, telangana, india***Mahaboobnagar
+14279***Jatin agrawal***Btech***BSBE***Hall 3, 327***jatinag***B+***M***Ratan kumar agrawal***Dhani ram marg, kashirampur, kotdwara, kotdwara, uttarakhand, india***Kotdwara
+14280***Jatin gupta***Btech***ME***Hall 2, 329***jating***B+***M***Anil kumar gupta***House no.-268, urban estate 2, hisar, haryana, india***Hisar
+14281***Jay sandeep deshmukh***Bs***PHY***Hall 2, 212***jayd***Ab+***M***Sandeep y deshmukh***35/4 hansbury road,  near ord. fact. club, khadki, pune, maharashtra, india***Pune
+14282***Jayant agrawal***Btech***CSE***Hall 10, c-411***agjayant***O+***M***Gopal agarwal***Vaijanti bhawan, above sbbj, hujrat pul,  lashkar, gwalior, madhya pradesh, india***Gwalior
+14283***Jayendra kumar***Btech***CE***Hall 10, b-415***kumarjay***A-***M***Jitendra kumar***At+po: bara khurd, via noorsarai, nalanda, bihar, india***Nalanda
+14284***Jayesh santosh zambre***Btech***MSE***Hall 3, 241***jayeshz***A+***M***Sunita santosh zambre***Plot no.30,  swanand building, gurukul colony, jalgaon, maharashtra, india***Jalgaon
+14285***Jeenu sri jaswanth chandra***Btech***CSE***Hall 10, b-344***jaswanth***A+***M***Jeenu manikyala rao***Door no.70-7-16/6b, thota subbarao nagar, kakinada, a.p., india***Kakinada
+14286***Jeetram meena***Btech***EE***Hall 2, 323***jeetram***O+***M***Ramshawroop meena***Village suratpura p/o bapoti, sapotra, karauli, madhya pradesh, india***Karauli
+14287***Jharpala manmohan***Btech***ME***Hall 2, 231***mjnayak***A+***M***Jharpala chathru charan***Rotary nagar khammam telengana, null, khammam, telangana, india***Khammam
+14288***Jishant singh***Btech***EE***Hall 5, d-202***jishant***B+***M***Surinder singh***M/d punjab bus service,  opp. nikki chat, , near bus stand,  link road, mansa, punjab, india***Mansa
+14289***Jitendra saran***Btech***ME***Hall 3, 328***jsaran***Ab+***M***Devaram saran***Vpo-udwala, teh-bidasar, disst.-churu, jaipur, rajasthan, india***Jaipur
+14290***Jitendra thoury***Bs***MTH***Hall 3, 229***jitu***A+***M***Jeevan ram***Village jaislan, tehsil ladnun, didwana, rajasthan, india***Didwana
+14291***Jivesh donode***Bs***PHY***Hall 2, 322***jiveshmm***O+***M***Ishwar donode***Ward no.19 vivekanand nagar, rajnand gaon, rajnand gaon, chhattisgarh, india***Rajnand gaon
+14292***Jonnala krishna karthik reddy***Btech***CSE***Hall 2, 215***jkrishna***B+***M***Jonnala sambi reddy***Flat no 703, bhavya's srinivasam, apartments nizampet road,  kukatpally, hyderabad,  telangana, telangana, india*** telangana
+14293***Brahmesh vinayak joshi***Btech***ME***Hall 5, c-107***brahmesh***A+***M***Vinayak krishnarao joshi***Brahmachaitanya,  plot no. 37, kashid colony,  samrat nagar, kolhapur, maharashtra, india***Kolhapur
+14294***Jyotirmoy sarkar***Bs***PHY***Hall8***Not Available***Not available***M***Jiban krishna sarkar***Not available***Not Available
+14295***K dhanush kumar***Btech***AE***Hall 10, b-411***dhanushk***A+***M***C kanagavel***4/196,  thittacherry,  lathuvadi post, gangavalli taluk, salem district, salem, tamil nadu, india***Salem
+14296***Kailash kumar atal***Bs***MTH***Hall 10, a-431***kailash***B+***M***Babu lal atal***Ward no:21, , raigar basti, shrimadhopur, rajasthan, india***Shrimadhopur
+14297***Kalpana meena***Bs***MTH***Hall 6, ghtb-411***kalpanam***O+***F***Vishnu kumar meena***C-33,  street no. 1,  krishna nagar, , bajrang nagar,  police line,  kota, kota, rajasthan, india***Kota
+14298***Kamble sanket bhimrao***Btech***ME***Hall 3, 138***sanket***B+***M***Bhimrao kamble***Flat no 401 flora blossom road no 10d, vidya nagar, pune, maharashtra, india***Pune
+14299***Kamlesh kumar meena***Btech***CSE***Hall 10, b-345***meena***Ab+***M***Krishan meena***Gopirampura yarlipura via shivdaspura, chaksu, jaipur, rajasthan, india***Jaipur
+14300***Kancherla naveen kumar reddy***Btech***CE***Hall 5, d-116***naveenk***B+***M***Kancherla nagi reddy***H.no:3-147/1/b, nizampet village, hyderabad,  telangana, telangana, india*** telangana
+14301***Kanishk shami***Btech***CHE***Hall 2, 324***shami***B-***M***Anil kumar***B-13, officers colony, badaun, u.p., india***Badaun
+14302***Kapil gill***Btech***EE***Hall 2, 129***kapilg***B-***M***Surendra singh***Modha milak,  post-moda,  moradabad, null, moradabad, u.p., india***Moradabad
+14303***Kapil verma***Btech***CE***Hall 2, 217***kapilve***B+***M***Om prakash verma***D64, indra colony, dausa, rajasthan, india***Dausa
+14304***Karan malhotra***Btech***CE***Hall 10, b-338***mkaran***B+***M***Ajay chaudhary***Vill katari p.o goraur p.s chhabilapur, dist nalanda, rajgir, bihar, india***Rajgir
+14305***Kartik***Btech***CSE***Hall 2, 113***kartk***O+***M***Kewal krishan***House no. 333/3 bypass kather, near chamunda mandir, solan, himachal pradesh, india***Solan
+14306***Kartik mittal***Btech***CHE***Hall 2, 217***karmit***O+***M***Pavan kumar mittal***538 ka-2/1149, triveni nagar-2, lucknow, u.p., india***Lucknow
+14307***Kartik mittal [s/o y mittal]***Bs***ECO***Hall 3, 142***kartikm***O+***M***Yogesh mittal***A-49, hasan khan mewati nagar, alwar, rajasthan, india***Alwar
+14308***Kartik raj***Btech***CSE***Hall 10, c-429***kartikr***O+***M***Rajesh kumar gupta***New area,  second lane,  okni, hazaribag, jharkhand, india***Hazaribag
+14309***Kartikey bhargav***Bs***ECO***Hall 10, b-345***kartikey***O+***M***Ramewshwar dayal bhargav***823/b, railway colony (east), opp. drm office, jhansi, u.p., india***Jhansi
+14310***Kartikeya srivastava***Btech***ME***Hall 2, 218***skartik***O+***M***Sanjay srivastava***15/229,  sector-15, indira nagar, lucknow, u.p., india***Lucknow
+14311***Karttikeya mangalam***Btech***EE***Hall 10, c-415***mangalam***O+***M***Mukesh nemani***Nemani trading company,  domapokhar, near bank road, muzaffarpur, bihar, india***Muzaffarpur
+14312***Kashish jain***Btech***BSBE***Hall 5, d-107***jkashish***O+***M***Amrish kumar jain***House no. 544,  sector 69, sas nagar, mohali, punjab, india***Mohali
+14313***Kaushal agrawal***Btech***CSE***Hall 5, d-105***kaushala***Ab+***M***Harishankar agrawal***Shri balaji general stores,  main chowrah, kasia road, padrauna, u.p., india***Padrauna
+14314***Kaustubh vivek rane***Btech***CSE***Hall 2, 331***krane***O+***M***Vivek rane***Flat no.2 shree residency asc-23, ashwin nagar, nasik, maharashtra, india***Nasik
+14315***Kavish kumar yadav***Btech***AE***Hall 2, 216***kavish***B+***M***Chunnilal yadav***J n v naichana,  bawal, rewari, haryana, india***Rewari
+14316***Keshav pareek***Btech***MSE***Hall 10, b-412***keshavpk***B+***M***Suresh pareek***883/5 vaishali, ghaziabad, u.p., india***Ghaziabad
+14317***Khem raj meena***Btech***ME***Hall 2, 114***khemraj***A+***M***Ramkhiladi meena***Agawali,  post-gandrawa, tehsil-sikrai, dausa, rajasthan, india***Dausa
+14318***Kiran naik***Btech***MSE***Gh***Not Available***Not available***F***Dhore bhageshwar naik***Not available***Not Available
+14319***Kisalaya mishra***Btech***AE***Hall 2, 118***kisalaya***B+***M***Bagambar mishra***Hig-14/6, oshb colony, chandrasekharpur, bhubaneswar, orissa, india***Bhubaneswar
+14320***Kishan gopal***Btech***CSE***Hall 2, 126***kishang***B+***M***Neema ram***Nohariya,  kalyansar, churu, rajasthan, india***Churu
+14321***Koduru phani manikanta rahul***Btech***EE***Hall 3, 322***kpmrahul***O+***M***Koduru venkata ramprasad ***Flat no.134 indira towers opposite pwd g, vijayawada, a.p., india***Vijayawada
+14322***Koppu rohit sinha***Btech***EE***Hall 5, c-203***krsinha***O+***M***Koppu narasimha***Qno de-35, c- colony,  palvancha, khammam, telangana, india***Khammam
+14323***Koshal sharma***Btech***EE***Hall 2, 127***koshals***O+***M***Bhanu prakash sharma***B-396 gali no. 5, prem vihar,  karawal nagar, delhi, delhi, india***Delhi
+14324***Kranti prakash yeole***Btech***BSBE***Hall 6, ghtb-214***krantip***A+***F***Prakash yeole***Deogaonchall,  mill area, dr. b.r. ambedkar road,  nanded, nanded, maharashtra, india***Nanded
+14325***Krishna pratap rao***Prep.***ME***Hall8***Not Available***Not available***M***Hansu ram***Not available***Not Available
+14326***Kritagya dabi***Btech***CSE***Hall 10, c-431***kdabi***Ab+***M***Narendra kumar dabi***25,  azad marg,  ajnas road,  khategaon, dewas, madhya pradesh, india***Dewas
+14327***Krittika***Btech***EE***Hall 6, b-111***krittika***O+***F***Bhagat singh***House no.1 basant vihar, narwana jind, narwana jind, haryana, india***Narwana jind
+14328***Krunal maru***Btech***BSBE***Hall 10, b-412***krunalm***B+***M***Ukabhai maru***Ganeshnagar -1 plot no. 02, near vadiya, road,  palitana., bhavnagar, gujarat, india***Bhavnagar
+14329***Krutika kalkal***Btech***CE***Hall 6, ghta-102***krutika***B-***F***Brij pal singh***C-229,  ganga sagar, ganga nagar, meerut, u.p., india***Meerut
+14330***Kshiitiz singhal***Btech***CSE***Hall 10, b-415***kshiitiz***A+***M***Vijay singhal***Shankar cold storage,  second kilometre, muradabad road, sambhal, u.p., india***Sambhal
+14331***Kshitij jaggi***Bs***CHM***Hall 2, 331***kshitijj***B+***M***Arun kumar jaggi***C/o printart offset,  33 cantt road, near odeon cinema, lucknow, u.p., india***Lucknow
+14332***Kshitij yadav***Btech***ME***Hall 10, b-344***kshitijy***O+***M***B s yadav***House no.125,  sector 4,  gurgaon, gurgaon, haryana, india***Gurgaon
+14333***Kshitiz suman***Btech***CSE***Hall 5, c-207***kshitizs***O+***M***Benaik prasad***E/52 p c colony,  kankarbagh, patna, bihar, india***Patna
+14334***Kuldeep singh***Btech***BSBE***Hall 5, c-105***kuldeepo***B+***M***Om prakash singh***Plot no. 45/3,  mahamanapuri colony, karaundi, varanasi, u.p., india***Varanasi
+14335***Kuldeep tak***Bs***CHM***Hall8***Not Available***Not available***M***Shankar lal tak***Not available***Not Available
+14336***Abhimanyu makarand kulkarni***Btech***EE***Hall 2, 315***abhikul***B+***M***Makarand kulkarni***Plot no.5 laukik apartment, shakuntal nagar shahnoorwadi, aurangabad, mah, maharashtra, india***Mah
+14337***Kulwal karan ghanshyam***Bs***CHM***Hall 10, c-436***kkaran***O+***M***Ghanshyam kulwal***B-601,  aster,  gundecha,  thakur village, kandivali (east),  mumbai, mumbai, maharashtra, india***Mumbai
+14338***Kumar gaurav***Btech***ME***Hall 2, 224***kugaurav***O+***M***Dinesh kumar***Daata baba lane,  nand bihar colony, mithanpura, muzaffarpur, bihar, india***Muzaffarpur
+14339***Kumar nishant vivek***Btech***EE***Hall 2, 328***knishant***O+***M***Ram sewak baitha***Ambedkar nagar,  khaza sarai, laheria sarai, darbhanga, bihar, india***Darbhanga
+14340***Kumari shilpa***Btech***CHE***Gh, b-311***kumaris***B+***F***Arbind kumar singh***A/4/11, kamdhenu apartments, marine drive, kadma, jamshedpur, jharkhand, india***Jamshedpur
+14341***Kummetha yaswanth reddy***Btech***EE***Hall 10, a-428***yaswanth***B+***M***Kummetha jayarami reddy***Flat no 205 ms-9 priya towers, devanagar, kurnool, a.p., india***Kurnool
+14342***Kunal chaturvedi***Btech***CSE***Hall 3, 220***kunalch***O+***M***Ajay kumar chaturvedi***T4/1,  cariappa enclave, dipatoli, ranchi, jharkhand, india***Ranchi
+14343***Kunal kapila***Bs***MTH***Hall 2, 218***kunalkap***B+***M***Deepak kapila***M 41, kalkaji, delhi, delhi, india***Delhi
+14344***Kunchala prasad***Btech***CE***Hall 5, e-105***kprasad***O+***M***Kunchala subbarao***House no 3-9-103/1,  central bank colony, road no. 20,  lb nagar,  saroor nagar, hyderabad,  telangana, telangana, india*** telangana
+14345***Kundan jaiswal***Btech***AE***Hall 5, d-307***kundanj***O+***M***Vijay jaiswal***Village po+ps gaunaha, west champaran, bihar, india***West champaran
+14346***Kushal kumar***Bs***MTH***Hall 2, 132***kushk***O-***M***Pradeep kumar kesharwani***5/490,  gomti nagar vistar, , sector-5,  gomti nagar, , lucknow, u.p., india***Lucknow
+14347***Kuthadi suresh***Btech***CE***Hall 2, 325***ksuresh***O+***M***Kuthadi komuraiah***9-5-305,  markendeya nagar,  ram nagar, karim nagar, karimnagar, telangana, india***Karimnagar
+14348***Labhansh agrawal***Btech***ME***Hall 5, d-211***labhansh***B+***M***Ratan lal agrawal***Senani kirana stores, near mela ground, katghora, chhattisgarh, india***Katghora
+14349***Lakhan lal benwal***Btech***EE***Hall 2, 219***blakhan***Ab+***M***Ramgopal benwal***Khatikan mohalla, gol chakkar ke pass, dausa, rajasthan, india***Dausa
+14350***Lakshya gangwar***Btech***ME***Hall 5, e-116***laksh***B+***M***Lalta prasad gangwar***450 lane no 7,  karamchari nagar, izzatnagar, bareilly, u.p., india***Bareilly
+14351***Lala ram***Btech***CHE***Hall 2, 215***lala***B+***M***Salga ram***Naya batadu, barmer, rajasthan, india***Barmer
+14352***Lalit kumar dindor***Btech***BSBE***Hall 3, 221***lalitkd***B+***M***Kantilal dindor***Village jivakhunta post sajjangarh, banswara, udaipur, raj, rajasthan, india***Raj
+14353***Lavanya taneja***Bs***PHY***Hall 6, ghtb-313***tlavanya***B+***F***Vinod kumar taneja***House no. 15,  lane no. 5, , vasant vihar enclave, dehradun, uttarakhand, india***Dehradun
+14354***Lingam deepak***Bs***MTH***Hall 10, c-413***deepakl***B+***M***L. koteswara rao ***2-3-528/c/15a flat-5 sree mukhi towers, bapu nagar amberpet, hyderabad,  telangana, telangana, india*** telangana
+14355***Lisha***Btech***CE***Hall 6, b-215***lisha***O+***F***Sunil kumar sinha***45-g2,  shrinath campus,  shyam vatika, chatrasal nagar,  malviya nagar,  jaipur, jaipur, rajasthan, india***Jaipur
+14356***Lokendra choudhary***Btech***ME***Hall 5, e-106***lokendra***A+***M***S.k. choudhary***159 hu air force station sonegaun, null, nagpur, maharashtra, india***Nagpur
+14357***Lovish bansal***Btech***CE***Hall 2, 328***lovish***O+***M***Deepak bansal***30 rsg colony, null, sirsa, haryana, india***Sirsa
+14358***Mahajan prathamesh shekhar***Btech***CE***Hall 3, 228***prath***Ab+***M***Shekhar tukaram mahajan***Plot no. 88,  vitthal rukhmai society, , wadavali section,  ambernath, thane, maharashtra, india***Thane
+14359***Maitri ruchita vishwanath***Btech***MSE***Hall 6, ghtb-112***ruchita***A-***F***Maitri vishwanath***Kunal icon b4/604 pimple saudagar, pimpri, pune, maharashtra, india***Pune
+14360***Majumdar rounak ranjit***Btech***ME***Hall 5, d-315***rounakm***B+***M***Ranjit majumdar***E/604,  laxmi narayan residency, pokhran rd 1, thane, maharashtra, india***Thane
+14361***Malla s pratyusha***Btech***CE***Hall 6, ghtb-410***pratyu***B+***F***Malla yasoda madhavi***Door no. 49-27-1,  src residency, , madhuranagar,  seethammapeta, visakhapatnam, a.p., india***Visakhapatnam
+14362***Manan jain***Btech***AE***Hall 5, d-204***manan***B+***M***Arun kumar jain***2-e-21,  vikas nagar, bundi, bundi, rajasthan, india***Bundi
+14363***Mandeep singh***Btech***ME***Hall 5, d-215***mandeeps***B+***M***Gurmit singh***C/o s. harbhajan singh,  hemilton engg. co.,  patel marg, ghaziabad, u.p., india***Ghaziabad
+14364***Maniprakash ray***Btech***BSBE***Hall 10, b-440***maniprak***A+***M***Ganesh ray***House no. 46 bajitpur,  post bajitpur, , muzaffarpur,  bihar, muzaffarpur, bihar, india***Muzaffarpur
+14365***Maniratnam mandal***Btech***EE***Hall 3, 141***mandal***A+***M***Mrityunjoy mandal***Kothabari, , p.o. jhaljhalia, malda town, w.b., india***Malda town
+14366***Manish bagela***Btech***ME***Hall 2, 125***bagela***A+***M***Santosh kumar bagela ***5r1,  r c vyas colony, bhilwara, bhilwara, rajasthan, india***Bhilwara
+14367***Manish kumar jatoliya***Bs***ECO***Hall 5, c-105***manishj***A+***M***Madan lal jatoliya***Vpo kuli via khachariawas, tehsil dantaramharh, sikar, rajasthan, india***Sikar
+14368***Manish kumar meena***Btech***EE***Hall 10, c-434***mkumarm***A+***M***Kailash chand meena***Type 2/178 gc 2 crpf, foy sagar road, ajmer, rajasthan, india***Ajmer
+14369***Manish meena***Btech***EE***Hall 5, d-104***mmanish***A+***M***Netrapal singh***Flat no.206,  pocket 7,  sector 12,  dwarka, delhi, delhi, india***Delhi
+14370***Mannem sri krishna***Btech***ME***Hall 3, 324***srik***Ab-***M***Murali mohan rao***Flat no 506 ratnalok towers tadigadapa, beside zph school, vijayawada, a.p., india***Vijayawada
+14371***Manoj ghorela***Btech***CSE***Hall 3, 134***manojgh***O+***M***Jaidev ghorela***Village chowarain po-chakban wala, fazilka, fazilka, punjab, india***Fazilka
+14372***Manoj kumar***Btech***MSE***Hall 3, 330***manojks***B+***M***Bhikharam***Bhojasar chhota,  sardar shahar, churu, churu, rajasthan, india***Churu
+14373***Manuj sohanlal narang***Bs***MTH***Hall 5, c-301***manuj***A+***M***Sohanlal narang***D102 siddhi nagar society, bhatar road, surat, gujarat, india***Surat
+14374***Mayank dhawan***Btech***MSE***Hall 5, c-315***dhawan***A+***M***Prem dhawan***Type-v/5 atp colony, anpara, sonebhadra, u.p., india***Sonebhadra
+14375***Mayank garg***Btech***AE***Hall 2, 125***mayankgg***O+***M***Mukesh garg***105-b varda vihar, 333-334 lalaramnagar, indore, madhya pradesh, india***Indore
+14376***Mayank mittal***Btech***EE***Hall 5, d-306***mayankm***B+***M***Mohit mittal***A-39, sector 39, noida, u.p., india***Noida
+14377***Mayank patel***Btech***CSE***Hall 5, d-216***mpatel***O+***M***Rajendra patel***Hno 5 surya nagar near vaishali nagar, bhopal, madhya pradesh, india***Bhopal
+14378***Mayank singour***Bs***MTH***Hall 2, 316***mayanks***O+***M***Ravi kumar singour***Rani awanti bai ward, mandla, madhya pradesh, india***Mandla
+14379***Mayank varshney***Btech***AE***Hall 5, d-205***mayankv***B+***M***Ravindra kumar varshney***110-b civil lines, adjacent to prabha cinema, bareilly, u.p., india***Bareilly
+14380***Md arbaj meman***Btech***EE***Hall 5, d-309***arbaj***O+***M***Md jasimuddin ansari***Vpo,  karup,  sasaram, rohtas,  bihar, rohtas, bihar, india***Rohtas
+14381***Mohammad rafshan***Btech***ME***Hall 5, c-305***rafshan***A+***M***Helal ahmed***Ahmedmanjil,  haryajam,  nirsa,  dhanbad, null, nirsa, jharkhand, india***Nirsa
+14382***Md wasim akram***Btech***BSBE***Hall 5, c-103***mdwasim***O+***M***Md ansar alam***Kota-kasbatoli sudhani barsoi katihar, katihar, bihar, india***Katihar
+14383***Md wasim alam***Btech***MSE***Hall 10, b-438***wasimk***O+***M***Md shamim alam***New colony, new karimganj, gaya, bihar, india***Gaya
+14384***Meena vikas gajanand***Btech***CSE***Hall 5, c-205***vikasm***B+***M***Gajanand meena***Adme miraj, railway quaters, near railway station miraj, sangli, maharashtra, india***Sangli
+14385***Meesala kalyan***Bs***CHM***Hall 3, 321***mkalyan***O+***M***M venkataiah***House no 49-1a/190, ms nagar, kurnool, a.p., india***Kurnool
+14386***Mendu rama krishna***Btech***AE***Hall 10, b-437***rkrishna***B+***M***Mendu venkata subba rao***Dno 9-35-92/5, repalle, a.p., india***Repalle
+14387***Mitul laxmikant wankhede***Bs***ECO***Hall 2, 222***mitulw***O+***M***L.g. wankhede***V25 vijaynand society, narendra nagar, nagpur, maharashtra, india***Nagpur
+14388***Mohammad afroz alam***Btech***CSE***Hall 3, 323***afrozalm***O+***M***Abdul ali***C/o alamgir,  vil-sehbara, post-saltaua, basti, u.p., india***Basti
+14389***Mohammad ashraf***Btech***ME***Hall 10, b-403***ashraf***O+***M***Mohammad iliyas***C-4/614 gulmohur enclave, nehru nagar 3, ghaziabad, u.p., india***Ghaziabad
+14390***Mohammad boorhan rashid***Btech***MSE***Hall 3, 236***mbrashid***O+***M***M j biswas***50-13-27/54, seethammapeta, visakhapatnam, a.p., india***Visakhapatnam
+14391***Mohammad owais mansoori***Btech***EE***Hall 3, 241***owais***O+***M***Parvez ahmed mansoori***2858/2 adarsh colony anand nagar adharta, null, jabalpur, madhya pradesh, india***Jabalpur
+14392***Mohd aqib***Btech***CHE***Hall 3, 324***aqibm***O+***M***Rais ahmad***41/10 juhi safed colony, kanpur, u.p., india***Kanpur
+14393***Mohit kumar tekriwal***Btech***AE***Hall 3, 339***mohitk***B+***M***Ramesh kumar tekriwal***Jindal stainless lim. kaliapani, jajpur road, jajpur, orissa, india***Jajpur
+14394***Mohit kumar***Btech***EE***Hall 2, 113***mohitku***A+***M***Girilal saini***Near temple idgaha road quazi, moradabad, u.p., india***Moradabad
+14395***Mohit kumar meena***Btech***CHE***Hall 2, 121***mohitkrm***O+***M***Rajendra prasad meena ***Vpo basari khurd, tehsil-neemkathana, , dist.-sikar, sikar, rajasthan, india***Sikar
+14396***Mohit kumar meena***Btech***CHE***Hall 5, c-304***mohitkm***O+***M***Ramswaroop meena***Village matana,  po keharpura kalan, tehsil chirawa dist jhunjhunu, jhunjhunu, rajasthan, india***Jhunjhunu
+14397***Mohit yadav***Bs***CHM***Hall8, c-312***mohity***O+***M***Satyanarayan yadav***V.p.o majra, kanhawas, alwar, rajasthan, india***Alwar
+14398***Vinit vijaykumar more***Bs***MTH***Hall 5, c-312***vinit***A+***M***Vijay kumar more***171 near modern school, , koradi road, nagpur, maharashtra, india***Nagpur
+14399***Mrityunjay kumar***Bs***CHM***Hall 5, c-203***mrityunk***O+***M***Birendra prasad***Chandani chowk, sheikhpura, sheikhpura, bihar, india***Sheikhpura
+14400***Mudimadugula ranjith kumar***Bs***PHY***Hall 5, c-313***mranjith***B+***M***M poshamallu***H no. 11-1-141/4, allur,  8 incline colony, mndl ramagundam, karimnagar, telangana, india***Karimnagar
+14401***Mukesh bhamu***Btech***CE***Hall 5, d-304***bmukesh***A+***M***Nema ram bhamu***Village rampura,  post motipura, , tehsil nawa, nagore, rajasthan, india***Nagore
+14402***Rohith mukku***Btech***CSE***Hall 3, 320***rohithm***O+***M***Abhimanyudu mukku***Flat no.101,  shri residency, chaitanyapuri, hyderabad,  telangana, telangana, india*** telangana
+14403***Mukul parashar***Btech***CHE***Hall 5, d-313***mukulp***O+***M***Rajeev parashar***Parashar kabada,  teli ki bazariya, naya bazaar,  lashkar,  gwalior, gwalior, madhya pradesh, india***Gwalior
+14404***Mukund mittal***Btech***ME***Hall 3, 226***mukundm***O+***M***Pranay mittal***B5,  govindpuri,  dandaiya bazar, aliganj, lucknow, u.p., india***Lucknow
+14405***Munot rushab preetam***Btech***EE***Hall 2, 116***rushab***B+***M***Preetam ashok munot***Rh no. 7,  ganatra complex,  market yard, pune, maharashtra, india***Pune
+14406***N c kaushik***Btech***CE***Hall 2, 223***nkaushik***O+***M***N c srinivas***Plot-134,  old vasavi colony, secunderabad, hyderabad,  telangana, a.p., india*** telangana
+14407***Nalla ramu***Btech***ME***Hall 3, 125***nramu***O+***M***Nalla vishwanadham***H.no. 11-55,  balaji nagar, , husnabad,  karimnagar, karimnagar, telangana, india***Karimnagar
+14408***Nalluru sai harsha***Btech***CSE***Hall 5, d-310***harshan***O+***M***Nalluru srinivasulu***27-2-1269, balaji nagar, mainroad, nellore, a.p., india***Nellore
+14409***Naman agarwal***Btech***ME***Hall 3, 241***namanag***B+***M***Shyam prakash agarwal***Flat no.4, jalvayu vihar, sector-10, vidyadhar nagar, jaipur, jaipur, rajasthan, india***Jaipur
+14410***Naman churiwala***Btech***MSE***Hall 2, 216***namanc***B+***M***Shiv kumar churiwala***E-913 green avenue ghod dod road, surat, gujarat, india***Surat
+14411***Naman kumar***Bs***MTH***Hall 10, c-408***namank***O+***M***Sudhir kumar***House no.603, sector-21d, faridabad, haryana, india***Faridabad
+14412***Naman kumar gupta***Bs***PHY***Hall 3, 238***gnaman***A+***M***Deepak gupta***75 sheetla dham colony, dayal bagh agra, agra, u.p., india***Agra
+14413***Naman sachan***Btech***ME***Hall 10, c-412***snaman***B+***M***Manjulata sachan***Village and post meenapur kanpur dehat, kanpur, u.p., india***Kanpur
+14414***Natasha singh***Btech***CHE***Hall 6, ghta-201***natasha***Ab+***F***Deedar singh***2-m 13 dadabari extension, kota, kota, rajasthan, india***Kota
+14415***Naveen kumar***Btech***CHE***Hall 5, c-208***knaveen***A+***M***Rajpal***Bisoha rewari, near govt. high school bisoha, rewari, haryana, india***Rewari
+14416***Naveen kumar meena***Btech***AE***Hall 5, d-213***naveenkm***Ab+***M***Brijesh kumar meena***Lic of india, near sharda school, degana, rajasthan, india***Degana
+14417***Navneet singh***Bs***CHM***Hall 5, d-315***snavneet***Ab+***M***Arvind kumar singh***D 302,  turra,  pipri, sonebhadra, robertsganj, u.p., india***Robertsganj
+14418***Nayan deshmukh***Btech***CSE***Hall 3, 325***ndesh***O+***M***Nitin deshmukh***38 gavshinde nagar, khandwa road, khargone,  m.p., madhya pradesh, india*** m.p.
+14419***Neeraj kayasth***Btech***CE***Hall 10, b-404***kneeraj***B+***M***Dev kishan kayasth***House no. sb 162, new bharat nagar, bhiwani, haryana, india***Bhiwani
+14420***Neeraj pal***Btech***ME***Hall 2, 318***tneeraj***A+***M***Ajmer singh pal***470 lig vaishnavi vihar,  jarauli-2, kanpur, u.p., india***Kanpur
+14421***Neha byadwal***Bs***ECO***Gh, b-113***nehab***Ab+***F***Prahlad narayan meena***A-107 tirupati nagar, jagatpura, jaipur, rajasthan, india***Jaipur
+14422***Neha singh***Btech***BSBE***Hall 6, ghta-402***nehasngh***A+***F***Ratan singh***57 hc sawan park,  ashok vihar, null, delhi, delhi, india***Delhi
+14423***Nikhil agarwal***Btech***CHE***Hall 3, 141***nagarwal***B+***M***Sanjay agarwal***120/411 kc apartment, lajpat nagar, kanpur, u.p., india***Kanpur
+14424***Nikhil bansal***Btech***MSE***Hall 3, 234***nikban***O+***M***Mahendra kapur bansal***Quarter no.83, nirman vihar-i, cpwd colony, sector-2, vidyadhar nagar, jaipur, rajasthan, india***Jaipur
+14425***Nikhil baranwal***Btech***EE***Hall 2, 115***nikhilbl***B+***M***Anil kumar baranwal***Kasturi auto mobiles,  near petrol pump, bhagwanpur,  lalganj, azamgarh, u.p., india***Azamgarh
+14426***Nikhil byadwal***Btech***EE***Hall 3, 223***nikhilby***O+***M***Lekhraj meena***32,  meena colony outside ganga pole, amber road, jaipur, rajasthan, india***Jaipur
+14427***Nikhil kumar singh***Btech***CE***Hall 5, c-216***nikhilsh***O+***M***Tripurari singh***Anandmai colony, khojai imli,  phulwari sharif, patna, bihar, india***Patna
+14428***Nikhil sharma***Btech***MSE***Hall 2, 220***cnikhil***B+***M***Raj kumar***Q.no.1260, dmw, null, patiala, punjab, india***Patiala
+14429***Nikhil vanjani***Btech***CSE***Hall 3, 340***nihkilv***B+***M***Lalit vanjani***C-36, shaktinagar, nu-10/b, gujarat, india***Nu-10/b
+14430***Nikita garg***Btech***BSBE***Hall 6, ghta-301***nikita***O+***F***Sushil kumar***H.no. 770,  ward no. 13,  adarsh nagar, jhajjar, jhajjar, haryana, india***Jhajjar
+14431***Nishant shukla***Btech***MSE***Hall 10, c-410***snishant***O+***M***Akhand kumar shukla***24/267, near rajrath press, dwarika nagar, rewa, madhya pradesh, india***Rewa
+14432***Nishant tiwari***Btech***CHE***Hall 10, a-427***nishantt***O+***M***Prabhat kumar tiwari***Bajrang nagar, urrahat rewa, rewa, madhya pradesh, india***Rewa
+14433***Nishit asnani***Btech***CSE***Hall 3, 338***nishit***B+***M***Anil asnani***House no. 28,  sector 9b, saket nagar, bhopal, madhya pradesh, india***Bhopal
+14434***Nitai prasad sahoo***Bs***CHM***Hall 2, 117***nitai***B+***M***Rabindra kumar sahoo***1194/d26 sector 6,  c.d.a., cuttack, orissa, india***Cuttack
+14435***Nitesh kumar yadav***Btech***AE***Hall 5, d-210***krnitesh***Ab+***M***Lalita devi ***Shambhu yadav,  post mandrauli, , police station mh nagar dist siwan, siwan, bihar, india***Siwan
+14436***Nithin krishna reddy k***Btech***ME***Hall 5, c-214***nithin***B+***M***K p tharakeswara reddy***Flat g,  grace apts. no. 3, bala vinayagar, nagar main road,  arumbakkam, chennai, tamil nadu, india***Chennai
+14437***Ojaswee kumar dhayal***Bs***ECO***Hall 2, 325***ojaswee***O+***M***Subhash chandra***C/o gurukal iti,  nawalgarh road, sikar, sikar, rajasthan, india***Sikar
+14438***Om prakash bankolia***Bs***ECO***Hall 3, 341***omprksh***O+***M***Hanuman shahay bankoliya***Vpo.- jharli,  viya-kanwat, sikkar, rajasthan, india***Sikkar
+14439***Om prakash ghuniyal***Bs***PHY***Hall 10, c-407***ghuniyal***B+***M***Ranjeet ram ghuniyal***30/18/4 rajindra nagar, null, ambala cantt, haryana, india***Ambala cantt
+14440***Omkar ravikumar banare***Btech***BSBE***Hall 3, 225***omkar***O+***M***Ravikumar banare***C-104,  prajapati sadan,  sector 9, khanda colony,  new panvel(w), , navi mumbai, maharashtra, india***Navi mumbai
+14441***P sughosh***Btech***CSE***Hall 2, 335***sughosh***B+***M***P ravindra***H.no-403, jmr spring avenue, gayatri nagar, moula ali, hyderabad,  telangana, a.p., india*** telangana
+14442***Palabatla sindhuja***Btech***EE***Hall 6, ghtb-112***sindhuja***B+***F***Palabatla anand***2-50 main road shadnagar, mahaboobnagar, hyderabad, a.p., india***Hyderabad
+14443***Pallav agarwal***Btech***CSE***Hall 2, 226***pallavag***O-***M***Dinesh kumar agarwal***C-1755, indira nagar, lucknow, u.p., india***Lucknow
+14444***Pankaj agarwal***Bs***ECO***Hall8***Not Available***Not available***M***Sushil agarwal***Not available***Not Available
+14445***Pankaj bajirao patil***Btech***AE***Hall 10, c-425***pankajbp***B+***M***Bajirao patil***Quarter no. 2/b,  type iv, ordnance factory,  varangaon, bhusaval, maharashtra, india***Bhusaval
+14446***Pankaj kumar***Btech***ME***Hall 10, c-414***pankajk***O+***M***Roopchand singh***Street no.4, bhupendra puri,  modi nagar, ghaziabad, modinagar, u.p., india***Modinagar
+14447***Pankaj kumar meena***Btech***CHE***Hall 10, b-438***krpankaj***B+***M***Banwari lal meena***Ranipura post-markhi, via-amarsar, jaipur, rajasthan, india***Jaipur
+14448***Paridhi maheshwari***Btech***EE***Hall 6, ghta-401***paridhi***O+***F***Radhey shyam maheshwari***A- 76,  shahpura, bhopal, bhopal, madhya pradesh, india***Bhopal
+14449***Parth sharma***Btech***CSE***Hall 3, 218***parth***B+***M***R.p. sharma***264 pushp bhavan,  5th rangpur road, dadwara, , kota, rajasthan, india***Kota
+14450***Parul srivastava***Btech***MSE***Hall 6, ghta-101***parulsri***Ab+***F***Deepak kumar srivastava***5/62 vipul khand, gomti nagar, lucknow, u.p., india***Lucknow
+14451***Patil lukesh***Btech***CSE***Hall 10, c-415***lukesh***Not available***M***Patil sanjay***At post hardap taluka mahoor, district nanded, nanded, maharashtra, india***Nanded
+14452***Patil tanvi vilas***Btech***MSE***Hall 6, ghta-301***tanvip***Ab+***F***Vilas pralhad patil***B-3/11, r d nagar bazarpeth khopoli, , panvel, maharashtra, india***Panvel
+14453***Pawan kumar patel***Btech***CSE***Hall 2, 124***patelp***O+***M***Vinod kumar patel***Village bamhori sheetal,  post thona, , block niwari, , niwari, madhya pradesh, india***Niwari
+14454***Pawan kumawat***Bs***ECO***Hall 5, d-105***pawankd***A+***M***Nanag ram kumawat***Kishangarh, renwal, jaipur, rajasthan, india***Jaipur
+14455***Pawaskar koustubh nitin***Btech***ME***Hall 5, d-312***koustubh***O-***M***Nitin pawaskar***Plot 63, midc,  kudal, kudal, maharashtra, india***Kudal
+14456***Penumatsa shanmukha sai***Btech***CE***Hall 3, 143***shanmukh***O+***M***P kanakaraju***Quarter no. 1,  street no. 22,  new avenue, nit-trichy campus, trichy, tamil nadu, india***Trichy
+14457***Phani kumar eslavathu***Btech***CHE***Hall 5, e-111***ephani***B+***M***Arjuna eslavathu***Jayanthipuram tanda,  jaggaya peta mandal, krishna district, vijayawada, a.p., india***Vijayawada
+14458***Pinjari naveed imran***Btech***EE***Hall 5, d-302***naveed***B+***M***Noor basha***50-753/ 4d tagore nagar, kallur, kurnool, a.p., india***Kurnool
+14459***Pithani koushik***Btech***MSE***Hall 3, 237***koushikp***O+***M***Sainath***Srt 32 vidyanagar, hyderabad,  telangana, a.p., india*** telangana
+14460***Piyush kumar rai***Btech***MSE***Hall 2, 116***piyushr***A+***M***Omprakash rai***Near basantpur power house, ballia, u.p., india***Ballia
+14461***Piyush kumar [s/o r d singh]***Btech***CHE***Hall 3, 227***kpiyush***O+***M***Rajdeo singh***Near adarsh shiksha niketan school, manjhitola adityapur 1, jamshedpur, jharkhand, india***Jamshedpur
+14462***Piyush kumar***Btech***MSE***Hall 2, 128***piyushkm***A+***M***Uday kumar choudhary***704 chhittupur,  samne ghat,  lanka, varanasi, u.p., india***Varanasi
+14463***Piyush raj gupta***Btech***CHE***Hall 3, 229***piyushrg***Ab+***M***Ruchika gupta***D-48/1, misirpokhra, varanasi, u.p., india***Varanasi
+14464***Piyush tayal***Btech***EE***Hall 5, d-112***ptayal***B+***M***Subhash chander tayal***103,  shiv enclave, deep nagar,  jalandhar cantt., jalandhar, punjab, india***Jalandhar
+14465***Podili kumar saibhargav***Btech***EE***Hall 2, 226***saikumar***B+***M***Podili saidaiah***Dr. no:3-247/a/3, krishna priya theatre lane, nayanagar, kodad, telangana, india***Kodad
+14466***Pogiri kala sagar***Btech***CSE***Hall 5, e-103***pksagar***A+***M***Pogiri suresh***Behind donkala mill, srikakulam dist, null, srikakulam, a.p., india***Srikakulam
+14467***Pokar monil navinchandra***Btech***AE***Hall 2, 229***monilnp***O+***M***Navinchandra***B/401,  gokul concorde, gokul township, mumbai, maharashtra, india***Mumbai
+14468***Sai surya vamsi bh. reddy pondugula***Btech***CSE***Hall 5, d-203***pssvbr***B+***M***Kondareddy.p***G 1 grand victoria appt.,  5th line, brundavan gardens, guntur, a.p., india***Guntur
+14469***Pooja yadav***Btech***AE***Hall 6, ghta-302***poojay***A+***F***Viki yadav***J2 district judge compound, police training college, moradabad, u.p., india***Moradabad
+14470***Prabhat kumar***Btech***AE***Hall 3, 342***prabhatk***B-***M***Rameshwar prasad***Village bhagwanpur hat post, bhagwanpur hat,  siwan, siwan, bihar, india***Siwan
+14471***Prabhat singh***Btech***ME***Hall 10, b-435***singhsca***O+***M***Harprasad gautam***H n 734/7b outside chand gate nai basti, jhansi, jhansi, u.p., india***Jhansi
+14472***Prachi singh azad***Btech***CHE***Hall 6, ghtb-409***prachiaz***O+***F***O. p. singh***321 ushma urja apartments, c-58/3 sector 62 noida, noida,  up, u.p., india*** up
+14473***Pradeep kumar dhinwal***Bs***ECO***Hall 3, 343***dpradeep***B+***M***Sohan lal dhinwal***Vpo- karwasar, churu, churu, rajasthan, india***Churu
+14474***Praful kumar***Btech***AE***Hall 5, c-303***praful***A+***M***Tara chand sharma***House no. 52,  chandan vihar, lower roop nagar,  muthi camp, jammu, j & k, india***Jammu
+14475***Pragya chauhan***Btech***MSE***Hall 6, ghta-302***pragyac***A+***F***Pradeep chauhan***Flat no. 103,  building no. 31,  hp nagar, east vasinaka,  chembur,  mumbai, mumbai, maharashtra, india***Mumbai
+14476***Prakhar pratap***Btech***ME***Hall 10, c-427***ppratap***O+***M***Ratan kumar***Raveepur bahauddeenpur, patel nagar, akbarpur ambedkarnagar, ambedkar nagar, u.p., india***Ambedkar nagar
+14477***Prakhar singh***Btech***CE***Hall 5, e-110***prasingh***O+***M***Dhan singh***3/199 sector -j jankipuram, lucknow, u.p., india***Lucknow
+14478***Pranav bhatt***Btech***CE***Hall8***Not Available***Not available***M***Neelambar bhatt***Not available***Not Available
+14479***Pranav s***Btech***ME***Hall 2, 317***spranav***O+***M***Sivakumar m a***223 biligiri r.m.p colony, yelwal, karnataka, india***Yelwal
+14480***Pranay baldev***Btech***EE***Hall 3, 140***bpranay***B+***M***Baldev kumar***C-504,  tower heights apartments, pitampura,  new delhi, new delhi, delhi, india***New delhi
+14481***Pranay shah***Bs***ECO***Hall 10, a-432***spranay***O+***M***Parag shah***115/2 vallabh nagar, indore, madhya pradesh, india***Indore
+14482***Pranjal dixit***Btech***CE***Hall 2, 211***pranjald***B+***M***Yugesh kumar dixit***636, sector 29, faridabad, haryana, india***Faridabad
+14483***Pranshu patidar***Btech***BSBE***Hall 3, 238***ppatidar***A+***M***Ramesh patidar***Gopi vihar colony, barwani road,  thikri, barwani, madhya pradesh, india***Barwani
+14484***Prasang gupta***Btech***CE***Hall 10, c-406***prasang***B+***M***Pradeep gupta***Flat no.2 ff,  106,  street 17, pratapnagar, mayur vihar -i, delhi, delhi, india***Delhi
+14485***Prashant saxena***Btech***CE***Hall 2, 321***prsaxena***B-***M***Pankaj kumar saxena***B-57, shahpura,  mansarovar colony, bhopal, madhya pradesh, india***Bhopal
+14486***Prashant singhla***Btech***CHE***Hall 10, a-424***singhla***B+***M***Bhupender singhla***House number - 1447, sector - 13, hisar haryana, haryana, india***Hisar haryana
+14487***Prashumn***Btech***ME***Hall 3, 122***prashumn***B+***M***Ghanshyam***Vill. dawardu,  p.o. drang, teh. sadar, , mandi, himachal pradesh, india***Mandi
+14488***Prasoon bajpai***Btech***CE***Hall 10, b-439***bprasoon***O-***M***Aperna bajpai***1441/1550, ratanpur colony, panki, kanpur, u.p., india***Kanpur
+14489***Prateek jain***Btech***MSE***Hall 5, d-309***pjain***Ab+***M***Rakesh jain***Brijlal sheelchand kirana merchant nazai, bazar, lalitpur,  u.p., u.p., india*** u.p.
+14490***Prateek roy***Btech***CE***Hall 2, 318***praroy***B+***M***Bhaba shankar roy***244,  1st floor, hakikat nagar, delhi, delhi, india***Delhi
+14491***Prateek singh***Btech***AE***Hall 3, 336***pksingh***B+***M***Rk singh***15/204 bansal colony, sirsa, haryana, india***Sirsa
+14492***Prateek yadav***Btech***MSE***Hall 10, c-405***prkyadav***A+***M***Balwant singh yadav***House no. 96,  village-balour, po-bahadurgarh,  jhajjar, bahadurgarh, haryana, india***Bahadurgarh
+14493***Pratik mishra***Btech***CE***Hall 2, 334***pmishra***Ab+***M***Manoj kumar mishra***D2a mecon vatika singhmore hatia, ranchi, jharkhand, india***Ranchi
+14494***Praveen kumar ranjan***Btech***AE***Hall 2, 321***ranjanpk***B+***M***Tejvir singh***Ii rm-168,  sector-2,  rajendra nagar, sahibabad, ghaziabad, u.p., india***Ghaziabad
+14495***Prawaan singh***Bs***MTH***Hall 5, c-316***prawaan***B+***M***Ajay kumar***5b police colony model town-2, null, delhi, delhi, india***Delhi
+14496***Premanshu baghel***Btech***MSE***Hall 5, d-314***baghelp***O+***M***K.p. khande***Behind jhulelal temple, shyam nagar, telibandha, raipur, chhattisgarh, india***Raipur
+14497***Priya kushram***Btech***MSE***Hall 6, b-112***kpriya***B+***F***K s kushram***B-1/ii sivriya, khandwa, madhya pradesh, india***Khandwa
+14498***Priyadarshi anubhav***Btech***EE***Hall 2, 232***anubhavp***A+***M***Charan behera***Plot no.-74,  phase-2,  anant vihar, , pokhariput,  bhubaneswar,  odisha,  india, bhubaneswar, orissa, india***Bhubaneswar
+14499***Priyanka meena***Btech***AE***Gh***Not Available***Not available***F***Dashrath lal meena***Not available***Not Available
+14500***Priyankar garai***Btech***AE***Hall 2, 226***pgarai***B+***M***Swapan kumar garai***10 abinash sashmal lane,  beleghata, kolkata, w.b., india***Kolkata
+14501***Priyesh kumar jamra***Btech***CE***Hall 10, b-433***priyesh***O+***M***Rajesh singh jamra***Bansi colony, bagh, dhar, madhya pradesh, india***Dhar
+14502***Prokel thaosen***Btech***CHE***Hall 3, 139***prokel***B+***M***Pramod thousen***Surat nagar, near mcie building, haflong, assam, india***Haflong
+14503***Pulak saha***Bs***CHM***Hall 5, d-103***pulak***Not available***M***Pradip kumar saha***Village burwan, burwan, w.b., india***Burwan
+14504***Pulkit sharma***Btech***BSBE***Hall 10, b-434***spulkit***O+***M***Jagdish prasad sharma***B-7a,  janki vihar apt.,  flat 301(a), shiv marg,  banipark, jaipur, rajasthan, india***Jaipur
+14505***Puneet kumar meena***Btech***CE***Hall 5, c-109***puneetkm***A-***M***Keshram meena***Plot no b-11,  j p colony, tonk phaatak, jaipur, rajasthan, india***Jaipur
+14506***Puneet kumar verma***Btech***CSE***Hall 5, d-313***puneetkv***O+***M***Ashok kumar verma***Village aligarhwa, post pachangwa, siddhartha nagar, u.p., india***Siddhartha nagar
+14507***Punit kumar suman***Btech***AE***Hall 3, 129***punits***B+***M***Prakash kumar suman***At and post - pirpainti, bhagalpur, bihar, india***Bhagalpur
+14508***Punit sharma***Bs***PHY***Hall 10, c-410***punit***Ab+***M***Rambhagat ***710/26, bahadurgarh, haryana, india***Bahadurgarh
+14509***Purwaj tiwari***Btech***CHE***Hall 2, 220***purwaj***O+***M***Prem shankar tiwari***131, apr colony phase 1, bilhari, jabalpur, madhya pradesh, india***Jabalpur
+14510***Pushpendra singh***Btech***ME***Hall 2, 232***pushpen***O+***M***Siyaram singh***45, r.k.puram, sonkh road, mandi chouraha, mathura, u.p., india***Mathura
+14511***R animesh***Btech***CSE***Hall 3, 338***animeshr***B+***M***Ramesh chand meena***A1/3, saf games village, koyambedu, chennai, chennai, tamil nadu, india***Chennai
+14512***Rachit deep***Btech***EE***Hall 3, 123***rachitd***A+***M***C p gupta***I 306 parsvnath gardenia sector-61, noida, u.p., india***Noida
+14513***Raghav kumar***Btech***BSBE***Hall 10, b-431***raghavk***O+***M***Manish kumar***142,  dda sfs flats,  gulmohar enclave, near green park metro station, delhi, delhi, india***Delhi
+14514***Raghav mittal***Btech***MSE***Hall 3, 338***raghavm***A+***M***Rekha mittal***Bg-7/143, paschim vihar, new delhi, delhi, india***New delhi
+14515***Raghav saxena***Btech***CHE***Hall 2, 328***rsaxena***O+***M***Raj bihari saxena***F-18 chinav apartment f block, harishankar puram, gwalior, madhya pradesh, india***Gwalior
+14516***Raghib naushad***Btech***MSE***Hall 10, c-429***raghib***O+***M***Naushad alam***Near nagarpalika school, post tikari, gaya, bihar, india***Gaya
+14517***Rahul***Bs***CHM***Hall 10, b-407***rahulz***B+***M***Surendra prasad***# 311/8 behind sangam hotel, near manik,  chand talab,  bypass golamber,  anisabad, patna, bihar, india***Patna
+14518***Rahul agarwal***Btech***AE***Hall 3, 124***rahula***A+***M***Shyam agarwal***Saraswati bhawan,  behind chambal college, gumanpura, kota, rajasthan, india***Kota
+14519***Rahul gupta***Btech***CSE***Hall 5, d-308***grahul***B+***M***Surendra kumar gupta***642,  behind allahabad bank, chawani, kota, rajasthan, india***Kota
+14520***Rahul kumar***Btech***AE***Hall 10, c-428***rahulmpm***B+***M***Birendra kumar singh***Street no. 6,  gaurakshini, sasaram, bihar, india***Sasaram
+14521***Rahul kumar***Btech***CHE***Hall 5, c-215***kmrrahul***B+***M***Shiv kumar choudhary***Station road, bairagi near sgm college, gaya, bihar, india***Gaya
+14522***Rahul kumar [s/o s kumar]***Btech***MSE***Hall 5, c-115***rahulkmr***A+***M***Sudisht kumar***Flat 61/c kalpana apartment, sector 5,  vaishali, ghaziabad, u.p., india***Ghaziabad
+14523***Rahul nagial***Btech***AE***Hall 5, c-314***nagial***O+***M***Kulwant singh nagial***Flat no. 204,  block d-2,  gh 79, sandeep vihar,  sector 20, panchkula, haryana, india***Panchkula
+14524***Raj kumar meena***Btech***CE***Hall 2, 114***rajmeena***B+***M***Rameshwar meena***Vill-dikoli kalan th-sapotara, rajasthan, gangapur city, rajasthan, india***Gangapur city
+14525***Rajat nagar***Btech***CE***Hall 2, 128***rnagar***O+***M***Rajesh nagar***18 tirupati nagar,  airport road, indore, madhya pradesh, india***Indore
+14526***Rajat raj patel***Btech***AE***Hall 2, 329***rrpatel***O+***M***Bhupendra patel***191,  sanjeevani nagar, jabalpur, madhya pradesh, india***Jabalpur
+14527***Rajat tripathi***Btech***MSE***Hall 2, 323***rajattri***O+***M***Sanjay tripathi***47-a krishna vihar, new darpan colony, thatipur, gwalior, madhya pradesh, india***Gwalior
+14528***Rajeev kumar ranjan***Bs***PHY***Hall 3, 236***rkranjan***A+***M***Chulhai mahto***Nand nagar,  chakdah, madhubani, bihar, india***Madhubani
+14529***Rajeev sharma***Btech***CE***Hall 5, c-315***rajeevsh***B+***M***Surendra kumar sharma***48-a naveen nagar,  aishbagh, bhopal, madhya pradesh, india***Bhopal
+14530***Rajesh choudhary***Btech***CE***Hall 5, c-114***rajeshc***O+***M***Badrinarayan choudhary***47 jda dairy scheme surajpura, sanganer, jaipur, rajasthan, india***Jaipur
+14531***Rakesh jangid***Bs***ECO***Hall 2, 110***rakeshj***O+***M***Arjun ram***V.p.o. pundlota tehsil degana, district nagore, nagore, rajasthan, india***Nagore
+14532***Raman kishor jajoriya***Btech***CE***Hall 3, 219***ramanj***O+***M***Bhanvar lal jajoriya ***128 hanuman nagar keshopura, ajmer road, jaipur, rajasthan, india***Jaipur
+14533***Raman srivastava***Btech***CE***Hall 3, 218***ramansr***O+***M***Alok kumar***Quarter no. 4, type 5, btps colony, badarpur, new delhi, delhi, india***New delhi
+14534***Ramdayal***Btech***CE***Hall 3, 238***ramdayal***B+***M***Bhagawana ram sihag***Village:gudawadi, post:salasar, , tehsil:sujangarh, churu, rajasthan, india***Churu
+14535***Rangineni kartheek***Btech***EE***Hall 3, 129***karthek***B+***M***R purna chander rao***H. no 3-16-106/14/b/1 venkat reddy nagar, ramanthapur amberpet, hyderabad,  telangana, telangana, india*** telangana
+14536***Raunak kaushik***Btech***CHE***Hall 2, 230***rkaushik***O+***M***Sunil kumar singh***808,  panchvati gardens,  bariatu road, ranchi, jharkhand, india***Ranchi
+14537***Raushan joshi***Btech***EE***Hall 3, 119***joshir***B+***M***Shashi bhushan sah***Madhaul, mahua, hajipur, bihar, india***Hajipur
+14538***Ravi kirti***Btech***CE***Hall 5, d-311***raviki***B+***M***Ravindra sharma***New colony,  chotki delha, sangam chowk, gaya, bihar, india***Gaya
+14539***Ravi kumar***Btech***CHE***Hall 5, d-311***ravikumr***O+***M***Ram rattan***House 1646/31,  street 2, shastri colony, sonepat, haryana, india***Sonepat
+14540***Ravi pratap singh***Btech***CE***Hall 10, b-413***rvisingh***B+***M***Krishna kumar yadav***Village mathauli,  post salemgarh, district kushinagar, up, kushinagar, u.p., india***Kushinagar
+14541***Ravindra khoja***Btech***CHE***Hall 10, c-432***rkhoja***B+***M***Ram niwas khoja***Plot no. 60,  dilip nagar,  lal sagar, jodhpur, rajasthan, india***Jodhpur
+14542***Ravish kumar***Btech***EE***Hall 5, c-303***ravishk***B-***M***Binod kumar***Koshi colony q.n.-f2, null, purnia, bihar, india***Purnia
+14543***Rayi chandra sekhar***Bs***CHM***Hall8***Not Available***Not available***M***R rambabu***Not available***Not Available
+14544***Rekhanshi varma***Btech***BSBE***Hall 6, ghtb-410***rekhav***O+***F***Ashish varma***356/2,  railway officer's colony, south civil lines, jabalpur, madhya pradesh, india***Jabalpur
+14545***Renu yadav***Btech***BSBE***Gh, b-311***renuy***O+***F***Ajit kumar***Hno. 1254/3,  lane 5, rajiv nagar, gurgaon, haryana, india***Gurgaon
+14546***Rhic chowdhury***Btech***EE***Hall 2, 332***rhic***B+***M***Subrata chowdhury***4-b,  dda flats,  pocket-2, sector-6,  dwarka, new delhi, delhi, india***New delhi
+14547***Rina bhati***Btech***CHE***Hall 6, ghta-302***rina***Not available***F***Nand kishor ***Ward no.-12 near mawardia temple, bhadra,  hanumangarh, hanumangarh jn, rajasthan, india***Hanumangarh jn
+14548***Rishabh bhardwaj***Btech***CSE***Hall 5, c-212***brishabh***Ab+***M***Ram bhool sharma***Sc-234 a, c block, shastri nagar, ghaziabad, ghaziabad, u.p., india***Ghaziabad
+14549***Rishabh goyal***Btech***ME***Hall 10, b-440***risgoyal***B+***M***Nitin goyal***Flat no 29 b,  shamnath apartments, 12 shamnath marg, civil lines, delhi, delhi, india***Delhi
+14550***Rishabh gupta***Bs***ECO***Hall 3, 134***rishabhg***B+***M***Awdhesh kumar gupta***B-466 awas vikas hans puram, naubasta, kanpur, u.p., india***Kanpur
+14551***Rishabh sahu***Btech***MSE***Hall 2, 112***rishsahu***A+***M***Mahesh chandra sahu***B-11,  vardhman green park, , ashoka garden,  bhopal., bhopal, madhya pradesh, india***Bhopal
+14552***Rishabh sharma***Btech***ME***Hall 3, 118***rishshar***B+***M***Sanjeev kumar sharma***248/4a pk road railway officers flats, connaught place, new delhi, delhi, india***New delhi
+14553***Rishabh vaish***Btech***MSE***Hall 2, 322***rvaish***B+***M***Brijesh kumar vaish***House no.904 sector-21d, faridabad, faridabad, haryana, india***Faridabad
+14554***Rishabh yadav***Btech***EE***Hall 2, 228***yadavr***A+***M***Arvinder singh***36,  adarsh nagar,  shikohabad,  fz, shikohabad, u.p., india***Shikohabad
+14555***Rishi bansal***Btech***ME***Hall 2, 111***rishib***A+***M***Sanjeev bansal***73/160 shiprapath, mansarovar, jaipur, rajasthan, india***Jaipur
+14556***Rishi raj***Btech***EE***Hall 10, b-347***rishir***B+***M***Gauri shankar***C/o manoj kumar,  vishnu vihar colony, gola road,  danapur, patna, bihar, india***Patna
+14557***Rishi ranjan***Btech***MSE***Hall 10, c-435***rishi***A+***M***Akshay lal sonkar***S-8/264 sudhakar road,  khajuri, null, varanasi, u.p., india***Varanasi
+14558***Ritesh***Btech***BSBE***Hall8***Not Available***Not available***M***C b singla***Not available***Not Available
+14559***Ritesh kumar maurya***Btech***AE***Hall 5, c-204***rkmaurya***B+***M***Maheshwari maurya***B-418,  sector-b, dudhichua, singrauli, singrauli, madhya pradesh, india***Singrauli
+14560***Ritesh yadav***Btech***ME***Hall 2, 130***riteshy***O+***M***Birendra prakash***Village-surai, sathioan, azamgarh, u.p., null, azamgarh, u.p., india***Azamgarh
+14561***Ritwik bera***Btech***AE***Hall 5, d-304***britwik***O+***M***A k bera***39 mig,  c block,  shyam nagar, kanpur, kanpur, u.p., india***Kanpur
+14562***Riya talati***Btech***CHE***Hall 6, ghta-402***riyat***O+***F***Yogesh talati***17,  akshaydeep colony, behind shehnai residency a.b. road, indore, madhya pradesh, india***Indore
+14563***Rohan krishna chaudhary***Btech***EE***Hall 3, 341***rohankc***O+***M***Raj kumar***273/3, loco colony, jaipur, rajasthan, india***Jaipur
+14564***Rohit bansal***Bs***ECO***Hall 2, 334***rohitb***B+***M***Bhoj raj bansal***Fm 119 deen dayal nagar, gwalior, madhya pradesh, india***Gwalior
+14565***Rohit choudhary***Btech***ME***Hall 2, 332***rohitcd***O+***M***Mamta choudhary***B-2,  vidyut nagar,  ajmer road, jaipur, rajasthan, india***Jaipur
+14566***Rohit dhillon***Btech***EE***Hall 3, 326***dhillonr***B+***M***Hawa singh dhillon***V.p.o. banipur,  tehsil: bawal, rewari, haryana, india***Rewari
+14567***Rohit gupta***Btech***ME***Hall 2, 319***rohitd***B+***M***Shri ashok kumar gupta***#900/7 sector-7,  u.e.,  kurukshetra, null, kurukshetra, haryana, india***Kurukshetra
+14568***Rohit sonker***Btech***ME***Hall 3, 235***rohit***O+***M***Pitamber sonker***4/4 b-block ms flat,  peshwa road, gole market, new delhi, delhi, india***New delhi
+14569***Rohitash meena***Btech***CE***Hall 5, e-113***rohitash***B+***M***Ramesh chand meena***Village kurigama,  post lilouthi, tehsheel - baseri, dholpur, rajasthan, india***Dholpur
+14570***Ronit bansal***Btech***AE***Hall 2, 117***ronitb***A+***M***Vipin gupta***705,  sector 26, panchkula, haryana, india***Panchkula
+14571***Ruchi lathoria***Btech***CE***Hall 6, ghta-202***ruchil***B+***F***D r lathoria***D 10,  tansen nagar,  tansen road, gwalior, gwalior, madhya pradesh, india***Gwalior
+14572***Rutuj jugade***Btech***EE***Hall 10, a-429***rutuj***A-***M***Shantanu jugade***H-no:404 g r pinnacle, kanakapura mn rd, j p nagar phase -1, bangalore, karnataka, india***Bangalore
+14573***S kaartick***Btech***MSE***Hall 2, 314***kaartick***B+***M***N sivakumar ***8/34,  1st main road, senthil nagar annexe, chinna porur, chennai, chennai, tamil nadu, india***Chennai
+14574***Sachin choudhary***Btech***CE***Hall 2, 222***sachinch***O-***M***Bhaguram***Dhani khicharo ki,  vpo.-barwa, teh-nawalgarh dist-jjn, nawalgarh, rajasthan, india***Nawalgarh
+14575***Sachin k salim***Btech***CSE***Hall 3, 128***sachink***O+***M***Salim k m***"shreyas",  karukappadath house, n. lokamaleswaram,  p.o.kodungallur, trichur, kerala, india***Trichur
+14576***Sachin suthar***Btech***CE***Hall 3, 136***sachins***O+***M***Radhey shyam suthar***Kundiya gate,  raila, bhilwara, rajasthan, india***Bhilwara
+14577***Saddam hussain***Btech***BSBE***Hall 5, d-102***saddam***Not available***M***Sayed lal mohammad***Opposite madina maszid, kotri, , near city kotwali,  bikaner, bikaner, rajasthan, india***Bikaner
+14578***Sagar***Bs***CHM***Hall 2, 227***sagary***A-***M***Rajbir singh***V.po-milakpur no-2, , tehsil- bawani khera,  district-bhiwani, hansi, haryana, india***Hansi
+14579***Sagar chand***Btech***EE***Hall 10, b-436***sagarch***A+***M***Narayan chand***A-7 bsf society,  sec-pi-1, plot 15, greater noida, , greater noida, u.p., india***Greater noida
+14580***Sahil jindal***Btech***ME***Hall 5, e-112***sahilj***O+***M***Rajeev jindal***Flat no 30 group housing society 38, sector 20, panchkula, haryana, india***Panchkula
+14581***Sahil singh***Btech***BSBE***Hall 2, 327***sahils***O+***M***Balbir singh***Street no-19,  rampura basti, , lalgarh,  bikaner, bikaner, rajasthan, india***Bikaner
+14582***Sahil taraiya***Btech***ME***Hall 2, 112***sahilt***B+***M***Hari om taraiya***K-28,  k k puri avas vikas, nandanpura, jhansi, jhansi, u.p., india***Jhansi
+14583***Sai hemanth koneti***Btech***CSE***Hall 10, b-348***hemanthk***O+***M***Sudheer ganesh***Flat no.304 vindhya 3, jayabharthi gardens moosapet, hyderabad,  telangana, telangana, india*** telangana
+14584***Sainyam nagar***Btech***MSE***Hall 2, 121***sainyam***O-***M***Col anupam nagar***K-109, kapil vihar, sec-21c, faridabad, faridabad, haryana, india***Faridabad
+14585***Saiyam surana***Btech***ME***Hall 10, c-431***ssurana***B+***M***Sanjay surana***33/4 surana bhawan,  balkeshwar, road agra, agra, u.p., india***Agra
+14586***Saket kumar***Btech***MSE***Hall 5, d-116***saketk***O+***M***Sunil babu sahab***Village girdhariya,  post dinara, sasaram, bihar, india***Sasaram
+14587***Saksham***Bs***MTH***Hall 2, 326***saksan***A+***M***Ravinder kumar***141/14 ashok nagar gohana road, rohtak, haryana, india***Rohtak
+14588***Saksham sharma***Btech***CSE***Hall 2, 318***sakshams***O+***M***Suman kumar sharma***24-a. a-block,  canal colony, near railway club, amritsar, punjab, india***Amritsar
+14589***Salik ahmed khan***Btech***MSE***Hall 5, e-103***salik***Ab+***M***Anwar ahmad***E-31,  armapur estate, kalpi road,  kanpur, kanpur, u.p., india***Kanpur
+14590***Samick biswas***Btech***CSE***Hall 3, 124***samick***Ab+***M***Manoj kumar biswas***C/3-suryavilla appartment,  mahishgot, , krishnapur, kolkata, w.b., india***Kolkata
+14591***Samit kumar***Btech***CE***Hall 10, b-346***samitkr***B+***M***Jaibeer singh***Vpo ragha chhoti rajgarh,  churu, churu, rajasthan, india***Churu
+14592***Sampathirao ravi chandra murthy***Btech***ME***Hall 2, 119***ravic***O+***M***Sampathirao. simhachala murthy***Dr-no 15-294 f-block laxminagar visakhap, visakhapatnam, a.p., india***Visakhapatnam
+14593***Sana khanum***Bs***CHM***Gh, a-202***khanum***B+***F***Abdul shafique***D16 ongc colony, panvel, mumbai, maharashtra, india***Mumbai
+14594***Sanchi anil chaware***Btech***CE***Hall 6, ghta-401***sanchi***O+***F***Anil p. chaware***60/4 patrakar chs kalanagar, bandra east, mumbai, maharashtra, india***Mumbai
+14595***Sanchit chaturvedi***Bs***PHY***Hall 5, d-209***sanchitc***A+***M***Sanjay chaturvedi***1/188 delhi gate, agra, u.p., india***Agra
+14596***Sanchit vijay***Btech***CHE***Hall 10, c-428***sanchitv***O-***M***Rakesh kumar vijay***1515 bagru walon ka rasta, chandpole bazar, jaipur, rajasthan, india***Jaipur
+14597***Sandeeprajan p***Btech***MSE***Hall 5, c-201***sandeepr***Ab+***M***Pandiarajan m***160,  rajappa nagar,  5th street, ariyamangalam, trichy, tamil nadu, india***Trichy
+14598***Sandesh kumar***Bs***MTH***Hall 5, d-112***sandesh***B+***M***Rakesh kumar***House no. 1/1,  shastri marg, civil lines, jhansi, u.p., india***Jhansi
+14599***Sanjay bharat***Btech***CSE***Hall 3, 118***sanjayb***Ab+***M***Krishan lal***Vpo kanam,  tehsil pooh, shimla, himachal pradesh, india***Shimla
+14600***Sanjay kumar***Btech***BSBE***Hall 2, 126***gsanjay***B+***M***Ravindra prasad jayswal***Tikulia,  po+ps - chanpatia, west champaran, bihar, india***West champaran
+14601***Sanjay ramesh***Btech***CSE***Hall 10, c-426***sanjayr***O+***M***Ramesh s***Raghavendra krupa,  4th main, vijaynagar, tumkur, karnataka, india***Tumkur
+14602***Sanjeev kumar***Btech***EE***Hall 3, 324***ssanjeev***Ab+***M***Daleep raj***Vill.chakara p/o khairi teh bishnah, jammu, j & k, india***Jammu
+14603***Sankalp rastogi***Btech***MSE***Hall 2, 326***rsankalp***O+***M***Anoop kishore rastogi***48/180 generalganj, , kanpur, kanpur, u.p., india***Kanpur
+14604***Sapkal srujan sunilrao***Bs***PHY***Hall 2, 223***srujans***O+***M***Sunilrao annabhau sapkal***Psi colony,  arjun nagar, , near shingore lawn,  morshi road, amaravati, maharashtra, india***Amaravati
+14605***Sarthak mahapatro***Btech***ME***Hall 10, b-413***sarthakm***O+***M***Jayachandra mahapatro***Gandhinagar, raigarh, orissa, india***Raigarh
+14606***Sarthak pattanayak***Btech***CSE***Hall 10, b-339***spnayak***A+***M***Laxman kumar nayak***D-35(pts),  ntpc/tstps-kaniha, , po -deepshikha, angul, angul, orissa, india***Angul
+14607***Sarthak vashisht***Btech***ME***Hall 5, c-313***sarthakv***A+***M***Raj vashisht***H.no. 44 vasant vihar, una, h.p., una, himachal pradesh, india***Una
+14608***Sarveshwar yaduvanshi***Btech***EE***Hall 5, d-312***sarveshw***A+***M***Ram dulare lal***Village bahadurpur,  kustha seva ashram, parao,  district chandauli, varanasi, u.p., india***Varanasi
+14609***Saswat kumar mandal***Btech***CE***Hall 5, c-202***saswat***B+***M***Pratap kumar mandal***Plot no. b1/3, lingaraj vihar,  pokhariput, bhubaneswar, orissa, india***Bhubaneswar
+14610***Satya prakash panuganti***Btech***EE***Hall 3, 121***satyapp***A+***M***Bala brahmam panuganti***7-1-300,  maruthi veedhi, secunderabad, secunderabad, a.p., india***Secunderabad
+14611***Satyendra pandey***Btech***CHE***Hall 10, b-435***pandeys***B-***M***Ramasish pandey***Village maheshpur,  post- chhitauna, ps- kateya,  district- gopal ganj, gopalganj, bihar, india***Gopalganj
+14612***Saurabh***Btech***ME***Hall 5, c-101***saurabhy***B+***M***Suresh kumar***Na 2/2,  new alkapuri, gardanibagh, patna, patna, bihar, india***Patna
+14613***Saurabh anand***Btech***MSE***Hall 5, c-111***adsaurab***O+***M***Satya nand choudhary***At/po- anisabad, opp. shalimar cold storage, patna, bihar, india***Patna
+14614***Saurabh gond***Btech***AE***Hall 5, c-305***saurabhn***O+***M***Bechu ram gond***Village bhopaura, post bhopaura, mau, u.p., india***Mau
+14615***Saurabh kumar gupta***Btech***EE***Hall 5, e-115***saurbh***B+***M***Sunil kumar gupta***Village and post- bethara bazar, ballia, u.p., india***Ballia
+14616***Saurabh kumar kasaudhan***Btech***MSE***Hall 2, 222***saurabks***B+***M***Ajai kumar kasaudhan***Mohalla jhandatar, post markeenganj, ghazipur, u.p., india***Ghazipur
+14617***Saurabh parihar***Btech***EE***Hall 2, 118***parihars***B+***M***Nihal singh parihar***C.f.o office police fire station, reserve police lines,  idgah, agra, u.p., india***Agra
+14618***Saurabh purohit***Bs***MTH***Hall 5, d-212***spurohit***A+***M***Vijayshree purohit***M-100/3c saketnagar, bhopal, madhya pradesh, india***Bhopal
+14619***Saurav thakur***Btech***EE***Hall 2, 118***sauravt***O+***M***Upendra thakur***E-16/229,  sector-8, rohini,  delhi, delhi, delhi, india***Delhi
+14620***Sayantan chatterjee***Bs***CHM***Hall 3, 320***saychat***O+***M***Santanu chatterjee***Dept. of e&ece, iit kharagpur, kharagpur, w.b., india***Kharagpur
+14621***Seelam g.m.s.p kumar***Btech***EE***Hall 3, 127***gmspavan***B+***M***S.ravi kumar***Door no-15-127 medar bazar, kalamandir center, chilakaluripet, guntur, a.p., india***Guntur
+14622***Shah harsh atul***Bs***CHM***Hall 10, a-426***harshas***B+***M***Shah atul shantilal***I-504,  krishna building,  vasant sagar, , thakur village,  kandivali (e),  mumbai, mumbai, maharashtra, india***Mumbai
+14623***Shahil siddiqui***Btech***CHE***Hall 10, c-425***shahil***B+***M***Husain baksh siddiqui***Near sbi,  mohalla gangaram pur, mallawan hardoi, hardoi, u.p., india***Hardoi
+14624***Shahzeb haidar***Btech***CSE***Hall 10, b-342***shaidar***O+***M***Md. nazir haidar***Assistant,  district land acquisition, office,  collectorate,  aurangabad,  bihar, aurangabad, bihar, india***Aurangabad
+14625***Shaily bahuguna***Bs***ECO***Hall 6, ghtb-214***shailyb***A+***F***Gopal krishan bahuguna***Flat no - 1,  4th floor, vinayak cityplex devipura, sikar, rajasthan, india***Sikar
+14626***Shakti yadav***Btech***ME***Hall 5, d-114***shaktiy***O+***M***Satyabir singh***Vpo,  bhungarka, tehsil nangal chaudhary, mahendragarh, haryana, india***Mahendragarh
+14627***Shantnu suman***Btech***EE***Hall 3, 139***shantnu***Ab+***M***Birendra kumar***18c/1,  subhash nagar, west of khemni chak, patna, bihar, india***Patna
+14628***Sharad roy***Btech***EE***Hall 5, d-316***rsharad***B-***M***Swapan kumar roy***34,  nandan van,  izat nagar, bareilly, u.p., india***Bareilly
+14629***Sharma shubham mangilal***Btech***CSE***Hall 5, d-110***smsharma***B+***M***Mangilal sharma***At post box, kurankhed, akola, maharashtra, india***Akola
+14630***Sharon s dular***Btech***EE***Hall 10, c-426***sharonsd***B-***M***Sunil kumar***3/131,  rajasthan housing board, , jhunjhunun,  rajasthan., jhunjhunu, rajasthan, india***Jhunjhunu
+14631***Sharun kuhar***Btech***ME***Hall 5, d-305***sharunk***A+***M***Yashpal singh kuhar***10/844,  buddhi vihar,  phase-2, awas vikas colony, moradabad, u.p., india***Moradabad
+14632***Shashaank***Btech***CSE***Hall 3, 330***sshank***Ab+***M***Dharmender kumar***22 sunlight colony no.1, null, new delhi, delhi, india***New delhi
+14633***Shashank gautam***Bs***CHM***Hall 3, 331***shashig***B+***M***Chetram gautam***Q.no.rb320/b rly. colony dhodramohar, bhoura, betul, madhya pradesh, india***Betul
+14634***Shashank ojha***Btech***ME***Hall 2, 326***sojha***O+***M***Sangeeta ojha***Behind d.i.e.t. shastry nagar, , babarpur,  thana-ajitmal, auraiya, u.p., india***Auraiya
+14635***Shashank patidar***Bs***MTH***Hall 2, 122***patidars***Ab+***M***Shrikant patidar***162 saket nagar, 201 rounak ashray, indore, madhya pradesh, india***Indore
+14636***Shashank s takbhaware***Btech***MSE***Hall 2, 126***shatak***Ab+***M***Satish kumar c takbhaware***Block no f3,  central excise colony, kankanady, mangalore, karnataka, india***Mangalore
+14637***Shashank singh sengar***Btech***CE***Hall 3, 331***sengar***B+***M***Ranvijay singh sengar***8/184 arya nagar, kanpur, u.p., india***Kanpur
+14638***Shashank verma***Btech***CE***Hall 5, d-310***vshashan***Ab+***M***Vinod kumar verma***A170,  kalyanpur,  near kamla market, lucknow, u.p., india***Lucknow
+14639***Shashidhar s***Bs***PHY***Hall 5, e-112***shashiss***O+***M***Shankara lingaiah***Sambhrama,  12th cross s.i.t extension, tumkur, karnataka, india***Tumkur
+14640***Shashwat pandey***Btech***CE***Hall 10, b-437***spandey***A+***M***Sunil kumar pandey***B-610,  katyayani appts,  plot - 8, sec-6,  dwarka,  new delhi, new delhi, delhi, india***New delhi
+14641***Shashwat ranjan chaurasia***Btech***ME***Hall 5, c-215***shaswat***B+***M***R k chaurasia***3/3 new block vssd college campus, nawabganj, kanpur, u.p., india***Kanpur
+14642***Shatayu roy***Btech***CHE***Hall 3, 137***shatayur***O+***M***Samir kumar roy***124,  shiv temple lane, garabasa,  jugsalai, jamshedpur, jharkhand, india***Jamshedpur
+14643***Shaurya aarav***Bs***PHY***Hall 3, 340***aarav***O+***M***Binod kumar***Flat3b sharan vatika apartment, gd mishra path, new pataliputra colony, patna, bihar, india***Patna
+14644***Shibhansh dohare***Btech***CSE***Hall 3, 327***sdohare***O+***M***Shivraj kumar dohare ***21,  harsh vihar, behind mela ground, thatipur, madhya pradesh, india***Thatipur
+14645***Shikhar***Btech***ME***Hall 3, 323***shikhark***O+***M***Ajeet singh***Village nangla musha, post office- painga, ghaziabad, u.p., india***Ghaziabad
+14646***Shikhar dayal***Btech***CE***Hall 10, b-408***ashikhar***A+***M***Bishambhar dayal***E-1319, rajajipuram, lucknow, u.p., india***Lucknow
+14647***Shikher verma***Bs***PHY***Hall 5, d-211***shikher***B+***M***Satya deva verma***12/95,  vikas nagar,  lucknow, lucknow, u.p., india***Lucknow
+14648***Shirsopratim chattopadhyay***Btech***MSE***Hall 3, 325***shirso***A+***M***Sujit chattopadhyay***Bc 24/8, salt lake, sector 1, kolkata, w.b., india***Kolkata
+14649***Shitabh gupta***Btech***ME***Hall 5, c-308***shitabh***O+***M***Sandeep gupta***37 the mall, null, shimla, himachal pradesh, india***Shimla
+14650***Shiv ratan tiwari***Bs***ECO***Hall 2, 224***shivra***O+***M***Parmanand tiwari***Tiwari fancy store, jain chowk, nokha, null, bikaner, rajasthan, india***Bikaner
+14651***Shivam mishra***Bs***ECO***Hall 3, 140***shivamm***B+***M***Akhilesh kumar mishra***Sec 3 h.no 416 avas vikas, hanspuram naubasta, kanpur, u.p., india***Kanpur
+14652***Shivam singhal***Btech***CHE***Hall 5, c-114***shivam***O-***M***Adarsh kumar singhal***72/441 agersain vihar, holy chowk, jansath road, muzaffarnagar, u.p., india***Muzaffarnagar
+14653***Shivam singla***Btech***MSE***Hall 5, c-214***ssingla***Ab+***M***Subash singla***House no. 152,  ajit nagar, near circular road, nabha, punjab, india***Nabha
+14654***Shivam verma***Btech***AE***Hall 3, 126***vermas***O+***M***Ramnivas verma***H no. 70 kela colony, dholpur, rajasthan, india***Dholpur
+14655***Shivam yadav***Btech***CSE***Hall 2, 333***shivamy***Ab+***M***Ashok kumar***Village and post= ismailpur, district bulandshahr, bulandshahr, u.p., india***Bulandshahr
+14656***Shivang***Btech***BSBE***Hall 2, 219***kshivang***Ab-***M***Yogeshwar prasad***Postal colony-2,  dahiyawan, chapra, bihar, india***Chapra
+14657***Shivani srivastava***Btech***MSE***Hall 6, ghtb-312***sshivani***O+***F***A k srivastava***D-ii/1,  doordarshan colony, shyamla hills bhopal, bhopal, madhya pradesh, india***Bhopal
+14658***Shivansh rai***Bs***MTH***Hall 10, b-406***shivrai***O+***M***Sunita rai***Manorama colony, madhukar shah ward, madhya pradesh, india***Madhukar shah ward
+14659***Shivanshu singh***Btech***AE***Hall 10, a-432***shivansh***O+***M***Harcharan singh***2692,  rath road, indira nagar, orai jalaun, orai, u.p., india***Orai
+14660***Shivashish kumar gupta***Btech***CE***Hall 5, c-309***kgshiva***B+***M***Sujeet kumar gupta***36-c,  indian oil colony, old viay nagar,  near vijay club, agra, u.p., india***Agra
+14661***Shivi dixit***Btech***MSE***Hall 3, 326***shivid***A+***M***Radhesh dixit***127-661-w1 gurudham appartments, flat no. g1 saket nagar, kanpur, u.p., india***Kanpur
+14662***Shivram meena***Prep.***EE***Hall8***Not Available***Not available***M***Radhey shyam meena***Not available***Not Available
+14663***Shiwani meena***Btech***MSE***Hall 6, ghtb-411***shiwani***Not available***F***Jai niwas meena***Sawai madhopur, null, sawaimadhopur, rajasthan, india***Sawaimadhopur
+14664***Shobhit srivastava***Btech***EE***Hall 3, 330***shobhit***A+***M***S k srivastava***Flat no.602,  anand vatika 8/10, arya nagar, kanpur, u.p., india***Kanpur
+14665***Shrestha shourya***Btech***CE***Hall 2, 227***sshourya***B+***M***Daya kishor gupta***Amba kunj, mazhia road, dharamganj, kishanganj, bihar, india***Kishanganj
+14666***Shreyash tiwari***Bs***ECO***Hall 5, c-112***stiwari***O+***M***Pankaj tiwari***49, saraswati mandir street, suraj kund road, meerut, u.p., india***Meerut
+14667***Shristi***Btech***MSE***Gh, b-113***shristi***O+***F***Amar dev maurya***Iv/32, rail vihar, vikalp khand -3, gomtinagar, lucknow, u.p., india***Lucknow
+14668***Shruti agrawal***Btech***CHE***Hall 6, ghtb-214***shrutia***A+***F***Manoj kumar agrawal***A1006 indira nagar lucknow,  up, null, lucknow, u.p., india***Lucknow
+14669***Shruti tayal***Btech***CHE***Hall 6, ghtb-213***shrutit***B+***F***Sanjay tayal ***Kotwali santar murar, gwalior, madhya pradesh, india***Gwalior
+14670***Shubh gupta***Btech***EE***Hall 10, c-412***shubhgup***B+***M***Manish gupta***8a flagstaff road, civil lines, delhi, delhi, india***Delhi
+14671***Shubham agrawal***Btech***EE***Hall 3, 321***shubhm***O+***M***Mahaveer agrawal***Bansi villa bedal road falna, falna, rajasthan, india***Falna
+14672***Shubham beohar***Btech***EE***Hall 10, b-338***bshubham***Ab+***M***Sanjeev beohar***Hn:100, indira ward, kandeli narsinghpur, narsinghpur, madhya pradesh, india***Narsinghpur
+14673***Shubham gupta***Bs***ECO***Hall 2, 120***gupshub***O+***M***Arun kumar gupta***31 mata pura orai,  dist. jalaun, orai, u.p., india***Orai
+14674***Shubham gupta [s/o v gupta]***Btech***MSE***Hall 3, 121***gsubham***B+***M***Vinod gupta***House no.159, shastri nagar, jammu, j & k, india***Jammu
+14675***Shubham hudda***Btech***CHE***Hall 2, 314***shubhamh***O-***M***Surendra kumar hudda***Vpo-kusumdesar, tehsil-ratangarh, district -churu, rajasthan, ratangarh, rajasthan, india***Ratangarh
+14676***Shubham jain***Btech***EE***Hall 5, e-116***shubhjai***A+***M***Vinod kumar jain***A-252,  riddhi siddhi nagar, kunhari, kota, rajasthan, india***Kota
+14677***Shubham katiyar***Btech***EE***Hall 10, a-425***katiyars***B+***M***Shailendra katiyar***B-6,  kent exclusive,  fatima nagar,  pune, pune, maharashtra, india***Pune
+14678***Shubham kumar***Prep.***MSE***Hall8***Not Available***Not available***M***Jayphool***Not available***Not Available
+14679***Shubham kumar pandey***Btech***EE***Hall 10, b-414***shubhkp***O+***M***Dayashankar pandey***Purvi bypass,  rudrapur, deoria, u.p., india***Deoria
+14680***Shubham mandle***Bs***ECO***Hall 10, a-433***mandle***O+***M***Kamal mandle***166 nayapura station road rau, indore, madhya pradesh, india***Indore
+14681***Shubham mani katara***Btech***CE***Hall 5, d-312***smkatara***B+***M***Shyam sunder katara***65 swarn jayanti nagar bharatpur raj., null, bharatpur, rajasthan, india***Bharatpur
+14682***Shubham meena***Btech***EE***Hall 2, 331***mshubha***B+***M***Rambilas meena***146-a, shrinath puram, kota, rajasthan, india***Kota
+14683***Shubham prakash***Bs***MTH***Hall 3, 223***pshubh***O+***M***Shiv shambhu ***Flat no.-408,  ram babu plaza, bhagwat nagar, kumhrar, patna, bihar, india***Patna
+14684***Shubham saurabh***Btech***EE***Hall 3, 143***shubhs***A+***M***Nalni ranjan kumar***House no-4/1218, new colony janakpur, ramnagar, varanasi, u.p., india***Varanasi
+14685***Shubham swastik behera***Btech***BSBE***Hall 2, 231***ssbehera***O-***M***Ananda chandra behera***Annapurna apartment,  ag-113/1, talbagan,  krishnapur, kolkata, w.b., india***Kolkata
+14686***Shubham tyagi***Btech***AE***Hall 10, a-426***tyagis***B+***M***Naresh tyagi***Saraswati vihar,  sewla sarai, agra, u.p., india***Agra
+14687***Shubhanshu agarwal***Bs***CHM***Hall 3, 329***shubhaga***B+***M***Govind agarwal***B-40 indrepuri, agra, u.p., india***Agra
+14688***Shyam lal meena***Btech***ME***Hall 5, e-105***shyamlal***A+***M***Mali ram meena***Plot no 45,  shiv colony, kundan nagar, ajmer, rajasthan, india***Ajmer
+14689***Siddhant mittal***Btech***CHE***Hall 5, d-203***sidd***O+***M***Naveen mittal***Mittal sadan,  near crazy printers, dayanand colony, kurukshetra, haryana, india***Kurukshetra
+14690***Siddhant rohela***Btech***EE***Hall 2, 335***rohela***B+***M***Sandeep kumar***Rohela bhawan, tank road, solan, himachal pradesh, india***Solan
+14691***Siddharth agarwal***Bs***ECO***Hall 2, 323***sida***A+***M***Rajendra gupta***L-1 sagar vihar, vashali nagar, ajmer, rajasthan, india***Ajmer
+14692***Siddharth lal***Btech***EE***Hall 3, 135***sidlal***Ab+***M***Sudhanshu shekhar***Flat no.405,  surabhi apartment, gh-3,  sector 21c, faridabad, haryana, india***Faridabad
+14693***Siddharth mahapatra***Bs***CHM***Hall 10, c-434***msid***O+***M***Ranganath mahapatra***Flat-509, skyline city tower block, chandralayout, bangalore, karnataka, india***Bangalore
+14694***Siddharth prasad***Btech***AE***Hall 10, c-433***psid***B-***M***Bhaskar prasad***Qr.no-36/a street-2 sector-2 bhilai, bhilai, chhattisgarh, india***Bhilai
+14695***Siddharth raj gupta***Btech***BSBE***Hall 3, 228***sidrg***B+***M***Parag raj gupta***Peepaltola,  street, rampur, rampur, u.p., india***Rampur
+14696***Siddharth verma***Btech***MSE***Hall8***Not Available***Not available***M***Kashi ram verma***Not available***Not Available
+14697***Simrat singh***Btech***MSE***Hall 5, d-303***simrats***A+***M***Gurpreet singh***B-34 brij enclave, sunderpur, varanasi, u.p., india***Varanasi
+14698***Siyaram meena***Btech***CE***Hall 3, 239***msiyaram***B+***M***Kishan bihari meena***Village kodkya post ajanda, th kpatan, bundi, rajasthan, india***Bundi
+14699***Snehesh talukdar***Bs***CHM***Hall8***Not Available***Not available***M***Himadrish talukdar***Not available***Not Available
+14700***Snehil verma***Btech***EE***Hall 5, c-306***snehilv***A+***M***Satish kumar verma***C/o prof. rajesh singh,  basant vihar, , gali-3,  rajendra nagar,  gali-9, satna, mp, madhya pradesh, india***Mp
+14701***Somesh kumar***Btech***ME***Hall 10, b-337***ksomesh***B+***M***Suresh kumar***C/o mahesh kumar,  qrt. no. f/s-8, , d.v.c. colony,  chandrapura., bokaro steel city, jharkhand, india***Bokaro steel city
+14702***Somesh patel***Btech***ME***Hall 5, c-205***someshp***O+***M***S.n.. patel***127 rajat nagar,  piplani bhel, bhopal, bhopal, madhya pradesh, india***Bhopal
+14703***Sonkul nikhil avinash***Btech***ME***Hall 10, a-428***sonkul***A+***M***Avinash ramdas sonkul***Plot no 232 saraswati niwas, renuka nagar,  garkheda parisar, aurangabad, mah, maharashtra, india***Mah
+14704***Soumen mondal***Btech***MSE***Hall 2, 111***soumenm***Not available***M***Ashis kumar mondal***B-31,  sector 3, rourkela, orissa, india***Rourkela
+14705***Sounak barik***Bs***CHM***Hall 5, d-307***sounak***O+***M***Uttam barik***Sree apartment,  gb4, rabindrapally, jyangra, baguiati, kolkata, w.b., india***Kolkata
+14706***Sourav kumar sinha***Btech***AE***Hall 5, c-213***srvsinha***B+***M***Sunil kumar sinha***Colony no. 1,  behind kali mandir, durgasthan, katihar, bihar, india***Katihar
+14707***Srishti agarwal***Btech***CE***Hall 6, ghtb-213***srishtia***O+***F***Rajkumar agarwal***5 ch 7 jawahar nagar, null, jaipur, rajasthan, india***Jaipur
+14708***Srishti jain***Btech***CSE***Hall 6, ghta-301***srishtij***A+***F***Naveen kumar jain***37,  sangam appartments, opp. ambica vihar, paschim vihar,  new delhi, delhi, delhi, india***Delhi
+14709***Subham das***Btech***ME***Hall 5, d-105***dsubham***B+***M***Jitesh das***Shivam apartment,  flat number - 305, rukmini gaon, guwahati, assam, india***Guwahati
+14710***Subham kumar***Bs***MTH***Hall 2, 123***subham***O+***M***Anil kumar sharma***42-f police colony,  model town 2, new delhi, delhi, india***New delhi
+14711***Subham todi***Btech***ME***Hall 10, b-340***tsubham***A+***M***Dinesh todi ***Khemani quarter no.12, makum road, tinsukia, assam, india***Tinsukia
+14712***Subhash***Btech***EE***Hall8, e-101***subhask***B+***M***Rajaram***33/425,  gadi pal wali gali, , bankhandi road,  gopal pura,  morena, oran, madhya pradesh, india***Oran
+14713***Subhash chandra gurjar***Bs***ECO***Hall 10, b-340***subhashk***Ab-***M***Kajor mal gurjar***Boharawali post narsinghpuri, via guhala tehsil neemkathana, sikar, rajasthan, india***Sikar
+14714***Subhash kumar manjhi***Prep.***CE***Hall8***Not Available***Not available***M***Yashodanand manjhi***Not available***Not Available
+14715***Suddhodan katolkar***Bs***MTH***Hall 5, d-205***katolkar***O+***M***Arjun kumar katolkar***4type qtr no. 25,  officers colony, shobhapur post:pathakheda, betul, madhya pradesh, india***Betul
+14716***Sudhir kumar***Btech***CSE***Hall 5, e-112***sudhirk***O+***M***Lakshman ram***Mohanpurwa,  post peernagar, dist. ghazipur, ghaziabad, u.p., india***Ghaziabad
+14717***Sujay vishwakarma***Bs***MTH***Hall 3, 224***vishsj***A+***M***Sudesh vishwakarma***Mig-284/2a saket nagar, bhopal, madhya pradesh, india***Bhopal
+14718***Suman saurabh***Btech***CSE***Hall 5, d-109***sumanbh***O+***M***Shiv shankar prasad sinha***Cloth house,  garhpar, biharsharif, nalanda, bihar, india***Nalanda
+14719***Sumer chand***Btech***BSBE***Hall 10, c-416***sumerchn***B+***M***Chutara ram***P20, bhanu nagar 1st, new nagor road, mandor, jodhpur, rajasthan, india***Jodhpur
+14720***Sumesh singh***Btech***ME***Hall 5, d-206***sumeshs***Ab+***M***Nazar singh***Basoli rakkar colony una, una, himachal pradesh, india***Una
+14721***Sunil kumar chawla***Btech***EE***Hall 5, d-209***skchawla***O+***M***Mohan lal chawla***Village pandraheda post rindliya rampura, todaraisingh,  tonk, tonk, rajasthan, india***Tonk
+14722***Sunil kumar mishra***Btech***CHE***Hall 5, c-312***sunilsm***B+***M***Dillip kumar mishra***At ambira nagar,  po sankarma via remed, null, sambalpur, orissa, india***Sambalpur
+14723***Sunil kumar pandey***Btech***ME***Hall 10, b-406***sunilkp***O+***M***Shashi kant pandey***House no. 6602, sanjay colony,  sector 23, faridabad, haryana, india***Faridabad
+14724***Sunil tomar***Btech***CE***Hall 5, c-210***sunilt***Ab-***M***Harveer singh***Village jadhonpur,  post barauli, mathura, u.p., india***Mathura
+14725***Surabhi virinchi roy***Btech***EE***Hall 2, 128***virinchi***O+***M***Surabhi venkat ramana rao***Plot no.17, balaji nagar, near bn reddy nagar,  hastinapur, hyderabad,  telangana, telangana, india*** telangana
+14726***Surada yaswanth surya***Bs***MTH***Hall 3, 136***suryays***B+***M***Pushpa latha***Rajupalem, null, east godavari, a.p., india***East godavari
+14727***Suraj agarwal***Btech***ME***Hall 3, 223***surajag***Ab+***M***Ram niwas agarwal***59/3n/ae sona nagar, arjun nagar, agra, u.p., india***Agra
+14728***Suraj patil***Btech***EE***Hall 2, 320***surpatil***O+***M***Poonam chand patil***20-b,  vijay nagar, lal chowki, khandwa, madhya pradesh, india***Khandwa
+14729***Suraj prakash***Bs***PHY***Hall 10, b-348***surajprk***A+***M***Rajiv kumar dubey***Flat no 102 moti mansion apartment, near dominos kankarbagh patna, patna, bihar, india***Patna
+14730***Suraj sarkar***Btech***MSE***Hall 2, 130***ssuraj***A+***M***Anukul sarkar***Uttar bidya nagar hojai, nagaon assam, nagaon assam, assam, india***Nagaon assam
+14731***Surjeet singh***Btech***EE***Hall 5, c-212***surjeet***A+***M***Neterpal***H no. 387,  vpo kohand, karnal, haryana, india***Karnal
+14732***Surya choutpally***Btech***CE***Hall 3, 235***csurya***B+***M***Goverdhan choutpally***Qtr no l-59,  ou qtrs,  tarnaka, , opp nin, hyderabad,  telangana, telangana, india*** telangana
+14733***Sushant charaya***Bs***MTH***Hall 2, 131***sushantc***O+***M***Parveen charaya***H no 233 sec-14, sonepat, haryana, india***Sonepat
+14734***Sushant sirohi***Bs***MTH***Hall 5, c-103***susant***Ab-***M***Yuddhveer singh sirohi***Iii/33;ashtam vitt. colony, 32 bn pac;kanpur road, lucknow, u.p., india***Lucknow
+14735***Sute piyush prakash***Bs***MTH***Hall 3, 135***ppsute***Ab+***M***Prakash bhanudas sute***18, yashodeep housing society, , wanjari nagar,  behind medical college, nagpur, maharashtra, india***Nagpur
+14736***Suyash karkare***Btech***ME***Hall 5, c-111***suyashk***O+***M***Shishir karkare***Type 4 sect 1 42 bhel township, jhansi, u.p., india***Jhansi
+14737***Suyash nachiket sule***Btech***CHE***Hall 5, e-104***suysule***A+***M***Nachiket shashikant sule***C2-1703,  tulip,  runwal garden city, , balkum, thane, maharashtra, india***Thane
+14738***Suyash pratap***Btech***MSE***Hall 2, 230***suyashp***O+***M***Surendra pratap ram***38,  hydel colony,  kavinagar, ghaziabad, u.p., india***Ghaziabad
+14739***Swapnil goyal***Bs***ECO***Hall 3, 137***sgoyal***O+***M***Shiv kumar vaish***A1/57 vijay enclave palam dabri road, null, new delhi, delhi, india***New delhi
+14740***Swapnil kumar***Bs***MTH***Hall 10, a-434***kswapnil***O+***M***B. kumar***C-5, amlai officer's colony, shahdol, madhya pradesh, india***Shahdol
+14741***Swastik sharma***Btech***CE***Hall 5, c-209***swastiks***A+***M***Ashok kumar***D-890 gali no. 13, ashok nagar, delhi, delhi, india***Delhi
+14742***Swati gupta***Btech***EE***Gh, a-201***swatig***B+***F***Sanjay gupta***Plot no. 2,  parvati nagar,  opp., glass factory,  tonk road,  jaipur, jaipur, rajasthan, india***Jaipur
+14743***Swati singh***Btech***BSBE***Gh, a-201***sswati***O+***F***Prem singh***C-303, c.i.homes, mata mandir, bhopal, madhya pradesh, india***Bhopal
+14744***T s kaustubha***Btech***AE***Hall 3, 120***kaustab***O+***M***Tek chand meena***B201 nagar residency malviya nagar, jaipur, rajasthan, india***Jaipur
+14745***Taji shivam manoj***Btech***CSE***Hall 2, 217***shivamt***B-***M***Taji manoj***Plot no. 5-16-36,  nutan colony, , aurangabad, aurangabad, mah, maharashtra, india***Mah
+14746***Talla aravind reddy***Btech***CSE***Hall 2, 330***arareddy***O+***M***Talla venkat ramana reddy***Villa no 25,  maithri enclave, near carnival club,  j.j. nagar colony, hyderabad,  telangana, telangana, india*** telangana
+14747***Tanisha mishra***Bs***ECO***Hall 6, ghta-202***tanisha***O+***F***Sanjay mishra***3/210,  vishwas khand,  gomti nagar, lucknow, u.p., india***Lucknow
+14748***Tanmay t thakkar***Bs***PHY***Hall 10, c-413***tanmaytt***O+***M***Tushar n thakkar***Flat no 6,  latesh society, 612/b nana peth, pune, maharashtra, india***Pune
+14749***Tarun kumar***Bs***CHM***Hall 3, 325***ktarun***O+***M***Arjun kumar***Village badagaon post ghosi, district mau, mau, u.p., india***Mau
+14750***Tarun rathore***Btech***ME***Hall 5, d-301***trathore***O+***M***Devraj rathore***5/164 adarsh nagar, phalodi, jodhpur, rajasthan, india***Jodhpur
+14751***Tarun tiwari***Btech***MSE***Hall 5, c-304***ttiwary***B+***M***T. tiwari***B/4-123,  ekta gardens, patparganj, delhi, delhi, india***Delhi
+14752***Tarun yadav***Bs***ECO***Hall 5, e-114***taruny***O+***M***Gopal yadav***117/q/739, sharda nagar, kanpur, u.p., india***Kanpur
+14753***Tasnim aziz***Btech***CE***Hall 5, d-104***tasnim***O+***M***Azizur rahman***Near church quazi nagar phulwari sharif, null, patna, bihar, india***Patna
+14754***Tathagata karmakar***Bs***PHY***Hall 5, c-307***karmakar***O+***M***Dulal karmakar***Village+post-haripur, null, burdwan, w.b., india***Burdwan
+14755***Tej bahadur darjee***Bs***PHY***Hall 2, 132***tbahadur***B+***M***Ganga ram darjee***Near govt. sr. sec. school, pipal dara mw, singtam, gangtok, sikkim, india***Gangtok
+14756***Tejpal meena***Bs***ECO***Hall 10, a-425***tejpal***O+***M***Sardar mal meena***Jodhpura shahpura, jaipur, rajasthan, india***Jaipur
+14757***Tejasv rajput***Btech***BSBE***Hall 3, 220***tejasv***Ab-***M***Pradeep singh rajput***Panna house,  in front of club, ward no.2,  tehsil nowgong, chhatarpur, madhya pradesh, india***Chhatarpur
+14758***Tek chand***Btech***CHE***Hall 3, 125***tekchand***O+***M***Panna lal kumawat***Near sriram school, chidiya tiba, radhakisan pura, sikar, rajasthan, india***Sikar
+14759***Tizil saini***Btech***CE***Hall 5, c-205***tizil***B+***M***Anil kumar saini***46,  marigold,  l&t serene county, gachhibowli, hyderabad, a.p., india***Hyderabad
+14760***Tony k john***Btech***MSE***Hall 3, 143***tony***Ab+***M***Jijo k john***Flat no. 134,  trinity meadows, bellandur, bangalore, karnataka, india***Bangalore
+14761***Tummala sahitya krishna***Btech***EE***Hall 2, 230***sahitya***A+***M***T jayaram prasad***3-3-67/1,  baghameer,  kukatpally, hyderabad,  telangana, telangana, india*** telangana
+14762***Tushant mittal***Btech***CSE***Hall 5, c-305***tushant***O+***M***Sanjay k. mittal***#311, essjay fortune,  opp. varun motors, lane beside shoppers stop, begumpet, hyderabad,  telangana, telangana, india*** telangana
+14763***Tushar agarwal***Btech***ME***Hall 5, d-314***tushara***A+***M***Sanjeev goyal***B-53 motikunj extension, null, mathura, u.p., india***Mathura
+14764***Tushar chouhan***Btech***CHE***Gh, a-101***tusha***B+***F***Shyopat ram***Village 2gd b, new mandi,  gharsana, ganganagar, rajasthan, rajasthan, india***Rajasthan
+14765***Tushar tiwari***Bs***MTH***Hall 2, 221***ttushar***Ab+***M***Naresh chand sharma***Tiwari house, budh ki hat, , near bn gate, bharatpur, rajasthan, india***Bharatpur
+14766***Tushar vatsal***Btech***CSE***Hall 10, b-405***tvatsal***A+***M***Tarun kumar***House no.-305,  road no.-21(d) at rajiv, nager, p.o.-keshari nagar, patna, bihar, india***Patna
+14767***Uddeshya patil***Btech***CSE***Hall 5, d-106***uddeshya***B+***M***Shivmangal***865-kidwai ward,  roshan nagar, near iti(honey beauty parlour), katni, madhya pradesh, india***Katni
+14768***Ujjwal***Btech***MSE***Hall 2, 218***uthori***Ab+***M***Vedpal singh***Vpo jodhpuria teh. rania, sirsa, haryana, india***Sirsa
+14769***Uma shankar ram***Btech***EE***Hall 5, d-308***umashaan***O+***M***Manoj ram***Village mandu chatti, post mandu, post mandu, ramgarh, jharkhand, india***Ramgarh
+14770***Umakant prajapati***Btech***CE***Hall 5, d-202***umakant***B+***M***Late ramnath prajapati***Village + p.o + p.s : mohania(baribajar), ward number - 10,  district: kaimur, mohania,  bih, bihar, india*** bih
+14771***Umapati nandi***Btech***MSE***Hall 2, 120***umapatin***B+***M***Sahadeb nandi***Village-sagarmeje, post darapur, , dist. bankura,  west bengal, bankura, w.b., india***Bankura
+14772***Umesh k u***Bs***MTH***Hall 5, d-111***umeshku***O+***M***Unni k s***Kolipura house naikatty post, sulthan bathery, kerala, kerala, india***Kerala
+14773***Upadhyay aman radheshyam***Bs***CHM***Hall 5, d-210***amanup***B-***M***Radheshyam upadhyay***Bungalow no. 2 shri balaji complex, vasai, mumbai, maharashtra, india***Mumbai
+14774***Upamanyu barman***Btech***CE***Hall 3, 226***upaman***A+***M***Anjan barman***H.no-18,  milan path,  ambikagirinagar, , guwahati,  assam, guwahati, assam, india***Guwahati
+14775***Utkarsh bansal***Btech***BSBE***Hall 10, b-404***utkarshb***B+***M***Rajeev bansal***C-110, vaishali, garh road, meerut, u.p., india***Meerut
+14776***Utkarsh goel***Btech***ME***Hall 3, 229***utkarg***O+***M***Mangoo ram goel***P-52 badhwar park, colaba, mumbai, maharashtra, india***Mumbai
+14777***Utkarsh pratap singh***Btech***MSE***Hall 3, 127***upsingh***B+***M***Jai vir singh***In fron of anita siksha sadan, shyam vihar colony, naraich, agra, u.p., india***Agra
+14778***Utkarsh sengar***Btech***CHE***Hall 2, 129***usengar***B+***M***Arvind sengar***418-h mig satyam vihar,  awas vikas, kalyanpur, kanpur, u.p., india***Kanpur
+14779***Utkarsh shukla***Btech***MSE***Hall 10, c-432***utshukla***O+***M***Gyan chandra shukla***P/2,  1/98 35 bn pac mahanagar, lucknow, u.p., india***Lucknow
+14780***Utkarsh verma***Btech***AE***Hall 5, c-209***vermau***B+***M***Shankar lal verma***15:a,  block:c,  flat no.:204-b, murlidham-i,  shyam nagar, kanpur, u.p., india***Kanpur
+14781***Utkarsh vishal***Btech***MSE***Hall 3, 128***vutkarsh***A+***M***Sanjay kumar mishra***Flat-6,  block-20, bnr garden reach, kolkata, w.b., india***Kolkata
+14782***Utsav jangir***Btech***BSBE***Hall 2, 216***utsav***A+***M***Om prakash jangir***Vp ghinoi, teh chomu, jaipur, rajasthan, india***Jaipur
+14783***V pramoth***Btech***MSE***Hall 3, 124***vpramoth***O+***M***P viswanathan***6/3502 rajeev nagar, no.1 toll gate, trichy, tamil nadu, india***Trichy
+14784***Vadisetti gowtham prudhvi***Btech***CSE***Hall 10, b-405***gowthamp***Ab+***M***Vadisetti satyanarayana reddy ***Door no. 4/129, near pacs nagulapalli, a.p., india***Near pacs nagulapalli
+14785***Vaibhav nagar***Btech***EE***Hall 5, c-311***vaibhavn***A+***M***Arvind nagar***130, sube ki payega,  jiwaji ganj, lashkar, gwalior, madhya pradesh, india***Gwalior
+14786***Vaidehi menon***Btech***MSE***Hall 6, ghtb-409***vaidehi***A+***F***Paraman radhakrishnan***B 205,  chi-chi towers, near ellora park, vadodara, gujarat, india***Vadodara
+14787***Varad paliwal***Btech***CE***Hall 5, d-302***varad***Ab-***M***Brijesh paliwal***A-8 radhika dham colony, sonkh road, krishna nagar, mathura, u.p., india***Mathura
+14788***Varsha meena***Btech***EE***Hall 6, ghta-102***varsham***Ab+***F***Teeka ram meena***220 kv gss rvpn, dholatpur gangapur city, gangapur city, rajasthan, india***Gangapur city
+14789***Vartak sahil dileep***Btech***EE***Hall 3, 219***vartaks***A+***M***Dileep vasudeo vartak***401,  blg no. 9,  shakti nagar, , dahisar( east), mumbai, maharashtra, india***Mumbai
+14790***Vatshal srivastav***Btech***CE***Hall 2, 316***vatshal***A+***M***Pankaj srivastav***221/109/1 patelnagar meerapur, allahabad, u.p., india***Allahabad
+14791***Vedprakash mishra***Btech***MSE***Hall 5, c-110***vedpr***O+***M***Shivpratap mishra***New azad nagar,  rehwasi sangh, goni nagar, near takshila society, mahakali caves rd, bombay, maharashtra, india***Bombay
+14792***Vibhav sarraf***Btech***EE***Hall 2, 319***vibhav***O+***M***Deen dayal sarraf***Govind marg,  bassi, jaipur, rajasthan, india***Jaipur
+14793***Vibhor goyal***Btech***CSE***Hall 5, d-205***vibhorg***B+***M***Diwakar goyal***121/3,  nirman vihar-1, sector-2,  vidhydhar nagar, jaipur, rajasthan, india***Jaipur
+14794***Vibhor gupta***Btech***BSBE***Hall 5, c-207***gvibhor***O+***M***Praveen gupta***House no-102, sector-9, chiranjiv vihar, ghaziabad, u.p., india***Ghaziabad
+14795***Vibhor kumar***Btech***CE***Hall 5, c-113***vibhorkm***O+***M***Vineet kumar***205,  sargodha appts,  plot-13,  sec-7, dwarka,  new delhi, new delhi, delhi, india***New delhi
+14796***Vidhi agrawal***Bs***ECO***Hall 6, ghtb-409***vidhia***A+***F***Sangeeta agrawal***G-1 vipin kanti mansion, 41 anoop nagar, indore, madhya pradesh, india***Indore
+14797***Vihang agarwal***Btech***ME***Hall 3, 126***vihang***B+***M***Alok agarwal***A-503,  vaikunth park apartments, causeway road,  tadwadi, surat, gujarat, india***Surat
+14798***Vijay ganesh.s***Bs***CHM***Hall 10, b-402***vijaygs***O+***M***B.sadhasivam***# 177, secretariat colony,  mappedu, madambakkam, madras, tamil nadu, india***Madras
+14799***Vikalp mandawaria***Btech***EE***Hall 2, 131***vikalp***B+***M***Chetan prakash mandawaria***B-173 mahal scheme jagatpura, jajpur, rajasthan, india***Jajpur
+14800***Vikas kumar [s/o om prakash]***Btech***CHE***Hall 3, 121***vikask***B+***M***Om prakash ***Village post chanana, ragar maula tehsil- chirawa, jhunjhunu, rajasthan, india***Jhunjhunu
+14801***Vikas kumar [s/o r kumar]***Btech***EE***Hall 5, d-208***vikas***A+***M***Rajesh kumar***Kakoda, surajgarh, jhunjhunu, rajasthan, india***Jhunjhunu
+14802***Vikram singh meena***Btech***BSBE***Hall 5, c-213***vikramm***B-***M***Ramgopal meena***V.p.o -bhojpur,  tahsil-khandela, sikar, rajasthan, shrimadhopur, rajasthan, india***Shrimadhopur
+14803***Vikulp bansal***Btech***EE***Hall 5, d-305***vikulp***O+***M***Pramod bansal***D128a, ranjeet nagar, bharatpur, rajasthan, india***Bharatpur
+14804***Vimal kumar meena***Btech***EE***Hall 5, c-108***vimalk***Ab+***M***Birdi chand meena***7d-22, mahaveernagar ext., kota, raj, rajasthan, india***Raj
+14805***Vinayak tantia***Btech***CSE***Hall 2, 214***vtantia***O+***M***Mahendra tantia***8a,  alipore road,  jindal house,  flat-9, floor-6, kolkata, w.b., india***Kolkata
+14806***Vineet kumar***Btech***CHE***Hall 3, 134***vineetk***O+***M***Narendra tiwari***Behind gayatri mandir, chakbandi road,  ward no. 10, bhabhua, bihar, india***Bhabhua
+14807***Vipin karade***Btech***MSE***Hall 2, 227***kvipin***A+***M***Sukhdeo rao karade***B-14 cbri colony, roorkee, uttarakhand, india***Roorkee
+14808***Vipul sharma***Btech***CE***Hall 3, 326***vsharma***O+***M***Suresh chandra sharma***18-shubhash colony,  jhalawar,  rajasthan, jhalawar, rajasthan, india***Jhalawar
+14809***Vishad goyal***Btech***CSE***Hall 3, 129***visad***O+***M***Vipin goyal***41-a, hira nagar, patiala, punjab, india***Patiala
+14810***Vishal baburao khairnar***Btech***AE***Hall 3, 339***vishalk***A+***M***Baburao pandit khairnar***7/8 barde apt. kalpana nagar, college road, nasik, maharashtra, india***Nasik
+14811***Vishal gautam***Btech***EE***Hall 2, 317***vgautam***Not available***M***Lokendra singh***103,  gautam sahkari awas samiti td., sector-6,  vasundhara,  ghaziabad, ghaziabad, u.p., india***Ghaziabad
+14812***Vishal meena***Btech***EE***Hall 3, 339***vishal***O-***M***Kailash chand***Vpo.kariri vaya-khejroli tahsil-shahpura, jaipur, rajasthan, india***Jaipur
+14813***Vishal rana***Btech***EE***Hall 3, 237***vishalr***B+***M***Bhim singh***House no. 2928/1,  sec-49, chandigarh, chandigarh, india***Chandigarh
+14814***Vishav rattan sharma***Btech***ME***Hall 3, 142***vishavr***B+***M***Ramesh sharma***#1607-b sector 35b, chandigarh, chandigarh, india***Chandigarh
+14815***Vishram meena***Bs***MTH***Hall 5, e-106***vishram***Ab+***M***Nangram meena***Dhan dhanala village khori post banskhoh, tehsil bassi, jaipur, rajasthan, india***Jaipur
+14816***Vivek chaware***Btech***EE***Hall 10, c-408***vivek***Ab+***M***Kishor chaware***Ashok nagar,  kadarjahnda, kamptee, nagpur, maharashtra, india***Nagpur
+14817***Vivek kumar***Btech***CHE***Hall 2, 211***vivekkum***A+***M***Rajendra kumar***Village-narkhi dhaukal, post- narkhi, null, firozabad, u.p., india***Firozabad
+14818***Vivek vishnoi***Btech***ME***Hall 5, c-302***vvivek***A+***M***Rajveer singh***Muktiyarpur navada post-kanth, null, moradabad, u.p., india***Moradabad
+14819***Vooradi vineeth***Btech***EE***Hall 10, a-430***vooradiv***B+***M***Vooradi rajeshwara prasad***H-no:2-4-118, ramnagar, hanamkonda, warangal, telangana, india***Warangal
+14820***Yadvesh yadav***Btech***CHE***Hall 2, 113***yadvesh***A+***M***Sudhir***E-109/38, shivaji nagar, bhopal, madhya pradesh, india***Bhopal
+14821***Yash jain***Btech***CHE***Hall 5, c-211***jyash***O+***M***Manish jain***131/9 street 4,  rajendra nagar, dehradun, dehradun, uttarakhand, india***Dehradun
+14822***Yash sharma***Btech***ME***Hall 10, c-435***ysharma***Ab+***M***Subhash sharma***F-442 gandhi nagar, jaipur, rajasthan, india***Jaipur
+14823***Yash verma***Btech***EE***Hall 10, c-406***yashv***A+***M***Bhanu prakash verma***271 ews preetam nagar, dhomanganj, allahabad, u.p., india***Allahabad
+14824***Yashaswini jain***Btech***CHE***Hall 6, ghtb-411***yashaswi***O+***F***Sudhanshu jain***G-1,  krishi nagar,  gwalior, null, gwalior, madhya pradesh, india***Gwalior
+14825***Yashodhan sonwane***Btech***BSBE***Hall 3, 220***yashson***B+***M***Pushpabai sonwane***Govt technical high school quarter, behind champavati school, nagar road, beed, maharashtra, india***Beed
+14826***Yeduru vinod kumar reddy***Btech***CSE***Hall 2, 224***yvkreddy***O+***M***Yeduru appala reddy***Reddika street, korasavada, , pathapatnam mandal, srikakulam district, srikakulam, a.p., india***Srikakulam
+14827***Yeole lokesh sanjay***Btech***MSE***Hall 5, d-101***yelokesh***O+***M***Sanjay yeole***Plot no. 104,  badgujar colony, deopur, dhule,  mah, maharashtra, india*** mah
+14828***Yeswanth sarapati***Btech***MSE***Hall 5, e-104***yeswanth***O+***M***Sarapati ravana babu***30-65/3 kanithi, rhs colony, visakhapatnam, a.p., india***Visakhapatnam
+14829***Yogendra kumar***Btech***EE***Hall 10, b-439***yogend***B-***M***Girish chandra***House no.304,  kajipur farhat nagar, madhoganj, hardoi, u.p., india***Hardoi
+14830***Yogesh kumar chauhan***Btech***CSE***Hall 2, 127***yogeshkc***B+***M***Rajesh kumar***1516 jai prakash kunj, gailgaon, auraiya, u.p., india***Auraiya
+14831***Zaved hussain sikdar***Bs***CHM***Hall 5, e-115***zaved***Ab+***M***Abdur rahman sikdar***313 anu barua path, new sarania,  gandhibasti, guwahati, assam, india***Guwahati
+14832***Zishan zainul***Btech***CE***Hall 2, 116***zishan***B+***M***Zainul haque***218/18,  near taj electronics,  khan road, khir gaon, hazaribag, jharkhand, india***Hazaribag
+14833***Zosangluaia***Prep.***CE***Hall8***Not Available***Not available***M***Hrangthanga zote***Not available***Not Available
+14835***Amit***Msc(2 yr)***CHM***Hall 11, b-332***adahiya***A+***M***Ranjeet singh***V.p.o sehri,  h.no 413, teh. kharkhoda, distt. sonepat (hr), sonepat, haryana, india***Sonepat
+14836***Amritendu sekhar koley***Msc(2 yr)***CHM***Hall 11, a-310***koleyas***B+***M***Asit ranjan koley***63,  brindaban mullick lane,  kadamtala, near 72 bus stand, , howrah, w.b., india***Howrah
+14837***Anirban bardhan***Msc(2 yr)***CHM***Hall 11, a-119***banirban***B+***M***Suprakash bardhan***Bl no:e-5;fl no:303 eden city, maheshtala, bl no:e-5;fl no:303 eden city, maheshtala, kolkata, w.b., india***Kolkata
+14838***Apala chaudhuri***Msc(2 yr)***CHM***Gh, b-207***apalach***B+***F***Saumen chaudhuri***43 p n ghosh street, belgharia, kolkata, w.b., india***Kolkata
+14839***Arindam mondal***Msc(2 yr)***CHM***Hall 11, c-417***amondal***B+***M***Buddhadeb mondal***Vil + po-jashaikati.p.s-baduria., dist-north 24 pargana, 24 parganas (n), w.b., india***24 parganas 
+14840***Arun singh***Msc(2 yr)***CHM***Hall 11, b-340***arunsing***B+***M***Ram narayan singh***Vill- luchui, post- sahjanwa, gorakhpur, u.p., india***Gorakhpur
+14841***Atanu nandy***Msc(2 yr)***CHM***Hall 11, c-430***anandy***A+***M***Naba kumar nandy***Vill-gobindapur,  p.o-helan,  dist-hooghly, kolkata, w.b., india***Kolkata
+14842***Ayan das***Msc(2 yr)***CHM***Hall 11, c-415***ayand***O+***M***Asit das***Basirhat, north 24 parganas, kolkata, w.b., india***Kolkata
+14843***Bhaskar rana***Msc(2 yr)***CHM***Hall 11, b-115***brana***O+***M***Niranjan kumar rana***Vill + p.o. - kalora,  p.s.-daspur, , dist - paschim medinipur, medinipur, w.b., india***Medinipur
+14844***Bubai majhi***Msc(2 yr)***CHM***Hall 11, b-204***bubai***B+***M***Kenaram majhi***Vill-baikata, purulia, w.b., india***Purulia
+14845***Debasis pal***Msc(2 yr)***CHM***Hall 11, c-436***debapal***A+***M***Manas ranjan pal***Vill-siromonipur, post+p.s-kotulpur, dist-bankura, bankura, w.b., india***Bankura
+14846***Deblin jana***Msc(2 yr)***CHM***Hall 11, c-332***deblinj***B+***M***Saktipada jana***60a/10 h. c. banerjee lane, konnagar, w.b., india***Konnagar
+14847***Indranil samanta***Msc(2 yr)***CHM***Hall 11, a-314***isamanta***B+***M***Pradip samanta***Vill+ p.o.- biswas; p.s.- tamluk;, dist- purba medinipur, tamluk, w.b., india***Tamluk
+14848***Joyanta banerjee***Msc(2 yr)***CHM***Hall 11, c-202***jbaner***O+***M***Anup kumar banerjee***Vill+post-sihar p.s-kotulpur, dist-bankura state-west bengal, bankura, w.b., india***Bankura
+14849***Karanika sonowal***Msc(2 yr)***CHM***Gh, b-306***karanika***Ab+***F***Baneswar sonowal***Gorajan,  borholla. p.o: gorajan, dist; jorhat,  assam, guwahati, assam, india***Guwahati
+14850***Kiron kumar ghosh***Msc(2 yr)***CHM***Hall 11, a-112***kirong***A+***M***Pradip kumar ghosh***167(138/a), s. s. basu sarani, kolkata, w.b., india***Kolkata
+14851***Manoj kumar***Msc(2 yr)***CHM***Hall 11, b-340***manojku***O+***M***Roshan lal***H. no.-143 v.p.o-bohatwas ahir, distt &teh.-rewari,  state -haryana, rewari, haryana, india***Rewari
+14852***Oindrila biswas***Msc(2 yr)***CHM***Gh, a-108***obiswas***B+***F***Munni biswas***71/25 ghola kachary road, sukantapally, , barasat, kol-700124, west bengal, calcutta, w.b., india***Calcutta
+14853***Mahesh minnath parsutkar***Msc(2 yr)***CHM***Hall 11, c-426***pmahesh***O+***M***Minnath dattuji parsutkar***Deshpande wadi (new layout) kisan ward, ward no.1 rajura dist. chandrapur, chandrapur, maharashtra, india***Chandrapur
+14854***Phul khungur basumatary***Msc(2 yr)***CHM***Hall 11, a-406***khungur***O+***M***Pradip khungur basumatary***Vill-sudempuri;ward no.-4, p.o+dist.-kokrajhar, guwahati, assam, india***Guwahati
+14855***Prabhakar kora***Msc(2 yr)***CHM***Hall 11, a-222***prabhaka***Ab+***M***Late karma kora***Nalhati (indiranagar) ward no 03 po+ps, nalhati dist birbhum pin 731220 wb, naihati, w.b., india***Naihati
+14856***Purusottom das***Msc(2 yr)***CHM***Hall 11, c-332***purus***B+***M***Joyhari das***Vill +p.o-tajnagar, haldia, w.b., india***Haldia
+14857***Rahul mondal***Msc(2 yr)***CHM***Hall 11, c-426***rmrahul***A+***M***Swapan mondal***Vill. + p.o. - rangilabad, p.s. - usthi, 24 pgs (s), w.b., india***24 pgs 
+14858***Rajib karmakar***Msc(2 yr)***CHM***Hall 11, b-338***rajibk***A+***M***Jiten karmakar***Vill+p.o.- lakshmisagar,  p.s- simlapal, , distric-bankura, bankura, w.b., india***Bankura
+14859***Rakesh maiti***Msc(2 yr)***CHM***Hall 11, a-310***ramaiti***O+***M***Santana maiti***Vill.+p.o.- radhakantapur, dist.- paschim medinipur, kolkata, w.b., india***Kolkata
+14860***Ranajit barman***Msc(2 yr)***CHM***Hall1, a-222***ranajit***B+***M***Manik barman***Vill+p.o-dakshin changra chak ps-moyna, dist-purba medinipur, tamluk, w.b., india***Tamluk
+14861***Ratan logdi***Msc(2 yr)***CHM***Hall 11, b-132***rlogdi***A+***M***Kushadhwaj logdi***Vill+p.o._gourhati, p.s.-arambagh, , dist-hooghly, hooghly, w.b., india***Hooghly
+14862***Roshayed ali laskar***Msc(2 yr)***CHM***Hall 11, b-314***roshayed***O+***M***Mohasin laskar***Vill-uttar durgapur., p.o-jaynagar majilpur, 24 parganas (s), w.b., india***24 parganas 
+14863***Rweetuparna guha***Msc(2 yr)***CHM***Gh, f-306***rweetu***B+***F***Bharat bhusan guha***Vill+po-debagram, ps-kaligang, nadia, wb, w.b., india***Wb
+14864***Saayak halder***Msc(2 yr)***CHM***Hall 11, a-112***saayakh***O+***M***Debasis halder***Kantapukur,  koleybagan, , chandernagore,  hooghly, hooghly, w.b., india***Hooghly
+14865***Sachin kumar shaw***Msc(2 yr)***CHM***Hall 11, c-415***sachinku***B+***M***Arun shaw***H no 3/20 blno-25 purani bajar pal ghat, jagatdal, 24 pgs(n), w.b., india***24 pgs
+14866***Sandip ghatak***Msc(2 yr)***CHM***Hall 11, a-417***sandipg***O+***M***Bhola nath ghatak***39/2 shivtala path, 24 parganas (n), w.b., india***24 parganas 
+14867***Saurov hazarika***Msc(2 yr)***CHM***Hall 11, b-127***saurov***B+***M***Surendra nath hazarika***Ward no-4,  d.k.road,  house no-26, dt- kamrup,  ass, assam, india*** ass
+14868***Sayan maity***Msc(2 yr)***CHM***Hall 11, b-115***sayanm***Ab+***M***Samiran maity***Vill-uttar chandanpiri. p.o- chandanpiri, p.s-namkhana. dist- south 24 pgs, 24 parganas (s), w.b., india***24 parganas 
+14869***Shuvankar naskar***Msc(2 yr)***CHM***Hall 11, a-314***shuvan***O+***M***Sunil naskar***Vill.+p.o: shirakole, p.s:usthi, 24 pgs(s), kolkata, w.b., india***Kolkata
+14870***Soumen ghosh***Msc(2 yr)***CHM***Hall 11, c-231***soumen***B+***M***Paresh chandra ghosh***Vill&p.o.-ghoshpur,  p.s.-amta, dist-howrah, kolkata, w.b., india***Kolkata
+14871***Srijani sarkar***Msc(2 yr)***CHM***Gh, b-207***srijani***O+***F***Shiladitya sarkar***Basirhat, p.o badartala p.s basirhatdist-24 pgs(n), 24 parganas (n), w.b., india***24 parganas 
+14872***Srijita bhowmik***Msc(2 yr)***CHM***Gh, b-207***srijita***O+***F***Saktibrata bhowmik***1/i.s.h.k.b sarani dum dum, sanjana towers,  flat -b, 2nd floor., kolkata, w.b., india***Kolkata
+14873***Subhadeep paul***Msc(2 yr)***CHM***Hall 11, b-415***spaul***B+***M***Rabindranath paul***10/367 pathak bagan,  pankhatuli road, , pipulpati, p.o+dist-hooghly, chinsurah, w.b., india***Chinsurah
+14874***Sumit ghosh***Msc(2 yr)***CHM***Hall 11, a-216***stghosh***Ab+***M***Kanan ghosh***Vill+p.o-berenda, dist-burdwan, , burdwan, w.b., india***Burdwan
+14875***Sunny das***Msc(2 yr)***CHM***Hall 11, b-240***sunny***O+***M***Jugal das***Abasbarichar, null, tamluk, w.b., india***Tamluk
+14876***Aakash jain***Msc(2 yr)***MTH***Hall 11, c-427***jaakash***O+***M***Jagdish rai jain***337/6 patel nagar railway road patiala, chowk jind, jind, haryana, india***Jind
+14877***Aanchal***Msc(2 yr)***MTH***Gh, f-306***saanchal***O+***F***Satbir singh sighroha***2/206, patel park, line par, null, bahadurgarh, haryana, india***Bahadurgarh
+14878***Abhishek roy***Msc(2 yr)***MTH***Hall 11, c-434***abhiroy***O+***M***Bimal kumar roy***Ward no- 11,  p.o.+p.s.- mathabhanga, coochbehar, w.b., india***Coochbehar
+14879***Ajay kumar***Msc(2 yr)***MTH***Hall 11, c-231***kajay***B-***M***Lal chand***Vpo keharwala,  teh. rania,  dist. sirsa, (near sv school), sirsa, haryana, india***Sirsa
+14880***Aman kumar***Msc(2 yr)***MTH***Hall 11, c-320***amankm***Not available***M***Shiv chandra***H.no.343, narayanpur dibiyapur road auraiya, auraiya, u.p., india***Auraiya
+14881***Ananya manas***Msc(2 yr)***MTH***Hall 11, a-323***ananya***O+***M***Draun kumar sharma***Flat no - 1,  a-17, priyadarshini vihar, new delhi, delhi, india***New delhi
+14882***Ankit bhojak***Msc(2 yr)***MTH***Hall 11, a-216***ankitbjk***B+***M***Jai kishan bhojak***Flat 101,  1st floor, 1/5,  ganapath rai khemka lane, kolkata, w.b., india***Kolkata
+14883***Arpan baidya***Msc(2 yr)***MTH***Hall 11, c-303***arpanm***Ab+***M***Arun prokash baidya***Vill-tarangahati, p.o-amankandi, dist-north 24 pgs, pin-743249, kolkata, w.b., india***Kolkata
+14884***Ashlesha a bhise***Msc(2 yr)***MTH***Gh, a-306***ashlesha***A+***F***Ashutosh bhise***"aashirwaad"; plot no. 1/c, kasturba layout; ambazari, nagpur, maharashtra, india***Nagpur
+14885***Bidwan chakraborty***Msc(2 yr)***MTH***Hall 11, a-407***bidwan***B+***M***Late nityagopal chakraborty***Vill+p.o.- shyamchandpur, paschim medinipur, midnapur(w), w.b., india***Midnapur
+14886***Chayan karmakar***Msc(2 yr)***MTH***Hall 11, a-204***kchayan***O+***M***Dilip kumar karmakar***Flat no-y/5/9, lake view housing complex, , b/1, drainage canal road, dumurjala, howrah, w.b., india***Howrah
+14887***Hamid husain***Msc(2 yr)***MTH***Hall 11, c-226***hamid***O+***M***Ikram hadar***Ward no 7 subhash nagar, rasulabad kanpur dehat, kanpur, u.p., india***Kanpur
+14888***Himanshu ranjan rai***Msc(2 yr)***MTH***Hall 11, b-220***himansh***O+***M***Chandramauli rai***Vill kathaghra mahalu post undura, dist mau pin 221603 u.p., mau, u.p., india***Mau
+14889***Indra bate***Msc(2 yr)***MTH***Hall 11, c-224***bindra***O+***M***Sanamani bate***At-ranginiguda,  po-chaulamendi, via-mathili, dist-malkangiri, malkangiri, orissa, india***Malkangiri
+14890***Kamal santra***Msc(2 yr)***MTH***Hall 11, b-132***ksantra***B+***M***Manik santra***Vill-chandkundu, p.o-marokhana, p.s-khanakul, dist-hooghly, hooghly, w.b., india***Hooghly
+14891***K.c. lalropuia***Msc(2 yr)***MTH***Hall 11, a-417***kcvala***O+***M***K.c.lalzuithanga***Thiltlang, lunglei district mizoram, aizawl, mizoram, india***Aizawl
+14892***Madhavee***Msc(2 yr)***MTH***Gh, e-207***madhavee***O+***F***Avdhesh prasad***Chhorahar hanumanganj, ballia 277001, ballia, u.p., india***Ballia
+14893***Mamale pramod suryakant***Msc(2 yr)***MTH***Hall 11, b-118***mspramod***A-***M***Suryakant hanmantappa mamale***83,  om nagar, sai road, latur, maharashtra, india***Latur
+14894***Manoj kumar***Msc(2 yr)***MTH***Hall 11, c-409***myadav***O+***M***Krishan kumar***V.p.o -bhurtana teh-tosham, dist.bhiwani, bhiwani, haryana, india***Bhiwani
+14895***Partha sil***Msc(2 yr)***MTH***Hall 11, b-230***parthas***Ab+***M***Annapurna sil***Vill-khardah,  p.o.-tulsiberia, p.s-amta, , dist-howrah, howrah, w.b., india***Howrah
+14896***Pinak mandal***Msc(2 yr)***MTH***Hall9***Not Available***Not available***M***Swapan kumar mandal***Not available***Not Available
+14897***Prashant kumar***Msc(2 yr)***MTH***Hall 11, c-427***kprashnt***A+***M***Ram prasad***7326, second floor, gali no 2, prem nagar, delhi-110007, delhi, delhi, india***Delhi
+14898***Priyabrata mandal***Msc(2 yr)***MTH***Hall 11, b-101***pbmandal***B+***M***Sachindra nath mandal***Vill:uttarayan pally, p.o+p.s:sonarpur, dist:south 24 parganas, kolkata, w.b., india***Kolkata
+14899***Raghav awasthi***Msc(2 yr)***MTH***Hall 11, c-406***araghav***B-***M***Sunil awasthi***2/378 nawabganj kanpur, kanpur, u.p., india***Kanpur
+14900***Ram ji pandey***Msc(2 yr)***MTH***Hall 11, c-436***ramjip***B+***M***Mr. dinesh chandra pandey***Ty-1/236 reserve police lines, allahabad,  uttar pradesh, allahabad, u.p., india***Allahabad
+14901***Richa kannoujia***Msc(2 yr)***MTH***Gh, a-108***richakan***Ab+***F***Pradeep kumar***405/3, sarai mali khan, hardoi road, opp., kamakhya hospital, chowk lucknow., lucknow, u.p., india***Lucknow
+14902***Samir panja***Msc(2 yr)***MTH***Hall 11, a-407***psamir***B+***M***Arabinda panja***Vill+p.o-kanak pur, patash pur, purba medinipur, midnapur (e), w.b., india***Midnapur 
+14903***Sanjeev kushwaha***Msc(2 yr)***MTH***Hall 11, c-233***kushwahv***B+***M***Bhagwan das kushwaha***Ram nagar road vedi pura chirgaon, null, jhansi, u.p., india***Jhansi
+14904***Santanu debnath***Msc(2 yr)***MTH***Hall 11, a-117***santanud***A+***M***Tarun debnath***Uttar mondal para, simla, serampore,  hooghly, , serampore, w.b., india***Serampore
+14905***Sayantan maity***Msc(2 yr)***MTH***Hall 11, b-101***smaity***O+***M***Sanat kumar maity***Vill-chitgultia, p.o-antpur, dist-hooghly, hooghly, w.b., india***Hooghly
+14906***Shashikant***Msc(2 yr)***MTH***Hall 11, a-424***shashikt***B-***M***Sharda nand yadav***Vill-dhanipur, post-bijwar, dist.-sitapur, sitapur up, u.p., india***Sitapur up
+14907***Shubham singh***Msc(2 yr)***MTH***Hall 11, c-226***shubhsg***O+***M***Bhupal singh***Gic kulanikhal, dhabkhal, kotdwara, uttarakhand, india***Kotdwara
+14908***Sk rabiul islam***Msc(2 yr)***MTH***Hall 11, b-314***skrabiul***B+***M***Alauddin sk***Vill+p.o-dongajora, p.s-kultali, south 24 pgs, calcutta, w.b., india***Calcutta
+14909***Sudipa mondal***Msc(2 yr)***MTH***Gh, b-306***msudipa***B+***F***Rabindra nath mondal***College road, bamdev pally, post-sainthia, dist-birbhum, west bengal, sainthia, w.b., india***Sainthia
+14910***Sudipta sarkar***Msc(2 yr)***MTH***Hall9, c-303***ssudipta***B+***M***Ranjit sarkar***Baduria, 24 pgs(n), w.b., india***24 pgs
+14911***Sumit kumar***Msc(2 yr)***MTH***Hall 11, c-229***sumkr***B+***M***Rajendra kumar***Vill-dabana post-didoli, teh. modinagar distt-ghaziabad, ghaziabad, u.p., india***Ghaziabad
+14912***Sunil kumar maurya***Msc(2 yr)***MTH***Hall 11, c-342***mrsunil***B+***M***Jaymurat maurya***Post-rajpur mangari varanasi, post-rajpur mangari varanasi, varanasi, u.p., india***Varanasi
+14913***Surabhi nishad***Msc(2 yr)***MTH***Gh, e-207***nishadmo***A-***F***Shailendra kumar nishad***130d haraipur, post kutcheri, jaunpur, u.p., india***Jaunpur
+14914***Suraj prakash yadav***Msc(2 yr)***MTH***Hall 11, c-406***surajpy***B+***M***Archana yadav***N-7 govt. employees cghs, sector-3 part-2, rewari, haryana, india***Rewari
+14915***Tapendu rana***Msc(2 yr)***MTH***Hall 11, b-240***rana***O+***M***Anil rana***Vill+p.o.-ranichak, sub div-ghatal, p.s.-daspur, dist-west medinipur, ghatal, w.b., india***Ghatal
+14916***Viplove pandey***Msc(2 yr)***MTH***Hall 11, b-201***pviplove***B+***M***Deepak pandey***4/230 rajani khand, sharda nagar, raebareli road, lucknow, lucknow, u.p., india***Lucknow
+14917***Abhijnan chattopadhyay***Msc(2 yr)***MTH***Hall 11, a-316***abhijnan***Ab+***M***Dr. joydev chattopadhyay***Uttar prantik abasan; fl no-hig-2r-1/4;, 1 no.b.t.road; kamarhati;kolkata-700058, 24 parganas (n), w.b., india***24 parganas 
+14918***Akash roy***Msc(2 yr)***MTH***Hall 11, b-135***akashneo***B+***M***Ashutosh roy***Simantapally, dabormore, po-rupnarayanpur bazar, asansol, w.b., india***Asansol
+14919***Amartya ghosh***Msc(2 yr)***MTH***Hall9***Not Available***Not available***M***Arundhati ghosh***Not available***Not Available
+14920***Amulya kumar nayak***Msc(2 yr)***MTH***Hall9***Not Available***Not available***M***Gopabandhu nayak***Not available***Not Available
+14921***Ankita datta***Msc(2 yr)***MTH***Gh, b-306***dankita***A+***F***Tarun kumar datta***37, rameshwar shaw road, kolkata, w.b., india***Kolkata
+14922***Arghya sahu***Msc(2 yr)***MTH***Hall 11, b-213***argh***O+***M***Sukhendu bikas sahu***Vill- kanior po-diha dist-birbhum, naihati, w.b., india***Naihati
+14923***Arindam biswas***Msc(2 yr)***MTH***Hall 11, c-201***barindam***O+***M***Dr. goutam kr. biswas***160,  raja r.m. roy road,  e.v. pally, , p.o. rabindrasarani,  dist. jalpaiguri., siliguri, w.b., india***Siliguri
+14924***Aritra halder***Msc(2 yr)***MTH***Hall9***Not Available***Not available***M***Tutshar kanti haldar***Not available***Not Available
+14925***Atmadeep chakraborty***Msc(2 yr)***MTH***Hall 11, b-428***atmadeep***Ab+***M***Subhasis kanta chakraborty***44 naskarpara road, p.o.-santoshpur, kolkata, w.b., india***Kolkata
+14926***Avinash kumari***Msc(2 yr)***MTH***Gh, e-208***avinash***B+***F***Khushi ram yadav***Bhagwati nagar colony, near kaushalpuri, post-head post office, district-faizabad, faizabad, u.p., india***Faizabad
+14927***Chandra bhan yadav***Msc(2 yr)***MTH***Hall 11, b-204***chbhan***B+***M***Prem chandra yadav***Vill-manikpur, post- handia, allahabad, u.p., india***Allahabad
+14928***Devadatta maiti***Msc(2 yr)***MTH***Hall 11, b-425***devam***O+***M***Prasanta kumar maiti***Flat no: b-10/2 ektp phase-2, near ruby general hospital,  kolkata, kolkata, w.b., india***Kolkata
+14929***Dipnil chakraborty***Msc(2 yr)***MTH***Hall 11, b-135***dipnilch***A+***M***Dipak chakraborty***No-2, mohishila colony, near-sada pukur, asansol, w.b., india***Asansol
+14930***Gaurav agarwal***Msc(2 yr)***MTH***Hall 11, b-330***gauravag***O+***M***Sanjay agarwal***193 adarsh nagar, j.k. colony jajmau, kanpur, u.p., india***Kanpur
+14931***Indrajit barman***Msc(2 yr)***MTH***Hall 11, a-211***indrab***B+***M***Soma barman***Kachhari rd.,  local busstand, siliguri, w.b., india***Siliguri
+14932***Kumar satyam***Msc(2 yr)***MTH***Hall 11, c-211***ksatyam***A+***M***Lal bahadur maurya***A-38 nature villa colony trivenipuram, jhunsi allahabad uttar pradesh, allahabad, u.p., india***Allahabad
+14933***Mallika mahato***Msc(2 yr)***MTH***Gh, a-208***mmahato***O+***F***Sachidananda mahato***Garikhana chatanipara, l.k mitra street, , ward no. 18, p.s-purulia sadar, purulia, w.b., india***Purulia
+14934***Manjima bhattacharya***Msc(2 yr)***MTH***Gh***Not Available***Not available***F***Tanmoy bhattacharya***Not available***Not Available
+14935***Mati besra***Msc(2 yr)***MTH***Gh, f-108***matibe***O+***F***Narsingh besra***Q.no-b/255 ntpc farakka pts p.o-pubarun, null, malda, w.b., india***Malda
+14936***Mayukh mandal***Msc(2 yr)***MTH***Hall 11, c-214***mmandal***B+***M***Bijon kumar mandal***12/1,  sahapur main road, kolkata, w.b., india***Kolkata
+14937***Mukul malik***Msc(2 yr)***MTH***Hall 11, b-431***mmukul***A+***M***Ajay malik***H.no-522/5, near chetan dass ki dharmshala, sonepat, haryana, india***Sonepat
+14938***Neeraj kumari***Msc(2 yr)***MTH***Gh, a-208***neerajy***B+***F***Birender singh ***Vill. alimuddinpur, p.o farrukhnagar,  distt. gurgaon, haryana, gurgaon, haryana, india***Gurgaon
+14939***Prashant kushwaha***Msc(2 yr)***MTH***Hall 11, b-330***prashk***B+***M***Mahesh chandra kushwaha***H.no-232/a, ghaukhera, chakeri, harjendra nagar, kanpur, u.p., india***Kanpur
+14940***Pratibha yadav***Msc(2 yr)***MTH***Gh, e-208***pratiydv***B+***F***Ramji yadav***Vill-chorkaind,  post-malhauwan, tahsil-bansdih, ballia, u.p., india***Ballia
+14941***Priyajit bishayee***Msc(2 yr)***MTH***Hall 11, a-316***priyajit***Ab+***M***Pijush kanti bishayee***Bishayee para, post-memari, dist-burdwan, pin-713146, w.b., india***Pin-713146
+14942***Pushpa yadav***Msc(2 yr)***MTH***Gh, a-306***pushpa***A+***F***Jagat narayan yadav***Rampur halwara, null, faizabad, u.p., india***Faizabad
+14943***Rahul chowdhury***Msc(2 yr)***MTH***Hall 11, b-425***rahulc***O+***M***Rajat kumar chowdhury***'sarojini kuthir', flat-3b, db 18, rail pukur road, baguiati, kolkata, w.b., india***Kolkata
+14944***Rishikesh yadav***Msc(2 yr)***MTH***Hall 11, c-211***rishyad***Ab+***M***Ram surat yadav***Village tahar kisun, devpur, azamgarh, u.p., india***Azamgarh
+14945***Sachin verma***Msc(2 yr)***MTH***Hall 11, c-229***sachinv***B+***M***Surendra pal verma***7/72 police line, raebareli, u.p., india***Raebareli
+14946***Saikat kundu***Msc(2 yr)***MTH***Hall 11, b-202***saikatk***O+***M***Subhas chandra kundu***57.raja rammohon roy sarani, , amherstreet p.s. campus, block-g 4/2, kolkata, w.b., india***Kolkata
+14947***Satish kumar***Msc(2 yr)***MTH***Day, -9999***kusat***O+***M***Ram achal***6\36 rani ka bagicha, purana kanpur, kanpur, u.p., india***Kanpur
+14948***Sourajeet mitra***Msc(2 yr)***MTH***Hall 11, b-202***sjeet***B+***M***Shekhar lal mitra***Post+dist.-hooghly, hooghly, w.b., india***Hooghly
+14949***Sourav patra***Msc(2 yr)***MTH***Hall 11, b-213***spatra***O-***M***Bharat patra***Vill-kharikasuli p.o.-gopalsole, dist-paschim midnapur, midnapur(w), w.b., india***Midnapur
+14950***Subhayan dey***Msc(2 yr)***MTH***Hall 11, a-236***subhayan***A+***M***Sajal dey / chandana dey***Station road, kolkata, w.b., india***Kolkata
+14951***Subhranil das***Msc(2 yr)***MTH***Hall 11, c-201***sndas***O+***M***Sukumar das***Village-nischintapur,  p.o.-rajpur, kolkata, w.b., india***Kolkata
+14952***Suman patel***Msc(2 yr)***MTH***Gh, a-306***suman***B+***F***Rambali patel***H.n.s-2/276 a-1, pandeypur varanasi, varanasi, u.p., india***Varanasi
+14953***Sweta biswas***Msc(2 yr)***MTH***Gh, e-208***biswass***B+***F***Shyamal kr. biswas***221 nandan kanan, po rahara, kolkata, w.b., india***Kolkata
+14954***Udita sur***Msc(2 yr)***MTH***Gh, a-108***udita***B+***F***Uttara sur***60,  k.d mukherjee road,  behala, kolkata, w.b., india***Kolkata
+14955***Upamanyu chakravarty***Msc(2 yr)***MTH***Hall 11, a-211***upamanyu***O+***M***Netai chakravarty***8/65,  sahid nagar,  po-haltu,  ps-kasba, kolkata-700078, 24 pgs (s), w.b., india***24 pgs 
+14956***Vasudha ruhela***Msc(2 yr)***MTH***Gh, e-207***vasudha***B+***F***Mr. prem ruhela***935/49, bhagwati ganj, hapur, u.p., india***Hapur
+14958***Amiya mishra***Msc(2 yr)***PHY***Hall 11, c-217***mishrami***O+***M***Amal kumar mishra***Vill-tajpur;po-majna;ps-contai, dist-purba medinipur, contai, w.b., india***Contai
+14959***Anil kumar***Phd(dual)***PHY***Hall 11, a-424***kuanil***A+***M***Krishan singh***V.p.o:-gothra tappa dahina, district-rewari, rewari, haryana, india***Rewari
+14960***Anup kumar bera***Msc(2 yr)***PHY***Hall 11, a-243***akbera***O+***M***Gopal chandra bera***Vill- shyamharibar p.o.-paschim manikpur, dist-purba medinipur, contai, w.b., india***Contai
+14961***Anurag***Msc(2 yr)***PHY***Hall 11, a-432***anuragsh***B+***M***Surya kant***Vill and po ganj, dist bijnor, ganj, u.p., india***Ganj
+14962***Aranya bhattacharya***Msc(2 yr)***PHY***Hall 11, c-217***aranya***A+***M***Satyendra nath bhattacharya***31 d.l.roy road, bowbazar, krishnagar, w.b., india***Krishnagar
+14963***Ashabari majumdar***Phd(dual)***PHY***Gh, a-208***ashabari***B+***F***Ashok kumar majumdar***166a, daspara road, thakurpukur, kolkata-700063, kolkata, w.b., india***Kolkata
+14964***Avijit koley***Msc(2 yr)***PHY***Hall 11, c-440***koleyavi***O+***M***Uttam koley***Vill-gujarpur, p.o-saltighat, p.s-amta, , dist-howrah, kolkata, w.b., india***Kolkata
+14965***Bandan mondal***Msc(2 yr)***PHY***Hall 11, b-113***bandanm***O+***M***Apurba baran mondal***Nabapally, p.o-dhalua, kolkata-700152, kolkata, w.b., india***Kolkata
+14966***Barnali das***Msc(2 yr)***PHY***Gh, f-108***barnali***O+***F***Munindra nath das***Vill-sariha chakla,  p.o.-patacharkuchi, , d.t.-barpeta,  state-assam,  pin-781326, vliiage-sariha chakla, assam, india***Vliiage-sariha chakla
+14967***Bijay bain***Msc(2 yr)***PHY***Hall 11, b-422***bjaybain***O+***M***Thakur bain***Vill debipur colony, p.o. mangalbari, malda town, w.b., india***Malda town
+14968***Biprojit sana***Msc(2 yr)***PHY***Hall 11, a-318***bsana***B+***M***Bishnupada sana***Nibeditapally, noapara, barasat, 24 parganas (n), w.b., india***24 parganas 
+14969***Deep shikha verma***Phd(dual)***PHY***Gh, f-108***vdeepshi***O+***F***Rajaram verma***Nehru nagar, tanda, ambedkar nagar, tanda, u.p., india***Tanda
+14970***Dinesh kumar sharma***Phd(dual)***PHY***Hall 11, b-422***ksdinesh***B-***M***Dinesh kumar sharma***Beech ka mohalla near stc bhawan, narayanpur alwar rajasthan, alwar, rajasthan, india***Alwar
+14971***Garima bawa***Phd(dual)***PHY***Gh, d-208***garimab***O+***F***Vikram bawa***Ag-1 63c vikas puri, new delhi, delhi, india***New delhi
+14972***Krishnendu dandapat***Msc(2 yr)***PHY***Hall 11, c-310***krishnd***B+***M***Jaydev dandapat***Vill.+p.o.-naya, p.s.-pingla, dist.-paschim medinipur, midnapur(w), w.b., india***Midnapur
+14973***Manobina karmakar***Msc(2 yr)***PHY***Gh, f-306***manobina***O+***F***Goutam karmakar***Kabirajpara, bishnupur, w.b., india***Bishnupur
+14974***Mohit kumar singh***Phd(dual)***PHY***Hall9***Not Available***Not available***M***Yogendra pal singh***Not available***Not Available
+14975***Prakhar pathak***Phd(dual)***PHY***Hall 11, b-336***ppathak***A+***M***Manoj kumar pathak***5/5/22 jalpa, faizabad, faizabad, u.p., india***Faizabad
+14976***Pratap chandra adak***Msc(2 yr)***PHY***Hall 11, c-308***pcadak***Ab+***M***Samaresh adak***Vill-balipur,  po-balipur, ps-khanakul, hooghly, wb, w.b., india***Wb
+14977***Pratik vora***Phd(dual)***PHY***Hall 11, a-227***pratikv***B+***M***Aravind bhai***4-morari nagar, near babariya colony, ahmedabad, gujarat, india***Ahmedabad
+14978***Rahul***Msc(2 yr)***PHY***Hall 11, b-107***jangra***O+***M***Satyanarayan***Master colony, null, mahendargarh, haryana, india***Mahendargarh
+14979***Riddhi bandyopadhyay***Msc(2 yr)***PHY***Hall 11, a-421***riddhib***B+***M***Sajal kumar banerjee***Central park, b.c. college road, asansol, w.b., india***Asansol
+14980***Sagar paul***Msc(2 yr)***PHY***Hall 11, a-113***sagarp***B+***M***Gopal paul***W.no-10,  post- mathabhanga, dist- coochbehar, coochbehar, w.b., india***Coochbehar
+14981***Saheb ghosh***Msc(2 yr)***PHY***Hall 11, b-415***saheb***B+***M***Sisir ghosh ***Vill+p.o.-pasonda, dist-burdwan, p.s.-madhabdihi, burdwan, w.b., india***Burdwan
+14982***Sana afrin***Phd(dual)***PHY***Gh, d-208***sanafrin***Ab+***F***Sk.rahi***7/e,  lock gate road, null, kolkata, w.b., india***Kolkata
+14983***Sandip mondal***Msc(2 yr)***PHY***Hall 11, a-318***sandipm***O+***M***Sukumar mondal***Tajpur, tajpur purakona, barjora, bankura, bankura, w.b., india***Bankura
+14984***Satyajit barman***Msc(2 yr)***PHY***Hall 11, a-203***sbarman***B+***M***Bimal chandra barman***Vill- singimari pachunir par, po- patlakhawa,  ps- kotwali, coochbehar, w.b., india***Coochbehar
+14985***Satyaki sasmal***Msc(2 yr)***PHY***Hall 11, c-310***satya***O+***M***Prasanta sasmal***Vill-jafala,  p.o-jakpur,  dist-paschim, p.s-kharagpur (l), , kharagpur, w.b., india***Kharagpur
+14986***Shah phalguni shishir***Msc(2 yr)***PHY***Gh***Not Available***Not available***F***Shah shishir amichand***Not available***Not Available
+14987***Shiladitya porey***Msc(2 yr)***PHY***Hall 11, b-113***shilp***Ab+***M***Panchu gopal porey***P.o. and vill. parbangla via batanagar, ps maheshtala,  dist: south 24 parganas, 24 parganas (s), w.b., india***24 parganas 
+14988***Shreya arya***Msc(2 yr)***PHY***Gh***Not Available***Not available***F***Neelam arya***Not available***Not Available
+14989***Shubhadeep sadhukhan***Msc(2 yr)***PHY***Hall 11, a-243***deep***A+***M***Bibhas kumar sadhukhan***70/6/1 sadar boxi lane, howrah, w.b., india***Howrah
+14990***Somnath maity***Msc(2 yr)***PHY***Hall 11, a-418***msomnath***A+***M***Tapasi maity***Amgechia radhaballavpur, tamluk purba medinipur, tamluk, w.b., india***Tamluk
+14991***Sonu verma***Msc(2 yr)***PHY***Hall 11, a-218***sonuv***B+***M***Tribhavan prasad verma***Vill-karanpur,  post-babhnan sugar mill, dist-gonda, gonda, u.p., india***Gonda
+14992***Soumak maitra***Msc(2 yr)***PHY***Hall 11, a-113***soumak***O+***M***Soumitra maitra***Flat204 violet core2 kamalresidency, greenpark, kolkata, w.b., india***Kolkata
+14993***Sourav manna***Msc(2 yr)***PHY***Hall 11, c-308***sourav***A+***M***Lakshmi kanta manna***Vill+p.o.-khirpai, p.s.-chandrakona, dist-paschim medinipur, khirpai, w.b., india***Khirpai
+14994***Sudip malick***Msc(2 yr)***PHY***Hall 11, b-241***sudipma***B+***M***Sudhamay malick***Vill-shilakot p.o-orgram dist-burdwan, burdwan, w.b., india***Burdwan
+14995***Ujjal saren***Msc(2 yr)***PHY***Hall 11, c-440***usaren***B+***M***Rampada saren***Vill-dhengaam, po-matgoda, ps-raipur, , dist-bankura, kolkata, w.b., india***Kolkata
+14996***Venus rai***Phd(dual)***PHY***Hall 11, b-236***venus***B+***M***Dhurendra kumar rai***East to gayatri mandir near river bank, , harbanshpur azamgarh, azamgarh, u.p., india***Azamgarh
+14997***Vishnu kumar meena***Msc(2 yr)***PHY***Hall 11, a-426***vishnukm***B+***M***Malkhan meena***Hariom colony khandar, khandar (sawai madhopur), jaipur, rajasthan, india***Jaipur
