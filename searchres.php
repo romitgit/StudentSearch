@@ -49,6 +49,16 @@
          a:hover {text-decoration:none;color:#007d9a;}  /* mouse over link */
          a:active {text-decoration:none;color:#007d9a;}  /* selected link */ 
 	</style>
+		<script>
+
+		<?php 
+
+			include 'ajax.js';
+
+		?>
+
+</script>
+
 	<script type="text/javascript">
 		 function focusOnInput()
 			{
@@ -61,7 +71,10 @@
 
 	include 'connect.inc.php';
 	include 'header.php';
-
+?>
+<div id='info' align="center" style='margin-top:162px;position:absolute;z-index:1;background:#EEEEEE;box-shadow:0px 0px 5px black;min-width:100%;'></div>
+		
+<?php
 	if (isset($_POST['submitforface'])) 
 	{
 	
@@ -104,7 +117,7 @@
 
 				if($name != "")
 				{
-					if($name == strtolower(@$singleDataArr[1]) || $name == strtolower(@$singleDataArr[2]) || $name == strtolower(@$singleDataArr[3]))
+					if(strtolower($name) == strtolower(@$singleDataArr[1]) || $name == strtolower(@$singleDataArr[2]) || $name == strtolower(@$singleDataArr[3]))
 					{
 						array_push($results, $singleDataArr);
 						$track = 1;
@@ -114,9 +127,9 @@
 						continue;
 					}
 				}
-				if($city != "")
+				elseif($city != "")
 				{
-					if($city == strtolower(@$singleDataArr[12]))
+					if(strtolower($city) == strtolower(@$singleDataArr[12]))
 					{
 						if($track != 1)
 						{
@@ -267,7 +280,7 @@
 					else if($num!=0 && $num !=1)
 					{
 					
-						echo "<div align='center' style='margin:50px;'>
+						echo "<div align='center' style='margin-top:200px;margin-left:50px;margin-right:50px;'>
                   				<h3 style='margin-top:20px;padding:10px;background:#003399;opacity:0.6;color:white;font-size:28px;'>$num Results</h3>";
 
 						foreach($results as $result)

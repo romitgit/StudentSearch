@@ -168,7 +168,7 @@
          }
          else
          {
-            echo "<div align='center' style='margin:50px;'>
+            echo "<div align='center' style='margin-top:160px;'>
                   <h3 style='margin-top:20px;padding:10px;background:#003399;opacity:0.6;color:white;font-size:28px;'>$num Results</h3>";
 
             foreach ($results as $result) 

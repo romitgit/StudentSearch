@@ -90,14 +90,26 @@
 			?>
 			
 
-		<div id='info'  style='position:absolute;z-index:1;background:#EEEEEE;box-shadow:0px 0px 5px black;min-width:100%;' align='center'></div>
+		<div id='info' align="center" style='margin-top:162px;position:absolute;z-index:1;background:#EEEEEE;box-shadow:0px 0px 5px black;min-width:100%;'></div>
 		
-		<table align="center" style='margin:0px auto;'>
+		<table style='margin:0px auto;'>
 			<tr>
 		
-			<div id="studimages"  style="margin:50px auto;width:900px;box-shadow:inset 0px 0px 10px black;" align='center'>
+			<div id="studimages"  style="margin:220px auto;width:900px;box-shadow:inset 0px 0px 10px black;" align='center'>
 			
 			<h2 style='font:bold 30px arial;'>What's new !!</h2>
+			<hr />
+			<hr />
+			<div style="padding:20px;">
+			<img src="search.jpg" height="240px" style="float:right;">
+			<h2 align="left" style="font:normal 18px arial;">This time you can make many complex queries. For example:</h2>
+			<ul align="left" style="margin-top:20px;;">
+				<li>Search all students named <span style="font-weight:bold;">Rahul</span> who are from <span style="font-weight:bold;">Indore</span> and are in <span style="font-weight:bold;">Y12</span> batch.</li>
+<br>
+
+				<li>Search all <span style="font-weight:bold;">BTech</span> students who are <span style="font-weight:bold;">A+</span> and are in <span style="font-weight:bold;">Y14</span> batch.</li>
+			</ul>
+			</div>
 
 			</div>
 			

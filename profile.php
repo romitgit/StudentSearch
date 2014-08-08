@@ -78,7 +78,7 @@
 				
 				include 'header.php';
 				
-				echo "<div id='studimages'  style='margin:80px;''>";			
+				echo "<div id='studimages'  style='margin-top:170px;margin-left:80px;margin-right:80px;'>";			
 							
 				if(isset($_GET['view']))
 				{

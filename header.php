@@ -78,7 +78,7 @@ input:focus{
  </script>	
 </head>
 <body onload="focusOnInput()">
-	<div id="searchform"  align="center" style='margin-top:0px;padding-top:20px;background:white;'>
+	<div id="searchform"  align="center" style='margin-top:0px;padding-top:20px;background:white;position:fixed;z-index:100;left:0px;right:0px;'>
 				
 				<a href="index.php"><h2 class='home' style="margin-top:0px;">Home</h2></a>
 
@@ -158,15 +158,14 @@ input:focus{
 					</select>
 					<input type='text' name='email' placeholder='Email'>
 					<br>
-					<input type="submit" name="submitforface" value="Search the Face" style="background:#007d9a;color:white;border:1px solid #007d9a;cursor:pointer;margin-top:20px;box-shadow:0px 0px 5px grey;border-bottom-right-radius:12px;
-					border-top-left-radius:12px;">
+					<input type="submit" name="submitforface" value="Search the Face" style="background:#007d9a;color:white;border:1px solid #007d9a;cursor:pointer;margin-top:20px;box-shadow:0px 0px 5px grey;">
 				</form>
 			<br>
 			</div>
 
 			<table>
 				<tr>
-					<p style='background:white;box-shadow:0px 0px 10px grey;padding:10px;text-align:center;margin-top:40px;font-weight:bold;position:fixed;bottom:0px;left:0px;right:0px;' >Designed and Developed By <a href="http://www.facebook.com/choudharyromit" target='_blank' style='text-decoration:underline;'>Romit Choudhary</a></p>
+					<p style='background:white;box-shadow:0px 0px 10px grey;padding:10px;text-align:center;margin-top:40px;font-weight:bold;position:fixed;bottom:0px;left:0px;right:0px;' >Designed and Developed By <a href="http://www.facebook.com/choudharyromit" target='_blank' style='text-decoration:underline;background:white;'>Romit Choudhary</a></p>
 				</tr>
 			</table>
 

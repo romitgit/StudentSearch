@@ -1,39 +1,70 @@
 <?php
 
-// $mysql_host = "mysql.hostinger.in";
-// $mysql_user = "u936162527_ss";
-// $mysql_pass = "12345678romit";
-
-// $mysql_db = "u936162527_ss";
-
-// mysql_connect($mysql_host,$mysql_user,$mysql_pass) or die("Could not connect to MySQL : ".mysql_error());
-// mysql_select_db($mysql_db) or die("Could not connect to Database : ".mysql_error());
-
-
+include 'ip.php';
 
 function getImageUrl($roll)
 {
-	return $url = 	"<img src='http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Photo/".$roll."_0.jpg' width='140px' height='180px'>";	
+	$file = 'http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Photo/".$roll."_0.jpg';
+
+	$handle = @fopen($file,'r');
+	if($handle !== false)
+	{
+	   return $file = "<img src='http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Photo/".$roll."_0.jpg' width='120px' height='154px'>";
+	}
+	else
+	{
+	   return $file = "<img src='http://home.iitk.ac.in/~romit/studentsearch/na.gif' width='140px' height='180px'>";
+	}
 }
 	
 function getImageUrlFront($fbid,$roll)
 {
-	return $url = 	"<img src='http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Photo/".$roll."_0.jpg' width='60px' height='60px'>";
+	$file = 'http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Photo/".$roll."_0.jpg';
+
+	$handle = @fopen($file,'r');
+	if($handle !== false)
+	{
+	   return $file = "<img src='http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Photo/".$roll."_0.jpg' width='60px' height='60px'>";
+	}
+	else
+	{
+	   return $file = "<img src='http://home.iitk.ac.in/~romit/studentsearch/na.gif' width='60px' height='60px'>";
+	}
 }	 
 
 function getImageGroup($roll)
 {
-	return $url = 	"<img src='http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Photo/".$roll."_0.jpg' width='120px' height='154px'>";
+	$file = 'http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Photo/".$roll."_0.jpg';
+
+	$handle = @fopen($file,'r');
+	if($handle !== false)
+	{
+	   return $file = "<img src='http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Photo/".$roll."_0.jpg' width='120px' height='154px'>";
+	}
+	else
+	{
+	   return $file = "<img src='http://home.iitk.ac.in/~romit/studentsearch/na.gif' width='120px' height='154px'>";
+	}
 }	 
 
 function getImageGrps($fbid,$roll)
 {
-	return $url = 	"<img src='http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Photo/".$roll."_0.jpg' width='120px' height='120px'>";
+	return $file = 	"<img src='http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Photo/".$roll."_0.jpg' width='120px' height='120px'>";
 }	 
 
 function getImageSuggest($roll)
 {
-	return $url = 	"<img src='http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Photo/".$roll."_0.jpg' width='100px' height='100px'>";
+	$file = 'http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Photo/".$roll."_0.jpg';
+
+	$handle = @fopen($file,'r');
+	if($handle !== false)
+	{
+	   return $file = "<img src='http://oa.cc.iitk.ac.in:8181/Oa/Jsp/Photo/".$roll."_0.jpg' width='100px' height='100px'>";
+	}
+	else
+	{
+	   return $file = "<img src='http://home.iitk.ac.in/~romit/studentsearch/na.gif' width='100px' height='100px'>";
+	}
 }
 
 
