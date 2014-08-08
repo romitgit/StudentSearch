@@ -17,7 +17,7 @@ if (isset($_POST['search']))
 	foreach($dataArr as $singleData)
 	{
 		$singleDataArr = explode("***", $singleData);
-		if(strtolower($search) === strtolower(substr(@$singleDataArr[1], 0, strlen($search))))
+		if(strtolower($search) === strtolower(substr(@$singleDataArr[2], 0, strlen($search))) || strtolower($search) === strtolower(substr(@$singleDataArr[3], 0, strlen($search))) || strtolower($search) === strtolower(substr(@$singleDataArr[1], 0, strlen($search))))
 		{
 			if($hints == "")
 			{

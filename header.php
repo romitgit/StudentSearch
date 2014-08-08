@@ -143,6 +143,7 @@ input:focus{
 						<option value="Hall 9">Hall 9</option>
 						<option value="Hall 10">Hall 10</option>
 						<option value="Hall 11">Hall 11</option>
+						<option value="Gh">GH</option>
 					</select>
 					<select name="blood">
 						<option value="">Blood Group</option>

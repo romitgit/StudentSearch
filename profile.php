@@ -108,7 +108,7 @@
 							$studentid = $row[0];
 							$name = $row[1];
 
-							$hall = substr($row[4], 0, strpos($row[4], ","));
+							$hall = substr($row[6], 0, strpos($row[6], ","));
 								
 							$url = getImageUrl($row[0]);
 				
@@ -142,7 +142,7 @@
 							echo "<table align=center style='margin:10px auto;' cellspacing='5'>		
 									<tr align=center>";
 							
-							echo "<a href='http://home.iitk.ac.in/~$row[6]' target='_blank'>
+							echo "<a href='http://home.iitk.ac.in/~$row[8]' target='_blank'>
 											<td id='imagebox' style='background:white;box-shadow:0px 0px 1px grey ;min-width:150px;margin-left:5px;width:260px;'>
 												$url
 											<p id='imagelayer'>$row[1]&nbsp;&nbsp;$row[0]</p>
@@ -171,13 +171,13 @@
 										<li>$row[1]</li><hr>
 										<li>$row[0]</li><hr>
 										<li>$batch</li><hr>
-										<li>$row[7]</li><hr>
-										<li>$row[2]</li><hr>
-										<li>$row[3]</li><hr>
+										<li>$row[9]</li><hr>
 										<li>$row[4]</li><hr>
-										<li>$row[10]</li><hr>
-										<li><a href='mailto:$row[5]@iitk.ac.in' style='font-size:17px;text-decoration:none;'>$row[5]@iitk.ac.in</li></a><hr>
+										<li>$row[5]</li><hr>
 										<li>$row[6]</li><hr>
+										<li>$row[12]</li><hr>
+										<li><a href='mailto:$row[7]@iitk.ac.in' style='font-size:17px;text-decoration:none;'>$row[7]@iitk.ac.in</li></a><hr>
+										<li>$row[8]</li><hr>
 									  </div>";
 								  
 								  
@@ -193,8 +193,8 @@
 								
 								echo "<ul align='left' style='margin-left:20px;'>
 										<span style='font:normal 18px arial;'>Other related searches</span><br><hr><br>
-										<li style='display:inline-block;'><a class='mybutton' href='groups.php?type=hometown&value=$row[10]' style='' ><b >$row[10]</b></a></li>
-										<li style='display:inline-block;'><a class='mybutton' href='groups.php?type=department&value=$row[3]' style='' ><b >$row[3]</b></a></li>
+										<li style='display:inline-block;'><a class='mybutton' href='groups.php?type=hometown&value=$row[12]' style='' ><b >$row[12]</b></a></li>
+										<li style='display:inline-block;'><a class='mybutton' href='groups.php?type=department&value=$row[5]' style='' ><b >$row[5]</b></a></li>
 										<li style='display:inline-block;'><a class='mybutton' href='groups.php?type=hall&value=$hall' style='' ><b >$hall</b></a></li>
 									  	<li style='display:inline-block;'><a class='mybutton' href='groups.php?type=batch&value=$batch' style='' ><b >$batch</b></a></li>
 									  </ul>";
@@ -231,13 +231,13 @@
 					
 			if($row[10])
 			{	
-				echo 	"<div id='othersearches' style='display:inline-block;margin:7px;'>	<a href='groups.php?type=hometown&value=$row[10]' style='' >Find other people from <b style='font:bold 18px arial;'>$row[10]</b></a></div>";
+				echo 	"<div id='othersearches' style='display:inline-block;margin:7px;'>	<a href='groups.php?type=hometown&value=$row[12]' style='' >Find other people from <b style='font:bold 18px arial;'>$row[12]</b></a></div>";
 			}
 			if($row[3])
 			{	
-				echo 	"<div id='othersearches' style='display:inline-block;margin:7px;'>	<a href='groups.php?type=department&value=$row[3]' style='' >Find  people from <b style='font:bold 18px arial;'>$row[3]</b></a></div>";
+				echo 	"<div id='othersearches' style='display:inline-block;margin:7px;'>	<a href='groups.php?type=department&value=$row[5]' style='' >Find  people from <b style='font:bold 18px arial;'>$row[5]</b></a></div>";
 			}
-			if($row[4])
+			if($row[6])
 			{	
 				echo 	"<div id='othersearches' style='display:inline-block;margin:7px;'>	<a href='groups.php?type=hall&value=$hall' style='' >Find other people from <b style='font:bold 18px arial;'>$hall</b></a></div>";
 			}

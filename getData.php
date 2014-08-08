@@ -6,7 +6,7 @@
 	
 	ini_set('max_execution_time', 250);
 
-	for ($i = 14001; $i < 14998; $i++) 
+	for ($i = 12001; $i < 12998; $i++) 
 	{ 
 
 		$content = file_get_contents("http://oa.cc.iitk.ac.in:8181/Oa/Jsp/OAServices/IITk_SrchRes.jsp?typ=stud&numtxt=".$i."&sbm=Y");
@@ -40,7 +40,11 @@
 		$preName = $dataArr[1];
 		$name = substr($preName, strpos($preName, "</b>"), strpos($preName, "</p>") - strpos($preName, "</b>"));
 		$name = str_replace("</b>", "", $name);
-		$name = ucfirst(strtolower(trim($name)));
+		$name = ucwords(strtolower(trim($name)));
+
+		$names = explode(" ", $name);
+		$fname = $names[0];
+		$lname = $names[count($names)-1];
 
 		$preProgram = $dataArr[2];
 		$program = substr($preProgram, strpos($preProgram, "</b>"), strpos($preProgram, "</p>") - strpos($preProgram, "</b>"));
@@ -128,11 +132,11 @@
 			$city = substr($city, 0, strpos($city, "("));
 		}
 
-		$singleData = $roll."***".$name."***".$program."***".$dept."***".$hostel."***".$email."***".$blood."***".$gender."***".$gName."***".$paddress."***".$city."\n";
+		$singleData = $roll."***".$name."***".$fname."***".$lname."***".$program."***".$dept."***".$hostel."***".$email."***".$blood."***".$gender."***".$gName."***".$paddress."***".$city."\n";
 
 		echo $singleData."<br>";
 
-		//file_put_contents("data.txt", $singleData, FILE_APPEND | LOCK_EX);
+//		file_put_contents("data.txt", $singleData, FILE_APPEND | LOCK_EX);
 	}	
 ?>
 

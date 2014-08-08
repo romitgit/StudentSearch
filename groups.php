@@ -116,7 +116,7 @@
          
          if($type === "hometown")
          {
-            
+                        
          }
 
          if ($num==0) {
@@ -125,9 +125,6 @@
                      <div class='note' style='display:inline-block;position:relative;top:-100px;'>
                         <p style='font:bold 24px arial;'>PLEASE<br>Y U TRY TO PLAY WITH THE URL</p><br>
                         <p>Click <a href='index.php'>here</a> to go to the home page.</p>
-                     </div>
-                     <div style='display:inline-block;'>
-                        <img src='bitch.png' style=''>
                      </div>
                   </div>
                      ";

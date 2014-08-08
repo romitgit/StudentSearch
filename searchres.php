@@ -85,7 +85,7 @@
 		{	
 			$singleDataArr = explode("***", $singleData);
 
-			if($roll != "" && strlen($roll) == 5)
+			if($roll != "" && strlen($roll) == 7)
 			{
 				if($singleDataArr[0] == $roll)
 				{
@@ -101,14 +101,14 @@
 			}
 			elseif($city != "")
 			{
-				if($city == strtolower(@$singleDataArr[10]))
+				if($city == strtolower(@$singleDataArr[12]))
 				{
 					array_push($results, $singleDataArr);
 				}	
 			}
 			elseif($email != "")
 			{
-				if($email == $singleDataArr[5])
+				if($email == $singleDataArr[7])
 				{
 					array_push($results, $singleDataArr);
 				}	
@@ -119,7 +119,7 @@
 
 				if($dept != "")
 				{
-					if($dept == strtolower($singleDataArr[3]))
+					if($dept == strtolower($singleDataArr[5]))
 					{
 						array_push($results, $singleData);
 						$track = 1;
@@ -131,7 +131,7 @@
 				}
 				if($hall != "")
 				{
-					if($hall == strtolower(substr($singleDataArr[4], 0, strpos($singleDataArr[4], ','))))
+					if($hall == strtolower(substr($singleDataArr[6], 0, strpos($singleDataArr[6], ','))))
 					{
 						if($track != 1)
 						{
@@ -150,7 +150,7 @@
 				}
 				if($batch != "")
 				{
-					if($batch == 'y14')
+					if($batch == "y".substr($singleDataArr[0], 0, 2))
 					{
 						if($track != 1)
 						{
@@ -169,7 +169,7 @@
 				}
 				if($gender != "")
 				{
-					if($gender == strtolower($singleDataArr[7]))
+					if($gender == strtolower($singleDataArr[9]))
 					{
 						if($track != 1)
 						{
@@ -188,7 +188,7 @@
 				}
 				if($program != "")
 				{
-					if($program == strtolower($singleDataArr[2]))
+					if($program == strtolower($singleDataArr[4]))
 					{
 						if($track != 1)
 						{
@@ -207,7 +207,7 @@
 				}
 				if($blood != "")
 				{
-					if($blood == strtolower($singleDataArr[6]))
+					if($blood == strtolower($singleDataArr[8]))
 					{
 						if($track != 1)
 						{
@@ -263,7 +263,7 @@
 										"<div id='singleimage'  style='display:inline-block;margin:10px;margin-bottom:0px;background:white;box-shadow:0px 0px 2px grey;border:5px solid white;'>
 											<a href='profile.php?view=$row[0]'  title='$title' style='color:black;text-decoration:none;'>
 												$url
-												<div style='margin:0px auto;text-align:center;background:white;font-size:13px;font-weight:bold;'>$row[1]<br>$batch&nbsp;&nbsp;$row[3]</div>
+												<div style='margin:0px auto;text-align:center;background:white;font-size:13px;font-weight:bold;'>$row[1]<br>$batch&nbsp;&nbsp;$row[5]</div>
 											</a>
 										 </div>";
 						}
