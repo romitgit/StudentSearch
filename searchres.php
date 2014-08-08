@@ -12,6 +12,7 @@
             margin:0px;
             padding:0px;
             font:normal 14px arial;
+            background: #e5e5e5;
          }
          h1{
             padding:10px;
@@ -85,28 +86,14 @@
 
 			if($roll != "" && strlen($roll) == 5)
 			{
-				if($singleDataArr[0] == $roll)
+				if(@$singleDataArr[0] == $roll)
 				{
 					array_push($results, $singleDataArr);
 				}
-			}
-			elseif($name != "")
-			{
-				if($name == strtolower($singleDataArr[1]))
-				{
-					array_push($results, $singleDataArr);
-				}
-			}
-			elseif($city != "")
-			{
-				if($city == strtolower(@$singleDataArr[12]))
-				{
-					array_push($results, $singleDataArr);
-				}	
 			}
 			elseif($email != "")
 			{
-				if($email == $singleDataArr[7])
+				if($email == @$singleDataArr[7])
 				{
 					array_push($results, $singleDataArr);
 				}	
@@ -115,11 +102,11 @@
 			{
 				$track = 0;
 
-				if($dept != "")
+				if($name != "")
 				{
-					if($dept == strtolower($singleDataArr[5]))
+					if($name == strtolower(@$singleDataArr[1]) || $name == strtolower(@$singleDataArr[2]) || $name == strtolower(@$singleDataArr[3]))
 					{
-						array_push($results, $singleData);
+						array_push($results, $singleDataArr);
 						$track = 1;
 					}
 					else
@@ -127,13 +114,51 @@
 						continue;
 					}
 				}
-				if($hall != "")
+				if($city != "")
 				{
-					if($hall == strtolower(substr($singleDataArr[6], 0, strpos($singleDataArr[6], ','))))
+					if($city == strtolower(@$singleDataArr[12]))
 					{
 						if($track != 1)
 						{
-							array_push($results, $singleData);
+							array_push($results, $singleDataArr);
+							$track = 1;
+						}
+					}
+					else
+					{
+						if($track == 1)
+						{
+							array_pop($results);
+						}
+						continue;
+					}	
+				}
+				elseif($dept != "")
+				{
+					if($dept == strtolower(@$singleDataArr[5]))
+					{
+						if($track != 1)
+						{
+							array_push($results, $singleDataArr);
+							$track = 1;
+						}
+					}
+					else
+					{
+						if($track == 1)
+						{
+							array_pop($results);
+						}
+						continue;
+					}
+				}
+				if($hall != "")
+				{
+					if($hall == strtolower(substr(@$singleDataArr[6], 0, strpos(@$singleDataArr[6], ','))))
+					{
+						if($track != 1)
+						{
+							array_push($results, $singleDataArr);
 							$track = 1;
 						}
 					}
@@ -148,11 +173,11 @@
 				}
 				if($batch != "")
 				{
-					if($batch == "y".substr($singleDataArr[0], 0, 2))
+					if($batch == "y".substr(@$singleDataArr[0], 0, 2))
 					{
 						if($track != 1)
 						{
-							array_push($results, $singleData);
+							array_push($results, $singleDataArr);
 							$track = 1;
 						}
 					}
@@ -167,11 +192,11 @@
 				}
 				if($gender != "")
 				{
-					if($gender == strtolower($singleDataArr[9]))
+					if($gender == strtolower(@$singleDataArr[9]))
 					{
 						if($track != 1)
 						{
-							array_push($results, $singleData);
+							array_push($results, $singleDataArr);
 							$track = 1;
 						}
 					}
@@ -186,11 +211,11 @@
 				}
 				if($program != "")
 				{
-					if($program == strtolower($singleDataArr[4]))
+					if($program == strtolower(@$singleDataArr[4]))
 					{
 						if($track != 1)
 						{
-							array_push($results, $singleData);
+							array_push($results, $singleDataArr);
 							$track = 1;
 						}
 					}
@@ -205,11 +230,11 @@
 				}
 				if($blood != "")
 				{
-					if($blood == strtolower($singleDataArr[8]))
+					if($blood == strtolower(@$singleDataArr[8]))
 					{
 						if($track != 1)
 						{
-							array_push($results, $singleData);
+							array_push($results, $singleDataArr);
 							$track = 1;
 						}
 					}
@@ -248,10 +273,10 @@
 						foreach($results as $result)
 						{
 						
-							$row = explode("***", $result);
+							$row = $result;
 							$batch = "y".substr($row[0], 0, 2);
 
-							$title = "$row[1]\n$batch\n$row[3]";
+							$title = "$row[1]\n$batch\n$row[5]";
 							
 							$url = getImageGroup($row[0]);
 							

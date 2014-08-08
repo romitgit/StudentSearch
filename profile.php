@@ -142,7 +142,7 @@
 							echo "<table align=center style='margin:10px auto;' cellspacing='5'>		
 									<tr align=center>";
 							
-							echo "<a href='http://home.iitk.ac.in/~$row[8]' target='_blank'>
+							echo "<a href='http://home.iitk.ac.in/~$row[7]' target='_blank'>
 											<td id='imagebox' style='background:white;box-shadow:0px 0px 1px grey ;min-width:150px;margin-left:5px;width:260px;'>
 												$url
 											<p id='imagelayer'>$row[1]&nbsp;&nbsp;$row[0]</p>

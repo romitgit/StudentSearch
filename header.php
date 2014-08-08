@@ -163,5 +163,12 @@ input:focus{
 				</form>
 			<br>
 			</div>
+
+			<table>
+				<tr>
+					<p style='background:white;box-shadow:0px 0px 10px grey;padding:10px;text-align:center;margin-top:40px;font-weight:bold;position:fixed;bottom:0px;left:0px;right:0px;' >Designed and Developed By <a href="http://www.facebook.com/choudharyromit" target='_blank' style='text-decoration:underline;'>Romit Choudhary</a></p>
+				</tr>
+			</table>
+
 		</body>
 		</html>
