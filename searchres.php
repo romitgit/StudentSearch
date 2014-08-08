@@ -75,8 +75,6 @@
 		$blood = strtolower($_POST['blood']);
 		$email = strtolower($_POST['email']);
 
-		echo $gender."-".$batch."-".$program."-".$dept."-".$hall."-".$blood;
-
 		$bigData = file_get_contents("data.txt");
 		$bigDataArr = explode("\n", $bigData);
 		$results = array();
@@ -85,7 +83,7 @@
 		{	
 			$singleDataArr = explode("***", $singleData);
 
-			if($roll != "" && strlen($roll) == 7)
+			if($roll != "" && strlen($roll) == 5)
 			{
 				if($singleDataArr[0] == $roll)
 				{
@@ -232,16 +230,16 @@
 	
 			echo "<div id='serres' style='' align='center' >";
 					
-					if($num == 1)
+					if($num === 1)
 					{
-						$rowdet = explode("***", $results[0]);
+						$rowdet = $results[0];
 						echo "<script>
 								window.location = 'profile.php?view=$rowdet[0]'
 							  </script>";
 					
 					}
 					
-					else if($num!=0 and $num !=1)
+					else if($num!=0 && $num !=1)
 					{
 					
 						echo "<div align='center' style='margin:50px;'>
@@ -270,48 +268,8 @@
 				
 						echo "</div><br>";
 					}
-					// elseif ($num==0 and $name!="") 
-					// {
-					// 	$string1 = $name;
-				
-					// 	$substr = substr($string1,0,1);
-						
-					// 	$querysug = "SELECT * FROM fellowdata WHERE name LIKE '$substr%'";
-					// 	$results = mysql_query($querysug);
-					// 	$numres = mysql_num_rows($results);
-					// 	$namesarray = array();
-					// 	$similarityarray = array();
-					// 	$idarray = array();
-						
-					// 	for($i=0;$i<$numres;$i++)
-					// 	{
-					// 		$row = mysql_fetch_row($results);
-					// 		$names = explode(' ', $row[1]);
-					// 		$firstname = $names[0];
-					// 		$namesarray[$i] = $row[1];
-					// 		$idarray[$i] = $row[0];
-					// 		$similarity = similar_text($string1,$firstname,$result);
-					// 		$similarityarray[$i] = $result;
-					// 	}
-						
-						
-					// 	array_multisort($similarityarray,$namesarray,$idarray);
-						
-					// 	echo "<p style='margin:30px;font:bold 20px arial;'>Sorry No results were found</p><br>
-					// 			<p style='margin-left:30px;color:blue;font-size:24px;'>Were you looking for one of these?</p>
-					// 		<hr><br><br>";
-						
-					// 	echo "<div style='margin:30px;'>";
-						
-						
-					// 	for($i=$numres,$j=0;$j<11;$i--,$j++)
-					// 	{
-						
-					// 		if(isset($idarray[$i]) and isset($namesarray[$i]))
-					// 		{
-					// 			echo "<div style='margin:6px;'><a href='profile.php?view=$idarray[$i]'  style='margin:15px;font-size:18px;'>$namesarray[$i]</a></div>";
-						
-					// 		}
-					// 	}
-					// }	
+					elseif($num == 0)
+					{
+						echo "<p style='margin-top:200px;'>No results found for this query.</p>";
+					}
 ?>

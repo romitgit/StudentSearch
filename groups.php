@@ -107,19 +107,56 @@
 
    echo "<div id='info'  style='position:absolute;z-index:100;background:#EEEEEE;box-shadow:-10px 10px 15px grey;min-width:100%;' align='center'></div>";
 
-   if (isset($_GET['type']) and isset($_GET['value'])) {
+   if (isset($_GET['type']) and isset($_GET['value'])) 
+   {
       
       $type = $_GET['type'];
       $value = $_GET['value'];
 
-      if ($type!="" and $value!="") {
-         
-         if($type === "hometown")
+      if ($type!="" and $value!="") 
+      {
+         $bigData = file_get_contents("data.txt");   
+         $bigdataArr = explode("\n", $bigData);
+         $results = array();
+
+         foreach($bigdataArr as $singleData)
          {
-                        
+            $singledataArr = explode("***", $singleData);
+
+            if($type === "hometown")
+            {  
+               if(strtolower($value) === strtolower($singledataArr[12]))
+               {
+                  array_push($results, $singledataArr);
+               }
+            }
+            elseif($type === "hall")
+            {
+               if(strtolower($value) === strtolower(substr($singledataArr[7], 0, strpos($singledataArr[7], ","))))
+               {
+                  array_push($results, $singledataArr);
+               }
+            }
+            elseif($type === "department")
+            {
+               if(strtolower($value) === strtolower($singledataArr[5]))
+               {
+                  array_push($results, $singledataArr);
+               }
+            }
+            elseif($type === "batch")
+            {
+               if(strtolower($value) === strtolower(substr($singledataArr[0], 0, 2)))
+               {
+                  array_push($results, $singledataArr);
+               }
+            }
          }
 
-         if ($num==0) {
+         $num = count($results);
+
+         if ($num==0) 
+         {
 
             echo "<div align='center' style='margin-top:30px;'>
                      <div class='note' style='display:inline-block;position:relative;top:-100px;'>
@@ -129,49 +166,45 @@
                   </div>
                      ";
          }
-         else{
-
+         else
+         {
             echo "<div align='center' style='margin:50px;'>
                   <h3 style='margin-top:20px;padding:10px;background:#003399;opacity:0.6;color:white;font-size:28px;'>$num Results</h3>";
 
-               for ($i=0; $i < $num; $i++) { 
-            
-                  $row = mysql_fetch_row($result);
+            for ($i=0; $i < $num; $i++) 
+            { 
+               $row = mysql_fetch_row($result);
 
-                  $id = $row[0];
-                  $name = $row[1];
+               $id = $row[0];
+               $name = $row[1];
 
-                  if (strlen($name)>=21) {
-                     $names = explode(' ', $name);
-                     $namemod = $names[0].' '.$names[1]; 
-                  }
-                  else $namemod = $name;
+               if (strlen($name)>=21) 
+               {
+                  $names = explode(' ', $name);
+                  $namemod = $names[0].' '.$names[1]; 
+               }
+               else $namemod = $name;
 
-                  $dept = $row[2];
-                  $roll = $row[3];
-                  $fbid = $row[4];
+               $dept = $row[2];
+               $roll = $row[3];
+               $fbid = $row[4];
                   
-                  $url = getImageGroup($fbid,$roll);
+               $url = getImageGroup($fbid,$roll);
 
-                  echo 
-                                    "<div id='singleimage'  style='display:inline-block;margin:30px;margin-bottom:0px;background:white;box-shadow:0px 0px 3px grey;width:140px;'>
+               echo 
+                     "<div id='singleimage'  style='display:inline-block;margin:30px;margin-bottom:0px;background:white;box-shadow:0px 0px 3px grey;width:140px;'>
                                        <a href='profile.php?view=$id'  style='color:black;text-decoration:none;'>
                                           $url<br><hr>
                                           <div style='margin:0px auto;text-align:center;background:white;font-size:13px;font-weight:normal;'>$namemod<br>$roll&nbsp;&nbsp;$dept</div>
                                        </a>
                                      </div>";
 
-               }
+            }
 
             echo "</div>";
          }
 
       }
    }
-
-
-   
-
-
 
 ?>
