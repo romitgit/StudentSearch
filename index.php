@@ -7,7 +7,6 @@
 ?>
 <html>
 	<head>
-		<title>Faceit</title>
 		<script>
 
 		<?php 
@@ -90,7 +89,7 @@
 			?>
 			
 
-		<div id='info' align="center" style='margin-top:162px;position:absolute;z-index:1;background:#EEEEEE;box-shadow:0px 0px 5px black;min-width:100%;'></div>
+		<div id='info' align="center" style='margin-top:10%;position:absolute;z-index:1;background:#EEEEEE;box-shadow:0px 0px 5px black;width:100%;'></div>
 		
 		<table style='margin:0px auto;'>
 			<tr>
@@ -116,4 +115,14 @@
 			</tr>
 			</table>
 	</body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43364785-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </html>

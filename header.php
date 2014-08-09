@@ -1,5 +1,20 @@
 <html>
 	<head>
+
+		<title>Romit | Student Search</title>
+		<meta name='author' content='Romit Choudhary'>
+		<meta http-equiv='cache-control' content='public'>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+		<meta http-equiv='content-language' content='en-US'>
+		<meta name='copyright' content='&copy; 2014 Romit Choudhary'>
+		<meta name='description' content='A search engine for campus students to search for anyone in the campus.'>
+		<meta name='keywords' content='student search iitk, student search, search iitk, search, romit iitk, romit choudhary iitk, romit, choudhary, web developer, coder, search engine'>
+		<meta name='robots' content='index,follow'>
+		<meta property='og:title' content='Student Search'>
+		<meta property='og:type' content='website'>
+		<meta property='og:site_name' content='Student Search'>
+		<meta property='fb:admins' content='100002095998425'>		
+
 		<style>
 
 	#searchform{
@@ -18,12 +33,7 @@
 				margin-top: 10px;
 				background: white;
 			}
-			input{
-				margin-top:10px;
-				
-			}
 			input,select{
-	padding:2px;
 	background-color: #FFF;
 	border: 1px solid #ccc;
 	-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
@@ -33,17 +43,8 @@
 	-moz-transition: border linear .2s, box-shadow linear .2s;
 	-o-transition: border linear .2s, box-shadow linear .2s;
 	transition: border linear .2s, box-shadow linear .2s;
-	height: 28px;
-	padding: 4px 6px;
-	font-size: 14px;
-	line-height: 22px;
 	color: #555;
-	-webkit-border-radius: 4px;
-	-moz-border-radius: 4px;
-	border-radius: 4px;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-	margin:5px;
-
 }
 input:focus{
 }
@@ -76,17 +77,27 @@ input:focus{
 		 		document.getElementById("sname").focus();
 		 	}
  </script>	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43364785-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 </head>
 <body onload="focusOnInput()">
 	<div id="searchform"  align="center" style='margin-top:0px;padding-top:20px;background:white;position:fixed;z-index:100;left:0px;right:0px;'>
-				
-				<a href="index.php"><h2 class='home' style="margin-top:0px;">Home</h2></a>
 
 				
 				<form align="center" method="post" action="searchres.php" style='background:white;'>
-					<input type="text" name="sname" placeholder="Name of student" autofocus autocomplete='off' onKeyUp="result(this)">
-					<input type="text" name="roll" placeholder="Roll No">
-					<input type="text" name="city" placeholder="City" >
+			<input type="text" name="sname" placeholder="Name of student" autofocus autocomplete='off' onKeyUp="result(this)" style="width:12%;">
+				<input type="text" name="roll" placeholder="Roll No" style="width:8%;">
+				<input type="text" name="city" placeholder="City" style="width:10%;">
+				<input type='text' name='email' placeholder='Email' style="width:10%;" >					
 					<select name="gender">
 						<option value="">Gender</option>
 						<option value="M">Male</option>
@@ -156,16 +167,17 @@ input:focus{
 						<option value="O&#43;">O+</option>
 						<option value="O&#45;">O-</option>
 					</select>
-					<input type='text' name='email' placeholder='Email'>
-					<br>
-					<input type="submit" name="submitforface" value="Search the Face" style="background:#007d9a;color:white;border:1px solid #007d9a;cursor:pointer;margin-top:20px;box-shadow:0px 0px 5px grey;">
+					
+					<br><br>
+				<a href="index.php" style="text-decoration:none;background:#007d9a;color:white;border:1px solid 		#007d9a;cursor:pointer;margin-top:20px;box-shadow:0px 0px 1px grey;font-size:16px;padding:3px;">Home</a>
+			<input type="submit" name="submitforface" value="Search" style="font-size:16px;background:#007d9a;padding:3px;color:white;border:1px solid #007d9a;cursor:pointer;box-shadow:0px 0px 1px grey;">
 				</form>
 			<br>
 			</div>
 
 			<table>
 				<tr>
-					<p style='background:white;box-shadow:0px 0px 10px grey;padding:10px;text-align:center;margin-top:40px;font-weight:bold;position:fixed;bottom:0px;left:0px;right:0px;' >Designed and Developed By <a href="http://www.facebook.com/choudharyromit" target='_blank' style='text-decoration:underline;background:white;'>Romit Choudhary</a></p>
+					<p style='background:white;box-shadow:0px 0px 5px grey;padding:10px;text-align:center;margin-top:80px;font-weight:bold;position:fixed;bottom:0px;left:0px;right:0px;' >Designed and Developed By <a href="http://www.facebook.com/choudharyromit" target='_blank' style='text-decoration:underline;background:white;'>Romit Choudhary</a></p>
 				</tr>
 			</table>
 

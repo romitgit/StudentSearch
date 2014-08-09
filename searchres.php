@@ -65,6 +65,16 @@
 		 		document.getElementById("sname").focus();
 		 	}
  </script>	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43364785-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </head>
 <?php
 
@@ -127,9 +137,9 @@
 						continue;
 					}
 				}
-				elseif($city != "")
+				if($city != "")
 				{
-					if(strtolower($city) == strtolower(@$singleDataArr[12]))
+					if(strtolower($city) == strtolower(trim(@$singleDataArr[12])))
 					{
 						if($track != 1)
 						{
@@ -146,7 +156,7 @@
 						continue;
 					}	
 				}
-				elseif($dept != "")
+				if($dept != "")
 				{
 					if($dept == strtolower(@$singleDataArr[5]))
 					{
@@ -259,11 +269,9 @@
 						}
 						continue;
 					}
-				}
-			}
+				}			}
 		}
-	}
-
+	}		
 			$num = count($results);	
 	
 			echo "<div id='serres' style='' align='center' >";
@@ -280,7 +288,7 @@
 					else if($num!=0 && $num !=1)
 					{
 					
-						echo "<div align='center' style='margin-top:200px;margin-left:50px;margin-right:50px;'>
+						echo "<div align='center' style='margin-top:200px;margin-left:50px;margin-right:50px;margin-bottom:50px;'>
                   				<h3 style='margin-top:20px;padding:10px;background:#003399;opacity:0.6;color:white;font-size:28px;'>$num Results</h3>";
 
 						foreach($results as $result)
@@ -299,7 +307,7 @@
 										"<div id='singleimage'  style='display:inline-block;margin:10px;margin-bottom:0px;background:white;box-shadow:0px 0px 2px grey;border:5px solid white;'>
 											<a href='profile.php?view=$row[0]'  title='$title' style='color:black;text-decoration:none;'>
 												$url
-												<div style='margin:0px auto;text-align:center;background:white;font-size:13px;font-weight:bold;'>$row[1]<br>$batch&nbsp;&nbsp;$row[5]</div>
+												<div style='margin:0px auto;text-align:center;background:white;font-size:13px;font-weight:bold;'>$row[2] $row[3]<br>$batch&nbsp;&nbsp;$row[5]</div>
 											</a>
 										 </div>";
 						}
@@ -307,7 +315,8 @@
 						echo "</div><br>";
 					}
 					elseif($num == 0)
-					{
-						echo "<p style='margin-top:200px;'>No results found for this query.</p>";
+					{	
+
+						echo "<p style='margin-top:200px;'>No results found for this query.</p>";echo $num;
 					}
 ?>

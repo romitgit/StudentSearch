@@ -7,7 +7,6 @@
 
 <html>
    <head>
-      <title>Faceit</title>
       <style>
          *{
             margin:0px;
@@ -113,6 +112,7 @@
       $type = $_GET['type'];
       $value = urldecode($_GET['value']);
 
+
       if ($type!="" and $value!="") 
       {
          $bigData = file_get_contents("data.txt");   
@@ -123,30 +123,30 @@
          {
             $singledataArr = explode("***", $singleData);
 
-            if($type === "hometown")
+            if($type == "hometown")
             {  
-               if(strtolower($value) === @strtolower(@$singledataArr[12]))
+               if(strtolower($value) == strtolower(trim(@$singledataArr[12])))
                {
                   array_push($results, $singledataArr);
                }
             }
-            elseif($type === "hall")
+            elseif($type == "hall")
             {
-               if(strtolower($value) === strtolower(substr(@$singledataArr[6], 0, strpos(@$singledataArr[6], ","))))
+               if(strtolower($value) == strtolower(substr(@$singledataArr[6], 0, strpos(@$singledataArr[6], ","))))
                {
                   array_push($results, $singledataArr);
                }
             }
-            elseif($type === "department")
+            elseif($type == "department")
             {
-               if(strtolower($value) === strtolower(@$singledataArr[5]))
+               if(strtolower($value) == strtolower(@$singledataArr[5]))
                {
                   array_push($results, $singledataArr);
                }
             }
-            elseif($type === "batch")
+            elseif($type == "batch")
             {
-               if(strtolower($value) === "y".strtolower(substr(@$singledataArr[0], 0, 2)))
+               if(strtolower($value) == "y".strtolower(substr(@$singledataArr[0], 0, 2)))
                {
                   array_push($results, $singledataArr);
                }
@@ -158,10 +158,9 @@
          if ($num==0) 
          {
 
-            echo "<div align='center' style='margin-top:30px;'>
-                     <div class='note' style='display:inline-block;position:relative;top:100px;'>
-                        <p style='font:bold 24px arial;'>PLEASE<br>Y U TRY TO PLAY WITH THE URL</p><br>
-                        <p>Click <a href='index.php'>here</a> to go to the home page.</p>
+            echo "<div align='center' style='margin-top:230px;'>
+                     	<p>It seems like you have entered a wrong url.</p>
+                        <p>Click <a href='index.php'>here</a> to go to the home page</p>
                      </div>
                   </div>
                      ";

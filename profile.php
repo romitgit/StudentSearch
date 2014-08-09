@@ -4,11 +4,11 @@
 	//require 'ip.php';
 	include "connect.inc.php";
 
+	
 ?>
 
 <html>
 	<head>
-		<title>Faceit</title>
 		<link rel='stylesheet' type='text/css' href='main.css'>
 		<style>
 			.mybutton {
@@ -68,6 +68,15 @@
 				margin-top:3px;
 			}	
 		</style>
+	<script>
+
+		<?php 
+
+			include 'ajax.js';
+
+		?>
+
+</script>
 	</head>
 	<body>
 		<!-- headergoeshere -->
@@ -77,6 +86,12 @@
 			<?php   
 				
 				include 'header.php';
+			?>
+			
+			<div id='info' align="center" style='margin-top:162px;position:absolute;z-index:1;background:#EEEEEE;box-shadow:0px 0px 5px black;min-width:100%;'></div>
+
+	<?php
+
 				
 				echo "<div id='studimages'  style='margin-top:170px;margin-left:80px;margin-right:80px;'>";			
 							
@@ -111,6 +126,7 @@
 							$hall = substr($row[6], 0, strpos($row[6], ","));
 								
 							$url = getImageUrl($row[0]);
+							$city = trim($row[12]);
 				
 							if(!$row[8])
 							{
@@ -139,18 +155,18 @@
 
 							$hometown = $row[10];
 				
-							echo "<table align=center style='margin:10px auto;' cellspacing='5'>		
+							echo "<table align=center style='margin:10px auto;margin-bottom:0px;' cellspacing='1'>		
 									<tr align=center>";
 							
 							echo "<a href='http://home.iitk.ac.in/~$row[7]' target='_blank'>
-											<td id='imagebox' style='background:white;box-shadow:0px 0px 1px grey ;min-width:150px;margin-left:5px;width:260px;'>
+											<td id='imagebox' style='background:white;box-shadow:0px 0px 1px grey ;min-width:150px;margin-left:5px;'>
 												$url
-											<p id='imagelayer'>$row[1]&nbsp;&nbsp;$row[0]</p>
+											<p id='imagelayer'>$row[1]<br>$row[0]</p>
 							
 											</td></a>";
 							
 							
-								echo"<td style='padding:20px;padding-left:20px;width:400px;min-width:300px;text-align:left;background:white;box-shadow:0px 0px 1px grey ;margin:5px;'>";
+								echo"<td style='padding:20px;padding-left:20px;width:400px;min-width:300px;text-align:left;background:white;box-shadow:0px 0px 1px grey ;margin:5px;font-family:Lato;'>";
 									
 								$batch = "y".substr($row[0], 0, 2);
 							
@@ -175,7 +191,7 @@
 										<li>$row[4]</li><hr>
 										<li>$row[5]</li><hr>
 										<li>$row[6]</li><hr>
-										<li>$row[12]</li><hr>
+										<li>$city</li><hr>
 										<li><a href='mailto:$row[7]@iitk.ac.in' style='font-size:17px;text-decoration:none;'>$row[7]@iitk.ac.in</li></a><hr>
 										<li>$row[8]</li><hr>
 									  </div>";
@@ -193,7 +209,7 @@
 								
 								echo "<ul align='left' style='margin-left:20px;'>
 										<span style='font:normal 18px arial;'>Other related searches</span><br><hr><br>
-										<li style='display:inline-block;'><a class='mybutton' href='groups.php?type=hometown&value=$row[12]' style='' ><b >$row[12]</b></a></li>
+										<li style='display:inline-block;'><a class='mybutton' href='groups.php?type=hometown&value=$city' style='' ><b >$city</b></a></li>
 										<li style='display:inline-block;'><a class='mybutton' href='groups.php?type=department&value=$row[5]' style='' ><b >$row[5]</b></a></li>
 										<li style='display:inline-block;'><a class='mybutton' href='groups.php?type=hall&value=$hall' style='' ><b >$hall</b></a></li>
 									  	<li style='display:inline-block;'><a class='mybutton' href='groups.php?type=batch&value=$batch' style='' ><b >$batch</b></a></li>
@@ -225,13 +241,13 @@
 						
 								echo"</table>";
 			
-			echo "	<br><br><br><h3 style='font:bold 24px franklin gothic book;font-variant:small-caps;'>Other related searches</h3><br><hr><br>";
+			echo "	<br><h3 style='font:bold 24px franklin gothic book;font-variant:small-caps;'>Other related searches</h3><br><hr><br>";
 			
 			
 					
 			if($row[10])
 			{	
-				echo 	"<div id='othersearches' style='display:inline-block;margin:7px;'>	<a href='groups.php?type=hometown&value=$row[12]' style='' >Find other people from <b style='font:bold 18px arial;'>$row[12]</b></a></div>";
+				echo 	"<div id='othersearches' style='display:inline-block;margin:7px;'>	<a href='groups.php?type=hometown&value=$city' style='' >Find other people from <b style='font:bold 18px arial;'>$city</b></a></div>";
 			}
 			if($row[3])
 			{	
@@ -253,4 +269,14 @@
 			
 		</div>			
 	</body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43364785-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </html>
