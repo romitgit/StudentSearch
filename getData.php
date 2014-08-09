@@ -6,7 +6,7 @@
 	
 	ini_set('max_execution_time', 250);
 
-	for ($i = 12001; $i < 12998; $i++) 
+	for ($i = 11001; $i < 11999; $i++) 
 	{ 
 
 		$content = file_get_contents("http://oa.cc.iitk.ac.in:8181/Oa/Jsp/OAServices/IITk_SrchRes.jsp?typ=stud&numtxt=".$i."&sbm=Y");
@@ -136,7 +136,7 @@
 
 		echo $singleData."<br>";
 
-//		file_put_contents("data.txt", $singleData, FILE_APPEND | LOCK_EX);
+		file_put_contents("data.txt", $singleData, FILE_APPEND | LOCK_EX);
 	}	
 ?>
 
